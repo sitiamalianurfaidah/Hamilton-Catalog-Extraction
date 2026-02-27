@@ -1,0 +1,2882 @@
+{
+  "total_items": 292,
+  "stats": {
+    "total_items": 292,
+    "items_with_price": 256,
+    "coverage_percent": 87.67123287671232
+  },
+  "failed_pages": [
+    21,
+    34,
+    35
+  ],
+  "items": [
+    {
+      "nama_barang": "Sirtu",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {
+        "volume": "8,2 m3"
+      },
+      "merk_barang": null,
+      "harga_barang": 2624000.0,
+      "_page": 3
+    },
+    {
+      "nama_barang": "Bahan Alumunium",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 88300901.0,
+      "_page": 3
+    },
+    {
+      "nama_barang": "Skrup Hitam 1\", Ember kcl+bsr, Cangkul+g",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 4010000.0,
+      "_page": 3
+    },
+    {
+      "nama_barang": "Bata Ringan",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {
+        "volume": "18 m3"
+      },
+      "merk_barang": null,
+      "harga_barang": 5400000.0,
+      "_page": 3
+    },
+    {
+      "nama_barang": "ReadyMix FC20",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {
+        "volume": "21m3"
+      },
+      "merk_barang": null,
+      "harga_barang": 32162162.0,
+      "_page": 3
+    },
+    {
+      "nama_barang": "Sealent Sosis, Tembakan Sealent, Kuas 3",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 1650000.0,
+      "_page": 3
+    },
+    {
+      "nama_barang": "Bata Ringan uk 10cm",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {
+        "size": "10cm",
+        "volume": "40m3"
+      },
+      "merk_barang": null,
+      "harga_barang": 13963964.0,
+      "_page": 3
+    },
+    {
+      "nama_barang": "Obat2an dan Vitamin Pekerja",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 830000.0,
+      "_page": 3
+    },
+    {
+      "nama_barang": "Triplek Alba 12mm",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {
+        "tebal": "12mm",
+        "jumlah": "200 lbr"
+      },
+      "merk_barang": null,
+      "harga_barang": 26600000.0,
+      "_page": 3
+    },
+    {
+      "nama_barang": "Batu Sirtu",
+      "jenis_tipe_barang": "Material Proyek",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": "None",
+      "harga_barang": 18042500.0,
+      "_page": 1
+    },
+    {
+      "nama_barang": "Material ME dan Dinding",
+      "jenis_tipe_barang": "Material Proyek",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": "None",
+      "harga_barang": 1890000.0,
+      "_page": 1
+    },
+    {
+      "nama_barang": "Peralatan Kerja/Blencong",
+      "jenis_tipe_barang": "Material Proyek",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": "None",
+      "harga_barang": 165000.0,
+      "_page": 1
+    },
+    {
+      "nama_barang": "ReadyMix",
+      "jenis_tipe_barang": "Material Proyek",
+      "spesifikasi_detail_barang": {
+        "volume": "4 m3"
+      },
+      "merk_barang": "None",
+      "harga_barang": 6800000.0,
+      "_page": 1
+    },
+    {
+      "nama_barang": "Triplek dll",
+      "jenis_tipe_barang": "Material Proyek",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": "None",
+      "harga_barang": 6060400.0,
+      "_page": 1
+    },
+    {
+      "nama_barang": "Atap Bitumen & Underlayer",
+      "jenis_tipe_barang": "Material Proyek",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": "None",
+      "harga_barang": 112487826.0,
+      "_page": 1
+    },
+    {
+      "nama_barang": "Bata Ringan",
+      "jenis_tipe_barang": "Material Proyek",
+      "spesifikasi_detail_barang": {
+        "size": "10cm",
+        "volume": "50m3"
+      },
+      "merk_barang": "None",
+      "harga_barang": 13963964.0,
+      "_page": 1
+    },
+    {
+      "nama_barang": "SAB",
+      "jenis_tipe_barang": "Material Proyek",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": "None",
+      "harga_barang": 202263063.0,
+      "_page": 1
+    },
+    {
+      "nama_barang": "Liuk IL",
+      "jenis_tipe_barang": "Material Proyek",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": "None",
+      "harga_barang": 1475189.0,
+      "_page": 1
+    },
+    {
+      "nama_barang": "Kabel Supreme NYM",
+      "jenis_tipe_barang": "Kabel Listrik",
+      "spesifikasi_detail_barang": {
+        "size": "2x1,5mm, 3x1,5mm"
+      },
+      "merk_barang": "Supreme",
+      "harga_barang": 5575000.0,
+      "_page": 2
+    },
+    {
+      "nama_barang": "Gerinda Makita",
+      "jenis_tipe_barang": "Alat Proyek",
+      "spesifikasi_detail_barang": {
+        "jumlah": "3 unit"
+      },
+      "merk_barang": "Makita",
+      "harga_barang": 1260000.0,
+      "_page": 2
+    },
+    {
+      "nama_barang": "Angkong Artco",
+      "jenis_tipe_barang": "Alat Proyek",
+      "spesifikasi_detail_barang": {
+        "jumlah": "5 unit"
+      },
+      "merk_barang": "Artco",
+      "harga_barang": 2975000.0,
+      "_page": 2
+    },
+    {
+      "nama_barang": "Elbow Rucika",
+      "jenis_tipe_barang": "Material Pipa",
+      "spesifikasi_detail_barang": {
+        "size": "4\" (5pcs), 1,5\" (1pcs)",
+        "material": "PVC"
+      },
+      "merk_barang": "Rucika",
+      "harga_barang": 260000.0,
+      "_page": 2
+    },
+    {
+      "nama_barang": "ReadyMix FC20",
+      "jenis_tipe_barang": "Beton Ready Mix",
+      "spesifikasi_detail_barang": {
+        "volume": "25m3"
+      },
+      "merk_barang": "None",
+      "harga_barang": 38288288.0,
+      "_page": 2
+    },
+    {
+      "nama_barang": "Kanal Taso",
+      "jenis_tipe_barang": "Material Bangunan",
+      "spesifikasi_detail_barang": {
+        "size": "75,75",
+        "jumlah": "300btg"
+      },
+      "merk_barang": "None",
+      "harga_barang": 43896396.0,
+      "_page": 2
+    },
+    {
+      "nama_barang": "Baut Canal, Paku Beton, Pasak Besi, dan Baut Siku",
+      "jenis_tipe_barang": "Perlengkapan Bangunan",
+      "spesifikasi_detail_barang": {
+        "jumlah": "Baut Canal 5rb pcs, Paku Beton 2\" 5lsn, Pasak Besi 5rb pcs, Baut Siku 5rb pcs"
+      },
+      "merk_barang": "None",
+      "harga_barang": 2700000.0,
+      "_page": 2
+    },
+    {
+      "nama_barang": "Pasir",
+      "jenis_tipe_barang": "Material Bangunan",
+      "spesifikasi_detail_barang": {
+        "volume": "40,3 m3"
+      },
+      "merk_barang": "None",
+      "harga_barang": 4836000.0,
+      "_page": 2
+    },
+    {
+      "nama_barang": "Semen Merah Putih",
+      "jenis_tipe_barang": "Semen",
+      "spesifikasi_detail_barang": {
+        "jumlah": "800 zak"
+      },
+      "merk_barang": "Merah Putih",
+      "harga_barang": 37000.0,
+      "_page": 6
+    },
+    {
+      "nama_barang": "Kabel Ties 30cm, Sika Grouting 215, Cat L",
+      "jenis_tipe_barang": "Material Proyek",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": null,
+      "_page": 6
+    },
+    {
+      "nama_barang": "Ember Besar, Kran Galon, Shado",
+      "jenis_tipe_barang": "Material Proyek",
+      "spesifikasi_detail_barang": {
+        "jumlah": "Ember Besar 2bh, Kran Galon 2bh & Shado"
+      },
+      "merk_barang": null,
+      "harga_barang": 201000.0,
+      "_page": 6
+    },
+    {
+      "nama_barang": "Semen MU 200, Tali Tambang",
+      "jenis_tipe_barang": "Material Proyek",
+      "spesifikasi_detail_barang": {
+        "jumlah": "Semen MU 200 50sak & Tali Tambang 8m"
+      },
+      "merk_barang": "MU 200",
+      "harga_barang": 9825000.0,
+      "_page": 6
+    },
+    {
+      "nama_barang": "Mata Bor Beton 6mm",
+      "jenis_tipe_barang": "Alat Pertukangan",
+      "spesifikasi_detail_barang": {
+        "size": "6mm"
+      },
+      "merk_barang": "None",
+      "harga_barang": null,
+      "_page": 4
+    },
+    {
+      "nama_barang": "Dinabolt 10x50",
+      "jenis_tipe_barang": "Alat Pertukangan",
+      "spesifikasi_detail_barang": {
+        "size": "10x50"
+      },
+      "merk_barang": "None",
+      "harga_barang": null,
+      "_page": 4
+    },
+    {
+      "nama_barang": "Gypsum 9mm WR Aplus",
+      "jenis_tipe_barang": "Material Bangunan",
+      "spesifikasi_detail_barang": {
+        "size": "9mm",
+        "jumlah": "200lbr"
+      },
+      "merk_barang": "Aplus",
+      "harga_barang": 66600.0,
+      "_page": 4
+    },
+    {
+      "nama_barang": "Bending Pipa Listrik",
+      "jenis_tipe_barang": "Alat Instalasi",
+      "spesifikasi_detail_barang": {
+        "jumlah": "1pcs"
+      },
+      "merk_barang": "None",
+      "harga_barang": 50000.0,
+      "_page": 4
+    },
+    {
+      "nama_barang": "Sok Pipa",
+      "jenis_tipe_barang": "Alat Instalasi",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": "None",
+      "harga_barang": null,
+      "_page": 4
+    },
+    {
+      "nama_barang": "Bata Ringan",
+      "jenis_tipe_barang": "Material Bangunan",
+      "spesifikasi_detail_barang": {
+        "size": "10cm",
+        "volume": "40m3"
+      },
+      "merk_barang": "None",
+      "harga_barang": null,
+      "_page": 4
+    },
+    {
+      "nama_barang": "Besi Ulir 10 sni",
+      "jenis_tipe_barang": "Material Bangunan",
+      "spesifikasi_detail_barang": {
+        "size": "10",
+        "standar": "sni",
+        "jumlah": "501btg"
+      },
+      "merk_barang": "None",
+      "harga_barang": 69580.0,
+      "_page": 4
+    },
+    {
+      "nama_barang": "Large Radius Tee D 3x2 Rck",
+      "jenis_tipe_barang": "Pipa dan Fitting",
+      "spesifikasi_detail_barang": {
+        "size": "D 3x2",
+        "jumlah": "10pcs"
+      },
+      "merk_barang": "None",
+      "harga_barang": null,
+      "_page": 4
+    },
+    {
+      "nama_barang": "Reducer D 3x2 Rck",
+      "jenis_tipe_barang": "Pipa dan Fitting",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": "None",
+      "harga_barang": null,
+      "_page": 4
+    },
+    {
+      "nama_barang": "Semen Perekat Keramik AM",
+      "jenis_tipe_barang": "Material Bangunan",
+      "spesifikasi_detail_barang": {
+        "jumlah": "100zak"
+      },
+      "merk_barang": "AM",
+      "harga_barang": 100000.0,
+      "_page": 4
+    },
+    {
+      "nama_barang": "Gypsum 9mm",
+      "jenis_tipe_barang": "Material Bangunan",
+      "spesifikasi_detail_barang": {
+        "size": "9mm"
+      },
+      "merk_barang": "None",
+      "harga_barang": null,
+      "_page": 4
+    },
+    {
+      "nama_barang": "Listplank Aplus",
+      "jenis_tipe_barang": "Material Bangunan",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": "Aplus",
+      "harga_barang": null,
+      "_page": 4
+    },
+    {
+      "nama_barang": "Jidar 6m",
+      "jenis_tipe_barang": "Material Proyek",
+      "spesifikasi_detail_barang": {
+        "size": "6m",
+        "jumlah": "3btg"
+      },
+      "merk_barang": "None",
+      "harga_barang": null,
+      "_page": 8
+    },
+    {
+      "nama_barang": "Longdrat 8mm",
+      "jenis_tipe_barang": "Material Proyek",
+      "spesifikasi_detail_barang": {
+        "size": "8mm",
+        "jumlah": "50bh"
+      },
+      "merk_barang": "None",
+      "harga_barang": null,
+      "_page": 8
+    },
+    {
+      "nama_barang": "Mur Longdrat 8mm",
+      "jenis_tipe_barang": "Material Proyek",
+      "spesifikasi_detail_barang": {
+        "size": "8mm",
+        "weight": "1.5kg"
+      },
+      "merk_barang": "None",
+      "harga_barang": 132500.0,
+      "_page": 8
+    },
+    {
+      "nama_barang": "Pasir",
+      "jenis_tipe_barang": "Material Proyek",
+      "spesifikasi_detail_barang": {
+        "volume": "10,1 m3"
+      },
+      "merk_barang": "None",
+      "harga_barang": 1212000.0,
+      "_page": 8
+    },
+    {
+      "nama_barang": "Sock Pipa 20mm Putih Boss, Tdos 20mm",
+      "jenis_tipe_barang": "Pipa",
+      "spesifikasi_detail_barang": {
+        "size": "20mm",
+        "color": "Putih"
+      },
+      "merk_barang": "Boss, Tdos",
+      "harga_barang": 925000.0,
+      "_page": 5
+    },
+    {
+      "nama_barang": "Jidar 6m 2x4, Kawat Licin 14, Fiser S6+Ba",
+      "jenis_tipe_barang": "Material Bangunan",
+      "spesifikasi_detail_barang": {
+        "size": "6m 2x4, 14",
+        "tipe": "Kawat Licin, Fiser S6+Ba"
+      },
+      "merk_barang": "None",
+      "harga_barang": 2595000.0,
+      "_page": 5
+    },
+    {
+      "nama_barang": "Semen Mill 200zak@36rb",
+      "jenis_tipe_barang": "Semen",
+      "spesifikasi_detail_barang": {
+        "jumlah": "200 zak",
+        "harga_per_zak": "36rb"
+      },
+      "merk_barang": "Mill",
+      "harga_barang": 7200000.0,
+      "_page": 5
+    },
+    {
+      "nama_barang": "Reduser AW 2x1.5inch, Skun Genset, Kam",
+      "jenis_tipe_barang": "Perlengkapan Mekanikal",
+      "spesifikasi_detail_barang": {
+        "size": "2x1.5 inch",
+        "tipe": "Reduser, Skun Genset, Kam"
+      },
+      "merk_barang": "None",
+      "harga_barang": 174000.0,
+      "_page": 5
+    },
+    {
+      "nama_barang": "MU 301 21sak@120rb & MU 420 30sak@",
+      "jenis_tipe_barang": "Material Bangunan",
+      "spesifikasi_detail_barang": {
+        "jumlah": "21 sak, 30 sak",
+        "harga_per_sak": "120rb, tidak ditentukan"
+      },
+      "merk_barang": "MU",
+      "harga_barang": 7120000.0,
+      "_page": 5
+    },
+    {
+      "nama_barang": "Pipa AW 1inch 2btg & Elbow + Acc Tim Pl",
+      "jenis_tipe_barang": "Pipa dan Aksesoris",
+      "spesifikasi_detail_barang": {
+        "size": "1 inch",
+        "jumlah": "2 btg",
+        "tipe": "Elbow + Acc"
+      },
+      "merk_barang": "AW",
+      "harga_barang": 600486.0,
+      "_page": 5
+    },
+    {
+      "nama_barang": "Kanal Taso 75.75 50btg@117rb",
+      "jenis_tipe_barang": "Material Bangunan",
+      "spesifikasi_detail_barang": {
+        "size": "75.75",
+        "jumlah": "50 btg",
+        "harga_per_btg": "117rb"
+      },
+      "merk_barang": "None",
+      "harga_barang": 5270270.0,
+      "_page": 5
+    },
+    {
+      "nama_barang": "Pipa Conduit 20mm Putih Boss 400btg@1",
+      "jenis_tipe_barang": "Pipa",
+      "spesifikasi_detail_barang": {
+        "size": "20mm",
+        "color": "Putih",
+        "jumlah": "400 btg"
+      },
+      "merk_barang": "Boss",
+      "harga_barang": 4400000.0,
+      "_page": 5
+    },
+    {
+      "nama_barang": "Bata Ringan uk 10cm 40m3 dan 7,5",
+      "jenis_tipe_barang": "Material Bangunan",
+      "spesifikasi_detail_barang": {
+        "size": "10cm",
+        "volume": "40m3, 7.5m3"
+      },
+      "merk_barang": "None",
+      "harga_barang": 5400000.0,
+      "_page": 5
+    },
+    {
+      "nama_barang": "MU 200 50sak@94.668",
+      "jenis_tipe_barang": "Material Bangunan",
+      "spesifikasi_detail_barang": {
+        "jumlah": "50 sak",
+        "harga_per_sak": "94.668"
+      },
+      "merk_barang": "MU",
+      "harga_barang": 4264324.0,
+      "_page": 5
+    },
+    {
+      "nama_barang": "Roster Lb2",
+      "jenis_tipe_barang": "Material Proyek",
+      "spesifikasi_detail_barang": {
+        "jumlah": "331bh",
+        "harga_satuan": "13rb"
+      },
+      "merk_barang": "None",
+      "harga_barang": 4303000.0,
+      "_page": 12
+    },
+    {
+      "nama_barang": "Bahan PVC Board 9mm",
+      "jenis_tipe_barang": "Material Proyek",
+      "spesifikasi_detail_barang": {
+        "size": "9mm",
+        "jumlah": "1lbr",
+        "harga_satuan": "330rb"
+      },
+      "merk_barang": "None",
+      "harga_barang": 430000.0,
+      "_page": 12
+    },
+    {
+      "nama_barang": "Material Ducting dan Pabrikasi Ducting",
+      "jenis_tipe_barang": "Material Proyek",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": "None",
+      "harga_barang": 25000000.0,
+      "_page": 12
+    },
+    {
+      "nama_barang": "Sapu Ijuk & Sapu Lidi",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 125000.0,
+      "_page": 9
+    },
+    {
+      "nama_barang": "Semen Merah Putih",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {
+        "sak": 300,
+        "harga_per_sak": 58000
+      },
+      "merk_barang": "Merah Putih",
+      "harga_barang": 17400000.0,
+      "_page": 9
+    },
+    {
+      "nama_barang": "Sika",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 3016000.0,
+      "_page": 9
+    },
+    {
+      "nama_barang": "Pasir",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {
+        "volume": "45.10 m3",
+        "harga_per_m3": 120000
+      },
+      "merk_barang": null,
+      "harga_barang": 5412000.0,
+      "_page": 9
+    },
+    {
+      "nama_barang": "Lampu Gantung",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {
+        "set": 1
+      },
+      "merk_barang": null,
+      "harga_barang": 20370000.0,
+      "_page": 9
+    },
+    {
+      "nama_barang": "Sling 6mm",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {
+        "length": "80m"
+      },
+      "merk_barang": null,
+      "harga_barang": 1600000.0,
+      "_page": 9
+    },
+    {
+      "nama_barang": "Spandrat 3-8inch",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {
+        "pcs": 20
+      },
+      "merk_barang": null,
+      "harga_barang": 1600000.0,
+      "_page": 9
+    },
+    {
+      "nama_barang": "Bata Ringan 7.5cm",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {
+        "volume": "18m3"
+      },
+      "merk_barang": null,
+      "harga_barang": 14801802.0,
+      "_page": 9
+    },
+    {
+      "nama_barang": "Bata Ringan 10cm",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {
+        "volume": "35m3"
+      },
+      "merk_barang": null,
+      "harga_barang": 14801802.0,
+      "_page": 9
+    },
+    {
+      "nama_barang": "Besi Plat Kiloan",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": null,
+      "_page": 10
+    },
+    {
+      "nama_barang": "Pertalite 15lt@10rb",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {
+        "size": "15lt",
+        "harga_per_lt": 10000
+      },
+      "merk_barang": null,
+      "harga_barang": 150000.0,
+      "_page": 10
+    },
+    {
+      "nama_barang": "Pipa Conduit Boss 20mm Putih",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {
+        "size": "20mm",
+        "color": "putih"
+      },
+      "merk_barang": null,
+      "harga_barang": 1000.0,
+      "_page": 10
+    },
+    {
+      "nama_barang": "Almunium – Kusen 4inch, Swing Door, Jendela",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {
+        "size": "4inch"
+      },
+      "merk_barang": null,
+      "harga_barang": 216269695.0,
+      "_page": 10
+    },
+    {
+      "nama_barang": "Semen Perekat Keramik AM",
+      "jenis_tipe_barang": "Semen",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": "AM",
+      "harga_barang": 23470000.0,
+      "_page": 10
+    },
+    {
+      "nama_barang": "Helm Proyek",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": null,
+      "_page": 10
+    },
+    {
+      "nama_barang": "Sirtu",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {
+        "volume": "16.80 m3",
+        "harga_per_m3": 320000
+      },
+      "merk_barang": null,
+      "harga_barang": 5376000.0,
+      "_page": 10
+    },
+    {
+      "nama_barang": "Solar 10L@9rb",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {
+        "size": "10L",
+        "volume": 9000
+      },
+      "merk_barang": null,
+      "harga_barang": 90000.0,
+      "_page": 10
+    },
+    {
+      "nama_barang": "Accesories ACP",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 9170000.0,
+      "_page": 10
+    },
+    {
+      "nama_barang": "Bahan PVC Board",
+      "jenis_tipe_barang": "Material Proyek",
+      "spesifikasi_detail_barang": {
+        "size": "9mm",
+        "jumlah": "5lbr"
+      },
+      "merk_barang": "None",
+      "harga_barang": 1650000.0,
+      "_page": 11
+    },
+    {
+      "nama_barang": "Pasir",
+      "jenis_tipe_barang": "Material Proyek",
+      "spesifikasi_detail_barang": {
+        "volume": "51,10 m3"
+      },
+      "merk_barang": "None",
+      "harga_barang": 6132000.0,
+      "_page": 11
+    },
+    {
+      "nama_barang": "Air Galon",
+      "jenis_tipe_barang": "Material Proyek",
+      "spesifikasi_detail_barang": {
+        "periode": "15-24 Mei"
+      },
+      "merk_barang": "None",
+      "harga_barang": 760000.0,
+      "_page": 11
+    },
+    {
+      "nama_barang": "Cat Besi Nippe 2000 Coach Light",
+      "jenis_tipe_barang": "Material Proyek",
+      "spesifikasi_detail_barang": {
+        "volume": "4klg",
+        "color": "Light"
+      },
+      "merk_barang": "Nippe",
+      "harga_barang": 292000.0,
+      "_page": 11
+    },
+    {
+      "nama_barang": "Cetok Semen, Dop Drat, Lampu 30wt, Sep",
+      "jenis_tipe_barang": "Material Proyek",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": "None",
+      "harga_barang": 4315000.0,
+      "_page": 11
+    },
+    {
+      "nama_barang": "Cat Nippon 5100",
+      "jenis_tipe_barang": "Material Proyek",
+      "spesifikasi_detail_barang": {
+        "volume": "4Pail"
+      },
+      "merk_barang": "Nippon",
+      "harga_barang": 4840000.0,
+      "_page": 11
+    },
+    {
+      "nama_barang": "Kabel Nym 3x2.5mm",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {
+        "size": "3x2.5mm",
+        "jumlah_roll": 10
+      },
+      "merk_barang": null,
+      "harga_barang": 26160000.0,
+      "_page": 7
+    },
+    {
+      "nama_barang": "Kabel Nym 3x1.5mm",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {
+        "size": "3x1.5mm",
+        "jumlah_roll": 8
+      },
+      "merk_barang": null,
+      "harga_barang": 26160000.0,
+      "_page": 7
+    },
+    {
+      "nama_barang": "Triplek 3mm",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {
+        "tebal": "3mm"
+      },
+      "merk_barang": null,
+      "harga_barang": 4288000.0,
+      "_page": 7
+    },
+    {
+      "nama_barang": "Skrap Gagang",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 4288000.0,
+      "_page": 7
+    },
+    {
+      "nama_barang": "Cangkul",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 4288000.0,
+      "_page": 7
+    },
+    {
+      "nama_barang": "Gagang",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 4288000.0,
+      "_page": 7
+    },
+    {
+      "nama_barang": "Batu Split 1-2",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {
+        "size": "1-2",
+        "volume": "8m3"
+      },
+      "merk_barang": null,
+      "harga_barang": 4000000.0,
+      "_page": 7
+    },
+    {
+      "nama_barang": "BBM Solar Industri",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {
+        "volume": 12400
+      },
+      "merk_barang": null,
+      "harga_barang": 22342342.0,
+      "_page": 7
+    },
+    {
+      "nama_barang": "ReadyMix FC20",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {
+        "kuat_tekan": "FC20",
+        "volume": "33 m3"
+      },
+      "merk_barang": null,
+      "harga_barang": 50540541.0,
+      "_page": 7
+    },
+    {
+      "nama_barang": "Paku GRC 2kg",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {
+        "weight": "2kg"
+      },
+      "merk_barang": null,
+      "harga_barang": 235000.0,
+      "_page": 7
+    },
+    {
+      "nama_barang": "Talang Galvalum 3m",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {
+        "length": "3m"
+      },
+      "merk_barang": null,
+      "harga_barang": 235000.0,
+      "_page": 7
+    },
+    {
+      "nama_barang": "Pasir",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {
+        "size": "20,9 m3"
+      },
+      "merk_barang": null,
+      "harga_barang": 2508000.0,
+      "_page": 16
+    },
+    {
+      "nama_barang": "Perekat Keramik AM, Siku 4x4x3x6 & Skru",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 10150000.0,
+      "_page": 16
+    },
+    {
+      "nama_barang": "Elbow 45drajat D 6inch 4pcs & Elbow 90d",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 356270.0,
+      "_page": 16
+    },
+    {
+      "nama_barang": "Skrup Hitam 1inch, Paku Beton 3inch, Mat",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 1679000.0,
+      "_page": 16
+    },
+    {
+      "nama_barang": "Semen MP 200sak@58rb & Skrap Plastik",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {
+        "weight": "200sak",
+        "harga_per_sak": 58000
+      },
+      "merk_barang": null,
+      "harga_barang": 11650000.0,
+      "_page": 16
+    },
+    {
+      "nama_barang": "Hollo Besi 3.5x3.5x1.6 28btg@135rb & 3.5",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {
+        "size": "3.5x3.5x1.6",
+        "jumlah": "28btg"
+      },
+      "merk_barang": null,
+      "harga_barang": 7690000.0,
+      "_page": 16
+    },
+    {
+      "nama_barang": "Roster LB2 331pcs@13rb",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {
+        "jumlah": "331pcs"
+      },
+      "merk_barang": null,
+      "harga_barang": 4303000.0,
+      "_page": 16
+    },
+    {
+      "nama_barang": "Gate Valve Yuta",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 15859459.0,
+      "_page": 14
+    },
+    {
+      "nama_barang": "Pasir",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {
+        "size": "69 m3"
+      },
+      "merk_barang": null,
+      "harga_barang": 8280000.0,
+      "_page": 14
+    },
+    {
+      "nama_barang": "Pemanas Pipa PPR",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {
+        "size": "0.5inch"
+      },
+      "merk_barang": null,
+      "harga_barang": 112300.0,
+      "_page": 14
+    },
+    {
+      "nama_barang": "Flexibel Listrik",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {
+        "color": "Putih",
+        "merk": "Boss",
+        "size": "2Rollx50"
+      },
+      "merk_barang": null,
+      "harga_barang": 14560000.0,
+      "_page": 14
+    },
+    {
+      "nama_barang": "Hollo Besi",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {
+        "size": "4x4x3.2x6",
+        "jumlah": "24btg"
+      },
+      "merk_barang": null,
+      "harga_barang": 14548000.0,
+      "_page": 14
+    },
+    {
+      "nama_barang": "Mata potong Granit",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {
+        "merk": "Toho",
+        "jumlah": "4bh"
+      },
+      "merk_barang": null,
+      "harga_barang": 540000.0,
+      "_page": 14
+    },
+    {
+      "nama_barang": "SDL",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {
+        "size": "2inch",
+        "jumlah": "18pcs"
+      },
+      "merk_barang": null,
+      "harga_barang": 8640000.0,
+      "_page": 14
+    },
+    {
+      "nama_barang": "SDL",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {
+        "size": "1.5inch",
+        "jumlah": "36pcs"
+      },
+      "merk_barang": null,
+      "harga_barang": 8640000.0,
+      "_page": 14
+    },
+    {
+      "nama_barang": "Semen Merah Putih",
+      "jenis_tipe_barang": "Semen",
+      "spesifikasi_detail_barang": {
+        "sak": "800",
+        "harga_per_sak": "37000"
+      },
+      "merk_barang": "Merah Putih",
+      "harga_barang": 26666667.0,
+      "_page": 13
+    },
+    {
+      "nama_barang": "Sound System TOA",
+      "jenis_tipe_barang": "Elektronik",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": "TOA",
+      "harga_barang": 35835000.0,
+      "_page": 13
+    },
+    {
+      "nama_barang": "Pasir",
+      "jenis_tipe_barang": "Material Bangunan",
+      "spesifikasi_detail_barang": {
+        "volume": "27.10 m3",
+        "harga_per_m3": "120000"
+      },
+      "merk_barang": "None",
+      "harga_barang": 3252000.0,
+      "_page": 13
+    },
+    {
+      "nama_barang": "Perekat Keramik MU 420",
+      "jenis_tipe_barang": "Bahan Perekat",
+      "spesifikasi_detail_barang": {
+        "sak": "31",
+        "harga_per_sak": "110000"
+      },
+      "merk_barang": "MU 420",
+      "harga_barang": 3410000.0,
+      "_page": 13
+    },
+    {
+      "nama_barang": "Lisplank Aplus Motif 8x300x4050",
+      "jenis_tipe_barang": "Material Bangunan",
+      "spesifikasi_detail_barang": {
+        "size": "8x300x4050",
+        "jumlah": "65 btg",
+        "harga_per_btg": "59100"
+      },
+      "merk_barang": "Aplus",
+      "harga_barang": 3841441.0,
+      "_page": 13
+    },
+    {
+      "nama_barang": "Flange PPR 2.5inch",
+      "jenis_tipe_barang": "Perlengkapan Pipa",
+      "spesifikasi_detail_barang": {
+        "size": "2.5 inch",
+        "jumlah": "30 pcs",
+        "harga_per_pcs": "200000"
+      },
+      "merk_barang": "None",
+      "harga_barang": 6000000.0,
+      "_page": 13
+    },
+    {
+      "nama_barang": "Perekat Keramik AM",
+      "jenis_tipe_barang": "Bahan Perekat",
+      "spesifikasi_detail_barang": {
+        "sak": "50",
+        "harga_per_sak": "100000"
+      },
+      "merk_barang": "AM",
+      "harga_barang": 5000000.0,
+      "_page": 13
+    },
+    {
+      "nama_barang": "PPR 2inch elbo-kni",
+      "jenis_tipe_barang": "Perlengkapan Pipa",
+      "spesifikasi_detail_barang": {
+        "size": "2 inch",
+        "jumlah": "30 pcs",
+        "harga_per_pcs": "45000"
+      },
+      "merk_barang": "None",
+      "harga_barang": 1350000.0,
+      "_page": 13
+    },
+    {
+      "nama_barang": "Gate Valve Yuta Kuningan 2.5inch, Ball Va",
+      "jenis_tipe_barang": "Perlengkapan Pipa",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": "Yuta",
+      "harga_barang": 205594.0,
+      "_page": 13
+    },
+    {
+      "nama_barang": "Reduser 6x4",
+      "jenis_tipe_barang": "Material Proyek",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": "None",
+      "harga_barang": null,
+      "_page": 15
+    },
+    {
+      "nama_barang": "TY 6x3",
+      "jenis_tipe_barang": "Material Proyek",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": "None",
+      "harga_barang": null,
+      "_page": 15
+    },
+    {
+      "nama_barang": "Reduser 6x3",
+      "jenis_tipe_barang": "Material Proyek",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": "None",
+      "harga_barang": null,
+      "_page": 15
+    },
+    {
+      "nama_barang": "Elbow",
+      "jenis_tipe_barang": "Material Proyek",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": "None",
+      "harga_barang": null,
+      "_page": 15
+    },
+    {
+      "nama_barang": "Pipa Rck 3-4 Aw",
+      "jenis_tipe_barang": "Material Proyek",
+      "spesifikasi_detail_barang": {
+        "size": "10btg"
+      },
+      "merk_barang": "None",
+      "harga_barang": null,
+      "_page": 15
+    },
+    {
+      "nama_barang": "Sealtape Onda",
+      "jenis_tipe_barang": "Material Proyek",
+      "spesifikasi_detail_barang": {
+        "size": "72"
+      },
+      "merk_barang": "None",
+      "harga_barang": null,
+      "_page": 15
+    },
+    {
+      "nama_barang": "Semen 3Roda",
+      "jenis_tipe_barang": "Semen",
+      "spesifikasi_detail_barang": {
+        "weight": "50kg",
+        "tipe": "portland"
+      },
+      "merk_barang": "Tiga Roda",
+      "harga_barang": 65000.0,
+      "_page": 15
+    },
+    {
+      "nama_barang": "Amper Wipro",
+      "jenis_tipe_barang": "Material Proyek",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": "Wipro",
+      "harga_barang": null,
+      "_page": 15
+    },
+    {
+      "nama_barang": "Kunci Pipa 36inch",
+      "jenis_tipe_barang": "Material Proyek",
+      "spesifikasi_detail_barang": {
+        "size": "36inch"
+      },
+      "merk_barang": "None",
+      "harga_barang": null,
+      "_page": 15
+    },
+    {
+      "nama_barang": "Kunci Ring",
+      "jenis_tipe_barang": "Material Proyek",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": "None",
+      "harga_barang": null,
+      "_page": 15
+    },
+    {
+      "nama_barang": "HPL 192",
+      "jenis_tipe_barang": "Material Proyek",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": "None",
+      "harga_barang": null,
+      "_page": 15
+    },
+    {
+      "nama_barang": "Mata Bor Besi",
+      "jenis_tipe_barang": "Material Proyek",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": "None",
+      "harga_barang": null,
+      "_page": 15
+    },
+    {
+      "nama_barang": "Triplek 9mm",
+      "jenis_tipe_barang": "Material Proyek",
+      "spesifikasi_detail_barang": {
+        "size": "9mm"
+      },
+      "merk_barang": "None",
+      "harga_barang": null,
+      "_page": 15
+    },
+    {
+      "nama_barang": "Pasir",
+      "jenis_tipe_barang": "Material Proyek",
+      "spesifikasi_detail_barang": {
+        "volume": "47.3 m3"
+      },
+      "merk_barang": "None",
+      "harga_barang": 120000.0,
+      "_page": 15
+    },
+    {
+      "nama_barang": "Akrilik",
+      "jenis_tipe_barang": "Material Proyek",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": "None",
+      "harga_barang": null,
+      "_page": 15
+    },
+    {
+      "nama_barang": "LRT 2inch",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {
+        "size": "2 inch"
+      },
+      "merk_barang": null,
+      "harga_barang": 1437000.0,
+      "_page": 17
+    },
+    {
+      "nama_barang": "Steker",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {
+        "jumlah": "10 pcs"
+      },
+      "merk_barang": null,
+      "harga_barang": 1437000.0,
+      "_page": 17
+    },
+    {
+      "nama_barang": "Stop Kontak",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 1437000.0,
+      "_page": 17
+    },
+    {
+      "nama_barang": "Bata Ringan",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {
+        "volume": "4.5 m3"
+      },
+      "merk_barang": null,
+      "harga_barang": 4275000.0,
+      "_page": 17
+    },
+    {
+      "nama_barang": "Kubah Masjid",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 20000000.0,
+      "_page": 17
+    },
+    {
+      "nama_barang": "Bata Merah",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {
+        "jumlah": "5000 pcs",
+        "harga_per_pcs": "500"
+      },
+      "merk_barang": null,
+      "harga_barang": 2500000.0,
+      "_page": 17
+    },
+    {
+      "nama_barang": "Kabel NYM dan Flexibel",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 13440000.0,
+      "_page": 17
+    },
+    {
+      "nama_barang": "Cat Reticent White",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 9288290.0,
+      "_page": 17
+    },
+    {
+      "nama_barang": "Buis Beton",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {
+        "jumlah": "18 pcs"
+      },
+      "merk_barang": null,
+      "harga_barang": 8000000.0,
+      "_page": 17
+    },
+    {
+      "nama_barang": "Material Isolasi, Kuas dll",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 890000.0,
+      "_page": 17
+    },
+    {
+      "nama_barang": "Elbow 90 D 1 0.5 inch Rucika",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {
+        "size": "0.5 inch",
+        "jumlah": "50 pcs"
+      },
+      "merk_barang": null,
+      "harga_barang": 193500.0,
+      "_page": 17
+    },
+    {
+      "nama_barang": "Cat Lisplank WB Expresso AC 2135A 1Pa",
+      "jenis_tipe_barang": "Cat",
+      "spesifikasi_detail_barang": {
+        "color": "Expresso",
+        "tipe": "AC 2135A"
+      },
+      "merk_barang": "None",
+      "harga_barang": 3597296.0,
+      "_page": 18
+    },
+    {
+      "nama_barang": "Roster LB2",
+      "jenis_tipe_barang": "Material Proyek",
+      "spesifikasi_detail_barang": {
+        "jumlah": "282pcs",
+        "harga_satuan": "13rb"
+      },
+      "merk_barang": "None",
+      "harga_barang": 3666000.0,
+      "_page": 18
+    },
+    {
+      "nama_barang": "Beton FC 20",
+      "jenis_tipe_barang": "Material Proyek",
+      "spesifikasi_detail_barang": {
+        "volume": "3m3",
+        "harga_satuan": "600rb",
+        "lokasi": "RA 157 Jambi"
+      },
+      "merk_barang": "None",
+      "harga_barang": 1800000.0,
+      "_page": 18
+    },
+    {
+      "nama_barang": "Pasir",
+      "jenis_tipe_barang": "Material Proyek",
+      "spesifikasi_detail_barang": {
+        "volume": "21,20 m3",
+        "harga_satuan": "120rb"
+      },
+      "merk_barang": "None",
+      "harga_barang": 2544000.0,
+      "_page": 18
+    },
+    {
+      "nama_barang": "Cat HPL Brown Interior",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {
+        "color": "Brown"
+      },
+      "merk_barang": null,
+      "harga_barang": 160000.0,
+      "_page": 19
+    },
+    {
+      "nama_barang": "Baut DS3B",
+      "jenis_tipe_barang": "Baut",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": null,
+      "_page": 19
+    },
+    {
+      "nama_barang": "Cat Lisplank WB Expresso AC 2135A",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {
+        "color": "Expresso",
+        "size": "2pai"
+      },
+      "merk_barang": null,
+      "harga_barang": 5453153.0,
+      "_page": 19
+    },
+    {
+      "nama_barang": "Kaca Polos 5mm",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {
+        "size": "122x183",
+        "jumlah": "40lbr"
+      },
+      "merk_barang": null,
+      "harga_barang": 148000.0,
+      "_page": 19
+    },
+    {
+      "nama_barang": "Mata Ptg Granit Toho",
+      "jenis_tipe_barang": "Mata Ptg",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": null,
+      "_page": 19
+    },
+    {
+      "nama_barang": "Elbow 3-4",
+      "jenis_tipe_barang": "Elbow",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": null,
+      "_page": 19
+    },
+    {
+      "nama_barang": "Fiser M8",
+      "jenis_tipe_barang": "Fiser",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": null,
+      "_page": 19
+    },
+    {
+      "nama_barang": "Pasir",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {
+        "volume": "15,90 m3"
+      },
+      "merk_barang": null,
+      "harga_barang": 1908000.0,
+      "_page": 19
+    },
+    {
+      "nama_barang": "Beton FC 20",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {
+        "volume": "3m3"
+      },
+      "merk_barang": null,
+      "harga_barang": 1800000.0,
+      "_page": 19
+    },
+    {
+      "nama_barang": "Cat Plafon Nippon Briliant White 1001 Spontex",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {
+        "color": "White"
+      },
+      "merk_barang": "Nippon",
+      "harga_barang": 7657658.0,
+      "_page": 19
+    },
+    {
+      "nama_barang": "Keramik 60x60 Helsinki Bone",
+      "jenis_tipe_barang": "Keramik Lantai",
+      "spesifikasi_detail_barang": {
+        "size": "60x60",
+        "color": "Bone",
+        "material": "porselen"
+      },
+      "merk_barang": "None",
+      "harga_barang": 3360000.0,
+      "_page": 20
+    },
+    {
+      "nama_barang": "Bata Ringan 10cm",
+      "jenis_tipe_barang": "Bata Ringan",
+      "spesifikasi_detail_barang": {
+        "size": "10cm",
+        "volume": "5m3"
+      },
+      "merk_barang": "None",
+      "harga_barang": 4750000.0,
+      "_page": 20
+    },
+    {
+      "nama_barang": "Kawat Las Stainless 1kg",
+      "jenis_tipe_barang": "Kawat Las",
+      "spesifikasi_detail_barang": {
+        "weight": "1kg",
+        "material": "stainless"
+      },
+      "merk_barang": "None",
+      "harga_barang": 135000.0,
+      "_page": 20
+    },
+    {
+      "nama_barang": "Amplas NK 1.000 4lbr & Cat Interior 2ltr",
+      "jenis_tipe_barang": "Material Proyek",
+      "spesifikasi_detail_barang": {
+        "tipe_amplas": "NK 1.000",
+        "jumlah_lbr_amplas": "4",
+        "volume": "2ltr"
+      },
+      "merk_barang": "None",
+      "harga_barang": 206000.0,
+      "_page": 20
+    },
+    {
+      "nama_barang": "Triplek 9mm, HPL Th 192, Almunium List",
+      "jenis_tipe_barang": "Material Proyek",
+      "spesifikasi_detail_barang": {
+        "size": "9mm",
+        "tipe_hpl": "Th 192",
+        "material": "Almunium"
+      },
+      "merk_barang": "None",
+      "harga_barang": 2120000.0,
+      "_page": 20
+    },
+    {
+      "nama_barang": "Tutup Buis Beton D100cm 9bh",
+      "jenis_tipe_barang": "Material Proyek",
+      "spesifikasi_detail_barang": {
+        "diameter": "D100cm",
+        "jumlah": "9bh"
+      },
+      "merk_barang": "None",
+      "harga_barang": 1400000.0,
+      "_page": 20
+    },
+    {
+      "nama_barang": "Cat Dinding Spotless 1083 Reticent White",
+      "jenis_tipe_barang": "Cat Dinding",
+      "spesifikasi_detail_barang": {
+        "color": "1083"
+      },
+      "merk_barang": "Spotless",
+      "harga_barang": 7735000.0,
+      "_page": 20
+    },
+    {
+      "nama_barang": "Pasir 21,10 m3@120rb",
+      "jenis_tipe_barang": "Material Proyek",
+      "spesifikasi_detail_barang": {
+        "volume": "21,10 m3"
+      },
+      "merk_barang": "None",
+      "harga_barang": 2532000.0,
+      "_page": 20
+    },
+    {
+      "nama_barang": "Semen Merah Putih",
+      "jenis_tipe_barang": "Semen",
+      "spesifikasi_detail_barang": {
+        "jumlah_sak": "100",
+        "harga_per_sak": "58000"
+      },
+      "merk_barang": "Merah Putih",
+      "harga_barang": 5800000.0,
+      "_page": 24
+    },
+    {
+      "nama_barang": "Bata Merah",
+      "jenis_tipe_barang": "Bata",
+      "spesifikasi_detail_barang": {
+        "jumlah_buah": "5000",
+        "harga_per_buah": "500"
+      },
+      "merk_barang": "None",
+      "harga_barang": 2500000.0,
+      "_page": 24
+    },
+    {
+      "nama_barang": "Kursi Plastik Biasa",
+      "jenis_tipe_barang": "Kursi",
+      "spesifikasi_detail_barang": {
+        "jumlah_buah": "10",
+        "harga_per_buah": "50000"
+      },
+      "merk_barang": "None",
+      "harga_barang": 500000.0,
+      "_page": 24
+    },
+    {
+      "nama_barang": "Pasir",
+      "jenis_tipe_barang": "Material Bangunan",
+      "spesifikasi_detail_barang": {
+        "volume": "5.30 m3",
+        "harga_per_m3": "120000"
+      },
+      "merk_barang": "None",
+      "harga_barang": 636000.0,
+      "_page": 24
+    },
+    {
+      "nama_barang": "Pipa 4inch AW",
+      "jenis_tipe_barang": "Pipa",
+      "spesifikasi_detail_barang": {
+        "size": "4 inch",
+        "jumlah_batang": "5"
+      },
+      "merk_barang": "None",
+      "harga_barang": null,
+      "_page": 24
+    },
+    {
+      "nama_barang": "Perekat AM",
+      "jenis_tipe_barang": "Perekat",
+      "spesifikasi_detail_barang": {
+        "jumlah_sak": "25"
+      },
+      "merk_barang": "None",
+      "harga_barang": null,
+      "_page": 24
+    },
+    {
+      "nama_barang": "Beton Fc 20",
+      "jenis_tipe_barang": "Beton",
+      "spesifikasi_detail_barang": {
+        "volume": "3m3"
+      },
+      "merk_barang": "None",
+      "harga_barang": 1800000.0,
+      "_page": 25
+    },
+    {
+      "nama_barang": "Cat Nippon Crater Black 2030A Spotless",
+      "jenis_tipe_barang": "Cat",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": "Nippon",
+      "harga_barang": 6731522.0,
+      "_page": 25
+    },
+    {
+      "nama_barang": "Grendel Tanam STA",
+      "jenis_tipe_barang": "Grendel",
+      "spesifikasi_detail_barang": {
+        "size": "8inch & 12inch",
+        "color": "Black"
+      },
+      "merk_barang": "None",
+      "harga_barang": 320000.0,
+      "_page": 25
+    },
+    {
+      "nama_barang": "Keramik Roman Dkrubera Grigio",
+      "jenis_tipe_barang": "Keramik Lantai",
+      "spesifikasi_detail_barang": {
+        "size": "40x40",
+        "jumlah": "50"
+      },
+      "merk_barang": "Roman",
+      "harga_barang": 6428784.0,
+      "_page": 25
+    },
+    {
+      "nama_barang": "Gas Argon",
+      "jenis_tipe_barang": "Gas",
+      "spesifikasi_detail_barang": {
+        "tipe": "Isi Ulang"
+      },
+      "merk_barang": "None",
+      "harga_barang": 400000.0,
+      "_page": 25
+    },
+    {
+      "nama_barang": "Kaca Cermin",
+      "jenis_tipe_barang": "Kaca",
+      "spesifikasi_detail_barang": {
+        "tebal": "5mm",
+        "size": "183x122",
+        "jumlah": "15lbr"
+      },
+      "merk_barang": "None",
+      "harga_barang": 4527027.0,
+      "_page": 25
+    },
+    {
+      "nama_barang": "Kawat Las Argon",
+      "jenis_tipe_barang": "Kawat Las",
+      "spesifikasi_detail_barang": {
+        "diameter": "1.6mm",
+        "weight": "1kg"
+      },
+      "merk_barang": "None",
+      "harga_barang": 72072.0,
+      "_page": 25
+    },
+    {
+      "nama_barang": "Afur Wastafel T6JV6",
+      "jenis_tipe_barang": "Sanitary",
+      "spesifikasi_detail_barang": {
+        "jumlah": "38unit"
+      },
+      "merk_barang": "None",
+      "harga_barang": 8162400.0,
+      "_page": 22
+    },
+    {
+      "nama_barang": "Engsel Koboy 4inch",
+      "jenis_tipe_barang": "Material Proyek",
+      "spesifikasi_detail_barang": {
+        "size": "4inch",
+        "jumlah": "4pcs"
+      },
+      "merk_barang": "None",
+      "harga_barang": 400000.0,
+      "_page": 22
+    },
+    {
+      "nama_barang": "Sealant Pth, Kunci Ring 12, Obeng, Tembak",
+      "jenis_tipe_barang": "Material Proyek",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": "None",
+      "harga_barang": 3592000.0,
+      "_page": 22
+    },
+    {
+      "nama_barang": "Shadowline",
+      "jenis_tipe_barang": "Material Proyek",
+      "spesifikasi_detail_barang": {
+        "jumlah": "50btg"
+      },
+      "merk_barang": "None",
+      "harga_barang": 810811.0,
+      "_page": 22
+    },
+    {
+      "nama_barang": "Pasir",
+      "jenis_tipe_barang": "Material Proyek",
+      "spesifikasi_detail_barang": {
+        "volume": "10.5m3"
+      },
+      "merk_barang": "None",
+      "harga_barang": 1260000.0,
+      "_page": 22
+    },
+    {
+      "nama_barang": "Beton FC20",
+      "jenis_tipe_barang": "Material Proyek",
+      "spesifikasi_detail_barang": {
+        "volume": "3m3"
+      },
+      "merk_barang": "None",
+      "harga_barang": 1800000.0,
+      "_page": 22
+    },
+    {
+      "nama_barang": "AC LG",
+      "jenis_tipe_barang": "Material Proyek",
+      "spesifikasi_detail_barang": {
+        "tipe": "1-2 pk 3unit, 1pk 4unit, 1 1-2pk 1 unit"
+      },
+      "merk_barang": "LG",
+      "harga_barang": 33170000.0,
+      "_page": 22
+    },
+    {
+      "nama_barang": "Lampu High Bay 150watt Philips",
+      "jenis_tipe_barang": "Material Proyek",
+      "spesifikasi_detail_barang": {
+        "daya": "150watt",
+        "jumlah": "22pcs"
+      },
+      "merk_barang": "Philips",
+      "harga_barang": 43207207.0,
+      "_page": 22
+    },
+    {
+      "nama_barang": "Cat HPL Interior",
+      "jenis_tipe_barang": "Material Proyek",
+      "spesifikasi_detail_barang": {
+        "volume": "1.5L"
+      },
+      "merk_barang": "None",
+      "harga_barang": 177000.0,
+      "_page": 22
+    },
+    {
+      "nama_barang": "Kabel Nym 3x4mm Supreme",
+      "jenis_tipe_barang": "Material Proyek",
+      "spesifikasi_detail_barang": {
+        "size": "3x4mm",
+        "jumlah": "5Roll"
+      },
+      "merk_barang": "Supreme",
+      "harga_barang": 12612613.0,
+      "_page": 22
+    },
+    {
+      "nama_barang": "ATK Tim AMT di Lapangan",
+      "jenis_tipe_barang": "Material Proyek",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": "None",
+      "harga_barang": 78000.0,
+      "_page": 22
+    },
+    {
+      "nama_barang": "Filament LED 4watt Kuning Philips",
+      "jenis_tipe_barang": "Material Proyek",
+      "spesifikasi_detail_barang": {
+        "daya": "4watt",
+        "color": "Kuning",
+        "jumlah": "36pcs"
+      },
+      "merk_barang": "Philips",
+      "harga_barang": 792000.0,
+      "_page": 22
+    },
+    {
+      "nama_barang": "Kaca Polos 5mm 90x200",
+      "jenis_tipe_barang": "Kaca",
+      "spesifikasi_detail_barang": {
+        "size": "5mm 90x200",
+        "jumlah": "20lbr"
+      },
+      "merk_barang": "None",
+      "harga_barang": 12422523.0,
+      "_page": 23
+    },
+    {
+      "nama_barang": "Kaca Tempered",
+      "jenis_tipe_barang": "Kaca",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": "None",
+      "harga_barang": 12704956.0,
+      "_page": 23
+    },
+    {
+      "nama_barang": "Amplas 200",
+      "jenis_tipe_barang": "Material Proyek",
+      "spesifikasi_detail_barang": {
+        "length": "5m"
+      },
+      "merk_barang": "None",
+      "harga_barang": 1250000.0,
+      "_page": 23
+    },
+    {
+      "nama_barang": "Sok 6-4",
+      "jenis_tipe_barang": "Material Proyek",
+      "spesifikasi_detail_barang": {
+        "jumlah": "1bh"
+      },
+      "merk_barang": "None",
+      "harga_barang": 1250000.0,
+      "_page": 23
+    },
+    {
+      "nama_barang": "Colokan Lampu",
+      "jenis_tipe_barang": "Material Proyek",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": "None",
+      "harga_barang": 1250000.0,
+      "_page": 23
+    },
+    {
+      "nama_barang": "Grease Trap 16L",
+      "jenis_tipe_barang": "Material Proyek",
+      "spesifikasi_detail_barang": {
+        "size": "30x30x25",
+        "jumlah": "4bh"
+      },
+      "merk_barang": "None",
+      "harga_barang": 2600000.0,
+      "_page": 23
+    },
+    {
+      "nama_barang": "AC LG 1pk",
+      "jenis_tipe_barang": "AC",
+      "spesifikasi_detail_barang": {
+        "jumlah": "2unit"
+      },
+      "merk_barang": "LG",
+      "harga_barang": 9230000.0,
+      "_page": 23
+    },
+    {
+      "nama_barang": "Bracket 1pk",
+      "jenis_tipe_barang": "Material Proyek",
+      "spesifikasi_detail_barang": {
+        "jumlah": "3set"
+      },
+      "merk_barang": "None",
+      "harga_barang": 9230000.0,
+      "_page": 23
+    },
+    {
+      "nama_barang": "Elbow 6inch",
+      "jenis_tipe_barang": "Material Proyek",
+      "spesifikasi_detail_barang": {
+        "jumlah": "1bh"
+      },
+      "merk_barang": "None",
+      "harga_barang": 151000.0,
+      "_page": 23
+    },
+    {
+      "nama_barang": "Mata Gergaji Besi",
+      "jenis_tipe_barang": "Material Proyek",
+      "spesifikasi_detail_barang": {
+        "jumlah": "3bh"
+      },
+      "merk_barang": "None",
+      "harga_barang": 151000.0,
+      "_page": 23
+    },
+    {
+      "nama_barang": "Exhaust Fan CD-BPT-30-MRS",
+      "jenis_tipe_barang": "Exhaust Fan",
+      "spesifikasi_detail_barang": {
+        "jumlah": "13unit"
+      },
+      "merk_barang": "None",
+      "harga_barang": 2670159.0,
+      "_page": 23
+    },
+    {
+      "nama_barang": "Grease Trap 16L",
+      "jenis_tipe_barang": "Material Proyek",
+      "spesifikasi_detail_barang": {
+        "size": "30x30x25",
+        "jumlah": "21 Unit"
+      },
+      "merk_barang": "None",
+      "harga_barang": 13650000.0,
+      "_page": 23
+    },
+    {
+      "nama_barang": "Elbow90 AW 3-4Rck",
+      "jenis_tipe_barang": "Material Proyek",
+      "spesifikasi_detail_barang": {
+        "jumlah": "58pcs"
+      },
+      "merk_barang": "None",
+      "harga_barang": 190216.0,
+      "_page": 23
+    },
+    {
+      "nama_barang": "Elbow90 D 2in",
+      "jenis_tipe_barang": "Material Proyek",
+      "spesifikasi_detail_barang": {
+        "jumlah": "2pcs"
+      },
+      "merk_barang": "None",
+      "harga_barang": 190216.0,
+      "_page": 23
+    },
+    {
+      "nama_barang": "Pipa Conduit 20mm Putih Boss",
+      "jenis_tipe_barang": "Pipa",
+      "spesifikasi_detail_barang": {
+        "size": "20mm",
+        "color": "Putih",
+        "jumlah": "60btg"
+      },
+      "merk_barang": "Boss",
+      "harga_barang": 800000.0,
+      "_page": 23
+    },
+    {
+      "nama_barang": "Elbow90 AW 3-4Rck",
+      "jenis_tipe_barang": "Material Proyek",
+      "spesifikasi_detail_barang": {
+        "jumlah": "36pcs"
+      },
+      "merk_barang": "None",
+      "harga_barang": 309892.0,
+      "_page": 23
+    },
+    {
+      "nama_barang": "Kuas Roll",
+      "jenis_tipe_barang": "Alat Pelukis",
+      "spesifikasi_detail_barang": {
+        "jumlah": "7bh"
+      },
+      "merk_barang": "None",
+      "harga_barang": 626000.0,
+      "_page": 27
+    },
+    {
+      "nama_barang": "Isi Kuas Roll",
+      "jenis_tipe_barang": "Alat Pelukis",
+      "spesifikasi_detail_barang": {
+        "jumlah": "5bh"
+      },
+      "merk_barang": "None",
+      "harga_barang": 626000.0,
+      "_page": 27
+    },
+    {
+      "nama_barang": "Pilox Gold",
+      "jenis_tipe_barang": "Cat Semprot",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": "Pilox",
+      "harga_barang": 626000.0,
+      "_page": 27
+    },
+    {
+      "nama_barang": "Double Nepel",
+      "jenis_tipe_barang": "Fitting Pipa",
+      "spesifikasi_detail_barang": {
+        "size": "0.5inch",
+        "jumlah": "235pcs"
+      },
+      "merk_barang": "None",
+      "harga_barang": 2115000.0,
+      "_page": 27
+    },
+    {
+      "nama_barang": "Cat Nippon Spotless",
+      "jenis_tipe_barang": "Cat Dinding",
+      "spesifikasi_detail_barang": {
+        "color": "1083"
+      },
+      "merk_barang": "Nippon",
+      "harga_barang": 12550779.0,
+      "_page": 27
+    },
+    {
+      "nama_barang": "Lampu Selang Philips LS161 COB LED",
+      "jenis_tipe_barang": "Pencahayaan",
+      "spesifikasi_detail_barang": {
+        "length": "8.5m"
+      },
+      "merk_barang": "Philips",
+      "harga_barang": 6162162.0,
+      "_page": 27
+    },
+    {
+      "nama_barang": "Pipa PPR",
+      "jenis_tipe_barang": "Pipa",
+      "spesifikasi_detail_barang": {
+        "size": "63 2inch",
+        "jumlah": "1btg"
+      },
+      "merk_barang": "None",
+      "harga_barang": 248000.0,
+      "_page": 27
+    },
+    {
+      "nama_barang": "Selang Flexibel",
+      "jenis_tipe_barang": "Selang",
+      "spesifikasi_detail_barang": {
+        "length": "40cm",
+        "jumlah": "34pcs"
+      },
+      "merk_barang": "None",
+      "harga_barang": 850000.0,
+      "_page": 27
+    },
+    {
+      "nama_barang": "Hollo Hitam",
+      "jenis_tipe_barang": "Besi Hollow",
+      "spesifikasi_detail_barang": {
+        "size": "40x60x2.5 (2mm)",
+        "jumlah": "7btg"
+      },
+      "merk_barang": "None",
+      "harga_barang": 11130000.0,
+      "_page": 27
+    },
+    {
+      "nama_barang": "Sealtape Dcota",
+      "jenis_tipe_barang": "Perekat",
+      "spesifikasi_detail_barang": {
+        "jumlah": "60pcs"
+      },
+      "merk_barang": "Dcota",
+      "harga_barang": 294000.0,
+      "_page": 27
+    },
+    {
+      "nama_barang": "Isolasi Listrik",
+      "jenis_tipe_barang": "Perlindungan Kabel",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": "None",
+      "harga_barang": 294000.0,
+      "_page": 27
+    },
+    {
+      "nama_barang": "Kuas Roll Nippon",
+      "jenis_tipe_barang": "Alat Pelapis",
+      "spesifikasi_detail_barang": {
+        "size": "5bh"
+      },
+      "merk_barang": "Nippon",
+      "harga_barang": null,
+      "_page": 30
+    },
+    {
+      "nama_barang": "Kuas 4inch",
+      "jenis_tipe_barang": "Alat Pelapis",
+      "spesifikasi_detail_barang": {
+        "size": "4inch",
+        "jumlah": "5bh"
+      },
+      "merk_barang": "None",
+      "harga_barang": null,
+      "_page": 30
+    },
+    {
+      "nama_barang": "Hollo Plafon Aplus",
+      "jenis_tipe_barang": "Material Bangunan",
+      "spesifikasi_detail_barang": {
+        "size": "38x38 Tbl 0.35mm",
+        "jumlah": "65"
+      },
+      "merk_barang": "Aplus",
+      "harga_barang": 28198198.0,
+      "_page": 30
+    },
+    {
+      "nama_barang": "Kawat Las RD 2.6",
+      "jenis_tipe_barang": "Alat Pengelasan",
+      "spesifikasi_detail_barang": {
+        "size": "5kg"
+      },
+      "merk_barang": "RD",
+      "harga_barang": null,
+      "_page": 30
+    },
+    {
+      "nama_barang": "Colokan",
+      "jenis_tipe_barang": "Perlengkapan Listrik",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": "None",
+      "harga_barang": null,
+      "_page": 30
+    },
+    {
+      "nama_barang": "Prostex, Skrap Plastik, Mata Gergaji & Lem",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 266000.0,
+      "_page": 31
+    },
+    {
+      "nama_barang": "Solar Crane",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {
+        "volume": 6800
+      },
+      "merk_barang": null,
+      "harga_barang": 570000.0,
+      "_page": 31
+    },
+    {
+      "nama_barang": "Stop Kontak Atlantic 2151 Broco",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {
+        "jumlah": 13
+      },
+      "merk_barang": null,
+      "harga_barang": 657000.0,
+      "_page": 31
+    },
+    {
+      "nama_barang": "Cat Nippon Reticent White 1083P Weatherproof",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 1342940.0,
+      "_page": 31
+    },
+    {
+      "nama_barang": "Pipa Conduit, Sock Pipa Conduit, MCB 4A",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 8594000.0,
+      "_page": 31
+    },
+    {
+      "nama_barang": "Kabel Nym 3x2.5mm, 2x2.5mm",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {
+        "roll_3x2_5mm": 12,
+        "roll_2x2_5mm": 12
+      },
+      "merk_barang": null,
+      "harga_barang": 19270270.0,
+      "_page": 31
+    },
+    {
+      "nama_barang": "Lampu TL Philips BN013C LED, DL 262",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {
+        "jumlah": 12
+      },
+      "merk_barang": null,
+      "harga_barang": 18261261.0,
+      "_page": 31
+    },
+    {
+      "nama_barang": "Reduser AW 6x4, Elbow D4, Tee D6, Elbow",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 957973.0,
+      "_page": 31
+    },
+    {
+      "nama_barang": "Beton FC 20",
+      "jenis_tipe_barang": "Beton",
+      "spesifikasi_detail_barang": {
+        "volume": "5m3"
+      },
+      "merk_barang": "None",
+      "harga_barang": 600000.0,
+      "_page": 26
+    },
+    {
+      "nama_barang": "Cat Besi Nippon Bodelac",
+      "jenis_tipe_barang": "Cat",
+      "spesifikasi_detail_barang": {
+        "jumlah": "10klg"
+      },
+      "merk_barang": "Nippon",
+      "harga_barang": 155000.0,
+      "_page": 26
+    },
+    {
+      "nama_barang": "Pasir",
+      "jenis_tipe_barang": "Material Bangunan",
+      "spesifikasi_detail_barang": {
+        "volume": "5.30m3"
+      },
+      "merk_barang": "None",
+      "harga_barang": 120000.0,
+      "_page": 26
+    },
+    {
+      "nama_barang": "Stepnosing",
+      "jenis_tipe_barang": "Material Bangunan",
+      "spesifikasi_detail_barang": {
+        "jumlah": "12kpg"
+      },
+      "merk_barang": "None",
+      "harga_barang": 22000.0,
+      "_page": 26
+    },
+    {
+      "nama_barang": "Papan Gypsum Aplus",
+      "jenis_tipe_barang": "Papan Gypsum",
+      "spesifikasi_detail_barang": {
+        "size": "9mmx1200x2400",
+        "jumlah": "5"
+      },
+      "merk_barang": "Aplus",
+      "harga_barang": 347748.0,
+      "_page": 26
+    },
+    {
+      "nama_barang": "Paku Beton 3inch",
+      "jenis_tipe_barang": "Paku",
+      "spesifikasi_detail_barang": {
+        "size": "3inch",
+        "jumlah": "1kotak"
+      },
+      "merk_barang": "None",
+      "harga_barang": 2009000.0,
+      "_page": 26
+    },
+    {
+      "nama_barang": "Toa ZS-S60CB",
+      "jenis_tipe_barang": "Toa",
+      "spesifikasi_detail_barang": {
+        "jumlah": "2unit"
+      },
+      "merk_barang": "None",
+      "harga_barang": 2365000.0,
+      "_page": 26
+    },
+    {
+      "nama_barang": "BBM Crane",
+      "jenis_tipe_barang": "Bahan Bakar",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": "None",
+      "harga_barang": 462000.0,
+      "_page": 26
+    },
+    {
+      "nama_barang": "Cargo Grease Trap",
+      "jenis_tipe_barang": "Material Bangunan",
+      "spesifikasi_detail_barang": {
+        "jumlah": "3Koli"
+      },
+      "merk_barang": "None",
+      "harga_barang": 40000.0,
+      "_page": 26
+    },
+    {
+      "nama_barang": "Cat Nippon WB 2140 Caramel",
+      "jenis_tipe_barang": "Cat",
+      "spesifikasi_detail_barang": {
+        "jumlah": "1pail"
+      },
+      "merk_barang": "Nippon",
+      "harga_barang": 6291587.0,
+      "_page": 26
+    },
+    {
+      "nama_barang": "MCB IP 32A",
+      "jenis_tipe_barang": "Material Proyek",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": "None",
+      "harga_barang": 210000.0,
+      "_page": 28
+    },
+    {
+      "nama_barang": "Skun Y 4mm",
+      "jenis_tipe_barang": "Material Proyek",
+      "spesifikasi_detail_barang": {
+        "size": "4mm"
+      },
+      "merk_barang": "None",
+      "harga_barang": 210000.0,
+      "_page": 28
+    },
+    {
+      "nama_barang": "Pintu Kaca PT 10",
+      "jenis_tipe_barang": "Material Proyek",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": "None",
+      "harga_barang": 3243243.0,
+      "_page": 28
+    },
+    {
+      "nama_barang": "Pintu Kaca PT 20",
+      "jenis_tipe_barang": "Material Proyek",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": "None",
+      "harga_barang": 3243243.0,
+      "_page": 28
+    },
+    {
+      "nama_barang": "US 10 Matt Black",
+      "jenis_tipe_barang": "Material Proyek",
+      "spesifikasi_detail_barang": {
+        "color": "Matt Black"
+      },
+      "merk_barang": "None",
+      "harga_barang": 3243243.0,
+      "_page": 28
+    },
+    {
+      "nama_barang": "Double Nepel 3.4-0.5inch",
+      "jenis_tipe_barang": "Material Proyek",
+      "spesifikasi_detail_barang": {
+        "size": "3.4-0.5inch"
+      },
+      "merk_barang": "None",
+      "harga_barang": 580000.0,
+      "_page": 28
+    },
+    {
+      "nama_barang": "Sok 3.4-1inch",
+      "jenis_tipe_barang": "Material Proyek",
+      "spesifikasi_detail_barang": {
+        "size": "3.4-1inch"
+      },
+      "merk_barang": "None",
+      "harga_barang": 580000.0,
+      "_page": 28
+    },
+    {
+      "nama_barang": "Cat Bee Brand",
+      "jenis_tipe_barang": "Material Proyek",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": "Bee Brand",
+      "harga_barang": 205000.0,
+      "_page": 28
+    },
+    {
+      "nama_barang": "Rak+Mixer, Stand Mix, PPR Knie 0.5inch",
+      "jenis_tipe_barang": "Material Proyek",
+      "spesifikasi_detail_barang": {
+        "size": "0.5inch"
+      },
+      "merk_barang": "None",
+      "harga_barang": 4991000.0,
+      "_page": 28
+    },
+    {
+      "nama_barang": "Cat Nippon Crater Black 2030 Weather Bo",
+      "jenis_tipe_barang": "Material Proyek",
+      "spesifikasi_detail_barang": {
+        "color": "Black"
+      },
+      "merk_barang": "Nippon",
+      "harga_barang": 1664865.0,
+      "_page": 28
+    },
+    {
+      "nama_barang": "Selang Flexible 20mm putih boss 1glg@2",
+      "jenis_tipe_barang": "Material Proyek",
+      "spesifikasi_detail_barang": {
+        "size": "20mm",
+        "color": "putih"
+      },
+      "merk_barang": "None",
+      "harga_barang": 1295500.0,
+      "_page": 28
+    },
+    {
+      "nama_barang": "Kaca Polos 8mm 91.7x118.5 (2lbr)",
+      "jenis_tipe_barang": "Material Proyek",
+      "spesifikasi_detail_barang": {
+        "size": "8mm 91.7x118.5",
+        "jumlah": "2 lbr"
+      },
+      "merk_barang": "None",
+      "harga_barang": 2310811.0,
+      "_page": 28
+    },
+    {
+      "nama_barang": "Kaca Polos 8mm 72.5x",
+      "jenis_tipe_barang": "Material Proyek",
+      "spesifikasi_detail_barang": {
+        "size": "8mm 72.5x"
+      },
+      "merk_barang": "None",
+      "harga_barang": 2310811.0,
+      "_page": 28
+    },
+    {
+      "nama_barang": "Pipa AW 0.5inch 50btg",
+      "jenis_tipe_barang": "Material Proyek",
+      "spesifikasi_detail_barang": {
+        "size": "0.5inch",
+        "jumlah": "50 btg"
+      },
+      "merk_barang": "None",
+      "harga_barang": 1629324.0,
+      "_page": 28
+    },
+    {
+      "nama_barang": "Faucet Socket 1.5",
+      "jenis_tipe_barang": "Material Proyek",
+      "spesifikasi_detail_barang": {
+        "size": "1.5"
+      },
+      "merk_barang": "None",
+      "harga_barang": 1629324.0,
+      "_page": 28
+    },
+    {
+      "nama_barang": "Mata Potong Gerinda 50pcs",
+      "jenis_tipe_barang": "Material Proyek",
+      "spesifikasi_detail_barang": {
+        "jumlah": "50 pcs"
+      },
+      "merk_barang": "None",
+      "harga_barang": 800000.0,
+      "_page": 28
+    },
+    {
+      "nama_barang": "Lakban Kertas",
+      "jenis_tipe_barang": "Material Proyek",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": "None",
+      "harga_barang": 800000.0,
+      "_page": 28
+    },
+    {
+      "nama_barang": "Kop Kloset RA 157 Jambi",
+      "jenis_tipe_barang": "WC Mam",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": "None",
+      "harga_barang": 67500.0,
+      "_page": 29
+    },
+    {
+      "nama_barang": "Spandek Pasir Hitam",
+      "jenis_tipe_barang": "Material Proyek",
+      "spesifikasi_detail_barang": {
+        "size": "6mx0.30mm",
+        "jumlah": "9lbr"
+      },
+      "merk_barang": "None",
+      "harga_barang": 3704505.0,
+      "_page": 29
+    },
+    {
+      "nama_barang": "Clean Out Stainless",
+      "jenis_tipe_barang": "Material Proyek",
+      "spesifikasi_detail_barang": {
+        "size": "2inch, 3inch",
+        "jumlah": "7bh, 1bh"
+      },
+      "merk_barang": "None",
+      "harga_barang": 5927600.0,
+      "_page": 29
+    },
+    {
+      "nama_barang": "Pipa Stainless",
+      "jenis_tipe_barang": "Material Proyek",
+      "spesifikasi_detail_barang": {
+        "size": "1.5x0.8",
+        "jumlah": "1btg"
+      },
+      "merk_barang": "None",
+      "harga_barang": 175000.0,
+      "_page": 29
+    },
+    {
+      "nama_barang": "Fram",
+      "jenis_tipe_barang": "Material Proyek",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": "None",
+      "harga_barang": 335000.0,
+      "_page": 29
+    },
+    {
+      "nama_barang": "Kuas",
+      "jenis_tipe_barang": "Material Proyek",
+      "spesifikasi_detail_barang": {
+        "size": "4inch, 3inch"
+      },
+      "merk_barang": "None",
+      "harga_barang": 10395000.0,
+      "_page": 29
+    },
+    {
+      "nama_barang": "Skrup Besi",
+      "jenis_tipe_barang": "Material Proyek",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": "None",
+      "harga_barang": 10395000.0,
+      "_page": 29
+    },
+    {
+      "nama_barang": "Prostex",
+      "jenis_tipe_barang": "Material Proyek",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": "None",
+      "harga_barang": 10395000.0,
+      "_page": 29
+    },
+    {
+      "nama_barang": "Hollo",
+      "jenis_tipe_barang": "Material Proyek",
+      "spesifikasi_detail_barang": {
+        "size": "50x100x2.5, 40x80x2.5",
+        "jumlah": "37btg, 10btg"
+      },
+      "merk_barang": "None",
+      "harga_barang": 23100000.0,
+      "_page": 29
+    },
+    {
+      "nama_barang": "Saklar Engkel Panasonic",
+      "jenis_tipe_barang": "Material Proyek",
+      "spesifikasi_detail_barang": {
+        "jumlah": "7set"
+      },
+      "merk_barang": "Panasonic",
+      "harga_barang": 1402000.0,
+      "_page": 29
+    },
+    {
+      "nama_barang": "Mata Saklar",
+      "jenis_tipe_barang": "Material Proyek",
+      "spesifikasi_detail_barang": {
+        "jumlah": "7set"
+      },
+      "merk_barang": "None",
+      "harga_barang": 1402000.0,
+      "_page": 29
+    },
+    {
+      "nama_barang": "Kaca Polos",
+      "jenis_tipe_barang": "Material Proyek",
+      "spesifikasi_detail_barang": {
+        "size": "122x152 tbl 5mm",
+        "jumlah": "6lbr"
+      },
+      "merk_barang": "None",
+      "harga_barang": 2466667.0,
+      "_page": 29
+    },
+    {
+      "nama_barang": "Lem Kaca",
+      "jenis_tipe_barang": "Material Proyek",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": "None",
+      "harga_barang": 2466667.0,
+      "_page": 29
+    },
+    {
+      "nama_barang": "Nok Spandek",
+      "jenis_tipe_barang": "Material Proyek",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": "None",
+      "harga_barang": 12130180.0,
+      "_page": 29
+    },
+    {
+      "nama_barang": "Baut Roofing",
+      "jenis_tipe_barang": "Material Proyek",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": "None",
+      "harga_barang": 12130180.0,
+      "_page": 29
+    },
+    {
+      "nama_barang": "Spandek Pasir Hitam",
+      "jenis_tipe_barang": "Material Proyek",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": "None",
+      "harga_barang": 12130180.0,
+      "_page": 29
+    },
+    {
+      "nama_barang": "Lampu Sorot Masjid",
+      "jenis_tipe_barang": "Peralatan Listrik",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": "None",
+      "harga_barang": 1000000.0,
+      "_page": 36
+    },
+    {
+      "nama_barang": "Name Board Masjid",
+      "jenis_tipe_barang": "Signage",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": "None",
+      "harga_barang": 7362000.0,
+      "_page": 32
+    },
+    {
+      "nama_barang": "Lampu LED Modul 3mata",
+      "jenis_tipe_barang": "Lighting",
+      "spesifikasi_detail_barang": {
+        "jumlah": "150bh"
+      },
+      "merk_barang": "None",
+      "harga_barang": 1445000.0,
+      "_page": 32
+    },
+    {
+      "nama_barang": "Pipa AW 0.5inch",
+      "jenis_tipe_barang": "Piping",
+      "spesifikasi_detail_barang": {
+        "size": "0.5inch",
+        "jumlah": "16btg"
+      },
+      "merk_barang": "None",
+      "harga_barang": 367946.0,
+      "_page": 32
+    },
+    {
+      "nama_barang": "Elbow AW 0.5inch",
+      "jenis_tipe_barang": "Fitting",
+      "spesifikasi_detail_barang": {
+        "size": "0.5inch"
+      },
+      "merk_barang": "None",
+      "harga_barang": 367946.0,
+      "_page": 32
+    },
+    {
+      "nama_barang": "Triplek 6mm",
+      "jenis_tipe_barang": "Board",
+      "spesifikasi_detail_barang": {
+        "size": "6mm"
+      },
+      "merk_barang": "None",
+      "harga_barang": 1351000.0,
+      "_page": 32
+    },
+    {
+      "nama_barang": "Nat Keramik",
+      "jenis_tipe_barang": "Tiling Material",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": "None",
+      "harga_barang": 1351000.0,
+      "_page": 32
+    },
+    {
+      "nama_barang": "Thiner",
+      "jenis_tipe_barang": "Solvent",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": "None",
+      "harga_barang": 1351000.0,
+      "_page": 32
+    },
+    {
+      "nama_barang": "Kabel T",
+      "jenis_tipe_barang": "Cable",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": "None",
+      "harga_barang": 1351000.0,
+      "_page": 32
+    },
+    {
+      "nama_barang": "Ducting TC6",
+      "jenis_tipe_barang": "Ducting",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": "None",
+      "harga_barang": 2680000.0,
+      "_page": 32
+    },
+    {
+      "nama_barang": "Stop Kontak 2151 Broco",
+      "jenis_tipe_barang": "Electrical Fitting",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": "Broco",
+      "harga_barang": 2680000.0,
+      "_page": 32
+    },
+    {
+      "nama_barang": "MC",
+      "jenis_tipe_barang": "Electrical Component",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": "None",
+      "harga_barang": 2680000.0,
+      "_page": 32
+    },
+    {
+      "nama_barang": "Box Apar 6kg",
+      "jenis_tipe_barang": "Fire Extinguisher Box",
+      "spesifikasi_detail_barang": {
+        "size": "6kg",
+        "jumlah": "15box@600rb"
+      },
+      "merk_barang": "None",
+      "harga_barang": 9000000.0,
+      "_page": 32
+    },
+    {
+      "nama_barang": "Molen",
+      "jenis_tipe_barang": "Alat Kerja",
+      "spesifikasi_detail_barang": {
+        "jumlah": "1 unit"
+      },
+      "merk_barang": "None",
+      "harga_barang": 865000.0,
+      "_page": 33
+    },
+    {
+      "nama_barang": "Tambal Ban Crane + Engkel, Plastik Sampah",
+      "jenis_tipe_barang": "Material Proyek",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": "None",
+      "harga_barang": 204000.0,
+      "_page": 33
+    },
+    {
+      "nama_barang": "Oli Mesin, Oli Tranmisi, Filter Saringan",
+      "jenis_tipe_barang": "Service Kendaraan Sewa - Crane",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": "None",
+      "harga_barang": 943000.0,
+      "_page": 33
+    },
+    {
+      "nama_barang": "Dinabolt 12x130 & Mata Bor Besi",
+      "jenis_tipe_barang": "Material Proyek",
+      "spesifikasi_detail_barang": {
+        "size": "12x130",
+        "jumlah_dinabolt": "40pcs"
+      },
+      "merk_barang": "None",
+      "harga_barang": 360000.0,
+      "_page": 33
+    },
+    {
+      "nama_barang": "BBM Vixion & Adaptor LED Strip 120cm",
+      "jenis_tipe_barang": "Material Proyek",
+      "spesifikasi_detail_barang": {
+        "bbm_vixion": "50rb",
+        "length": "120cm"
+      },
+      "merk_barang": "None",
+      "harga_barang": 192500.0,
+      "_page": 33
+    }
+  ]
+}
