@@ -12,8 +12,9 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 from typing import List, Dict, Any, Optional
 import fitz
 from langgraph.graph import StateGraph, END
-from langgraph.checkpoint.sqlite import SqliteSaver
 from openai import OpenAI
+from langgraph.checkpoint.postgres import PostgresSaver
+from psycopg_pool import ConnectionPool
 
 # CONFIG
 DASHSCOPE_API_KEY = os.getenv("DASHSCOPE_API_KEY", "sk-7cb444645d0f49798ccba297720b4d8c")
@@ -21,6 +22,8 @@ QWEN_BASE_URL = "https://dashscope-intl.aliyuncs.com/compatible-mode/v1"
 MAX_WORKERS = 5  # parallel requests
 OCR_DPI = 150    # 150 pixel per inch (lower -> faster)
 
+# URL DATABASE HAMILTON 
+DB_URI = "postgresql://postgres:hamiltonserver3.14@10.5.0.4:5432/postgres"
 
 # STATE
 class CatalogState(dict):
@@ -130,27 +133,27 @@ Extract ALL product items from the given text/image into a JSON array.
 
 OUTPUT FORMAT - MUST BE EXACTLY LIKE THIS EXAMPLE:
 [
-  {
-    "nama_barang": "Keramik 60x60",
-    "jenis_tipe_barang": "Keramik Lantai",
-    "spesifikasi_detail_barang": {
-      "ukuran": "60x60",
-      "polished": true,
-      "bahan": "porselen"
+    {
+        "nama_barang": "Keramik 60x60",
+        "jenis_tipe_barang": "Keramik Lantai",
+        "spesifikasi_detail_barang": {
+        "ukuran": "60x60",
+        "polished": true,
+        "bahan": "porselen"
+        },
+        "merk_barang": "Roman",
+        "harga_barang": 125000
     },
-    "merk_barang": "Roman",
-    "harga_barang": 125000
-  },
-  {
-    "nama_barang": "Semen 50kg",
-    "jenis_tipe_barang": "Semen",
-    "spesifikasi_detail_barang": {
-      "berat": "50kg",
-      "tipe": "portland"
-    },
-    "merk_barang": "Tiga Roda",
-    "harga_barang": 68000
-  }
+    {
+        "nama_barang": "Semen 50kg",
+        "jenis_tipe_barang": "Semen",
+        "spesifikasi_detail_barang": {
+        "berat": "50kg",
+        "tipe": "portland"
+        },
+        "merk_barang": "Tiga Roda",
+        "harga_barang": 68000
+    }
 ]
 
 RULES:
@@ -360,7 +363,7 @@ def node_normalize(state: CatalogState) -> CatalogState:
         if item_key in seen_items:
             continue
         
-        [seen_items].add(item_key)
+        seen_items.add(item_key)
         
         # Normalize specification
         spec = normalize_specification(item.get("spesifikasi_detail_barang"))
@@ -536,13 +539,11 @@ def build_catalog_extractor():
     graph.add_edge("retry_failed", "save_results")
     graph.add_edge("save_results", END)
     
-    # Create SQLite connection first, then pass to SqliteSaver
-    import sqlite3
-    conn = sqlite3.connect("catalog_extraction.db", check_same_thread=False)
+    # Create PostgreSQL checkpointer instance
+    pool = ConnectionPool(conninfo=DB_URI)
+    checkpointer = PostgresSaver(pool)
     
-    # Create checkpointer instance directly
-    from langgraph.checkpoint.sqlite import SqliteSaver
-    checkpointer = SqliteSaver(conn)
+    checkpointer.setup() 
     
     return graph.compile(checkpointer=checkpointer)
 
