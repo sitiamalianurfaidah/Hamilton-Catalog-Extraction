@@ -1,0 +1,139 @@
+{
+  "items": [
+    {
+      "header1": "ARSITEKTUR",
+      "header2": "A. LANTAI",
+      "nama_barang": "Loker",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "HT 60x60, Polished/Unpolished",
+        "spesifikasi_merek": "Nirogranite, Granito, Romangranit"
+      }
+    },
+    {
+      "header1": "ARSITEKTUR",
+      "header2": "A. LANTAI",
+      "nama_barang": "Ruang Ganti Pria",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "HT 60x60, Unpolished",
+        "spesifikasi_merek": "Nirogranite, Granito, Romangranit"
+      }
+    },
+    {
+      "header1": "ARSITEKTUR",
+      "header2": "A. LANTAI",
+      "nama_barang": "Ruang Ganti Wanita",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "HT 60x60, Unpolished",
+        "spesifikasi_merek": "Nirogranite, Granito, Romangranit"
+      }
+    },
+    {
+      "header1": "ARSITEKTUR",
+      "header2": "A. LANTAI",
+      "nama_barang": "Area Penerimaan dan Sortir",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Epoxy, Anti-Slip, Abu-Abu 500µm",
+        "spesifikasi_merek": "Propan, Fosroc, Weber, Reven floor, Nippon Epoxy 982 SL, Jotafloor, Sika"
+      }
+    },
+    {
+      "header1": "ARSITEKTUR",
+      "header2": "A. LANTAI",
+      "nama_barang": "Gudang Kering",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Epoxy, Anti-Slip, Abu-Abu 500µm",
+        "spesifikasi_merek": "Propan, Fosroc, Flowcrete, Nippon Epoxy 982 SL, Jotafloor, Sika"
+      }
+    },
+    {
+      "header1": "ARSITEKTUR",
+      "header2": "A. LANTAI",
+      "nama_barang": "Gudang Basah",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Epoxy, Anti-Slip, Abu-Abu 500µm",
+        "spesifikasi_merek": "Propan, Fosroc, Flowcrete, Nippon Epoxy 982 SL, Jotafloor, Sika"
+      }
+    },
+    {
+      "header1": "ARSITEKTUR",
+      "header2": "A. LANTAI",
+      "nama_barang": "Area Penyiapkan Sayur dan Buah",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Epoxy, Anti-Slip, Abu-Abu 500µm",
+        "spesifikasi_merek": "Propan, Fosroc, Flowcrete, Nippon Epoxy 982 SL, Jotafloor, Sika"
+      }
+    },
+    {
+      "header1": "ARSITEKTUR",
+      "header2": "A. LANTAI",
+      "nama_barang": "Area Penyimpan Daging, Ayam dan Ikan",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Epoxy, Anti-Slip, Abu-Abu 500µm",
+        "spesifikasi_merek": "Propan, Fosroc, Flowcrete, Nippon Epoxy 982 SL, Jotafloor, Sika"
+      }
+    },
+    {
+      "header1": "ARSITEKTUR",
+      "header2": "A. LANTAI",
+      "nama_barang": "Ruang Memasak",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Epoxy, Anti-Slip, Abu-Abu 500µm",
+        "spesifikasi_merek": "Propan, Fosroc, Flowcrete, Nippon Epoxy 982 SL, Jotafloor, Sika"
+      }
+    },
+    {
+      "header1": "ARSITEKTUR",
+      "header2": "A. LANTAI",
+      "nama_barang": "Ruang Pemorsian",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Epoxy, Anti-Slip, Abu-Abu 500µm",
+        "spesifikasi_merek": "Propan, Fosroc, Flowcrete, Nippon Epoxy 982 SL, Jotafloor, Sika"
+      }
+    },
+    {
+      "header1": "ARSITEKTUR",
+      "header2": "A. LANTAI",
+      "nama_barang": "Area Distribusi Makanan",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Epoxy, Anti-Slip, Abu-Abu 500µm",
+        "spesifikasi_merek": "Propan, Fosroc, Flowcrete, Nippon Epoxy 982 SL, Jotafloor, Sika"
+      }
+    },
+    {
+      "header1": "ARSITEKTUR",
+      "header2": "A. LANTAI",
+      "nama_barang": "Area Penerimaan dan Pencucian Bahan Makanan",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Epoxy, Anti-Slip, Abu-Abu 500µm",
+        "spesifikasi_merek": "Propan, Fosroc, Flowcrete, Nippon Epoxy 982 SL, Jotafloor, Sika"
+      }
+    },
+    {
+      "header1": "ARSITEKTUR",
+      "header2": "A. LANTAI",
+      "nama_barang": "Area Penyimpanan Alat",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Epoxy, Anti-Slip, Abu-Abu 500µm",
+        "spesifikasi_merek": "Propan, Fosroc, Flowcrete, Nippon Epoxy 982 SL, Jotafloor, Sika"
+      }
+    },
+    {
+      "header1": "ARSITEKTUR",
+      "header2": "A. LANTAI",
+      "nama_barang": "Gas Station",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Floor Hardener",
+        "spesifikasi_merek": "Fosroc, Sika, MU"
+      }
+    },
+    {
+      "header1": "ARSITEKTUR",
+      "header2": "A. LANTAI",
+      "nama_barang": "Janitor",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "HT 60x60, Unpolished",
+        "spesifikasi_merek": "Nirogranite, Granito, Romangranit"
+      }
+    }
+  ]
+}

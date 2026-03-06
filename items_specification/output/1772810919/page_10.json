@@ -1,0 +1,112 @@
+{
+  "items": [
+    {
+      "header1": "MEKANIKAL",
+      "header2": "A. Instalasi Kabel Meteran PLN ke Panel Distribusi",
+      "nama_barang": "Kabel NY Y",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "3 x 10mm\n3 x 16mm",
+        "spesifikasi_merek": "Supreme, Extrana, Eterna, Kabelmetal, Kabelindo, Extrana"
+      }
+    },
+    {
+      "header1": "MEKANIKAL",
+      "header2": "B. Instalasi Kabel",
+      "nama_barang": "Line Utama Kabel NYM",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "3 x 6mm",
+        "spesifikasi_merek": "Supreme, Extrana, Eterna, Kabelmetal, Kabelindo, Extrana"
+      }
+    },
+    {
+      "header1": "MEKANIKAL",
+      "header2": "B. Instalasi Kabel",
+      "nama_barang": "Lampu Kabel NYM",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "3 x 2.5mm",
+        "spesifikasi_merek": "Supreme, Extrana, Eterna, Kabelmetal, Kabelindo, Extrana"
+      }
+    },
+    {
+      "header1": "MEKANIKAL",
+      "header2": "B. Instalasi Kabel",
+      "nama_barang": "Stop Kontak NYM",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "3 x 2.5mm",
+        "spesifikasi_merek": "Supreme, Extrana, Eterna, Kabelmetal, Kabelindo, Extrana"
+      }
+    },
+    {
+      "header1": "MEKANIKAL",
+      "header2": "B. Instalasi Kabel",
+      "nama_barang": "AC NYM",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "3 x 2.5mm",
+        "spesifikasi_merek": "Supreme, Extrana, Eterna, Kabelmetal, Kabelindo, Extrana"
+      }
+    },
+    {
+      "header1": "MEKANIKAL",
+      "header2": "B. Instalasi Kabel",
+      "nama_barang": "Exhaust & Blower NYM",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "3 x 2.5mm",
+        "spesifikasi_merek": "Supreme, Extrana, Eterna, Kabelmetal, Kabelindo, Extrana"
+      }
+    },
+    {
+      "header1": "MEKANIKAL",
+      "header2": "B. Instalasi Kabel",
+      "nama_barang": "Insect Killer NYM",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "3 x 2.5mm",
+        "spesifikasi_merek": "Supreme, Extrana, Eterna, Kabelmetal, Kabelindo, Extrana"
+      }
+    },
+    {
+      "header1": "MEKANIKAL",
+      "header2": "B. Instalasi Kabel",
+      "nama_barang": "Air Curtain NYM",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "3 x 2.5mm",
+        "spesifikasi_merek": "Supreme, Extrana, Eterna, Kabelmetal, Kabelindo, Extrana"
+      }
+    },
+    {
+      "header1": "MEKANIKAL",
+      "header2": "B. Instalasi Kabel",
+      "nama_barang": "Cooker Hood NYM",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "3 x 2.5mm",
+        "spesifikasi_merek": "Supreme, Extrana, Eterna, Kabelmetal, Kabelindo, Extrana"
+      }
+    },
+    {
+      "header1": "MEKANIKAL",
+      "header2": "B. Instalasi Kabel",
+      "nama_barang": "Steamer NYM",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "3 x 2.5mm",
+        "spesifikasi_merek": "Supreme, Extrana, Eterna, Kabelmetal, Kabelindo, Extrana"
+      }
+    },
+    {
+      "header1": "MEKANIKAL",
+      "header2": "B. Instalasi Kabel",
+      "nama_barang": "Water Heater 15L NYM",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "3 x 4 mm",
+        "spesifikasi_merek": "Supreme, Extrana, Eterna, Kabelmetal, Kabelindo, Extrana"
+      }
+    },
+    {
+      "header1": "MEKANIKAL",
+      "header2": "B. Instalasi Kabel",
+      "nama_barang": "Water Heater 50L NYM",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "3 x 4 mm",
+        "spesifikasi_merek": "Supreme, Extrana, Eterna, Kabelmetal, Kabelindo, Extrana"
+      }
+    }
+  ]
+}

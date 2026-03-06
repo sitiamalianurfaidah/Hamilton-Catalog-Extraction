@@ -1,0 +1,130 @@
+{
+  "items": [
+    {
+      "header1": "MEKANIKAL",
+      "header2": "M IPAL",
+      "nama_barang": "Difusser",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Coarse Buble 50-150 m3/ menit/pcs, ABS plastic natural rubber",
+        "spesifikasi_merek": "Yasunaga, San Ei, Lokal"
+      }
+    },
+    {
+      "header1": "MEKANIKAL",
+      "header2": "M IPAL",
+      "nama_barang": "Bak Screen",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Frp ukuran lubang 10-20 mm",
+        "spesifikasi_merek": "FRP, Bams, Mitrabio, Nippon"
+      }
+    },
+    {
+      "header1": "MEKANIKAL",
+      "header2": "M IPAL",
+      "nama_barang": "Air Blower Aeration",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Diaphram AP 60, pressure 20 kpa, air flow 60 lpm, tipe silent",
+        "spesifikasi_merek": "Yasunaga, San Ei, Lokal"
+      }
+    },
+    {
+      "header1": "MEKANIKAL",
+      "header2": "M IPAL",
+      "nama_barang": "Panel Control",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Alumunium, contactor, overload, mcb indicator lamp",
+        "spesifikasi_merek": "Lokal, tebal 1,2mm"
+      }
+    },
+    {
+      "header1": "MEKANIKAL",
+      "header2": "M IPAL",
+      "nama_barang": "Chlorinasi Tablet",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Inline contact, kaporit tablet, PVC AW",
+        "spesifikasi_merek": "Holan, Test Kit"
+      }
+    },
+    {
+      "header1": "MEKANIKAL",
+      "header2": "M IPAL",
+      "nama_barang": "Air Lift Sistem Lumpur",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Summer sible , cast iron, 35-130lpm head 5 m",
+        "spesifikasi_merek": "Shimitzu, Wasser"
+      }
+    },
+    {
+      "header1": "MEKANIKAL",
+      "header2": "M IPAL",
+      "nama_barang": "Sand Carbon Filter",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Frp, Dia 600 mm, tinggi 1200 mm, silika 0.45-0.55, media pasir 60 cm, kapasitas aliran 5-10 m3/jam, tekanan operasi 1.5-3.5 bar, efesien filtrasi 20-50 micron",
+        "spesifikasi_merek": "FRP, Farmel, Dia 600 mm"
+      }
+    },
+    {
+      "header1": "MEKANIKAL",
+      "header2": "M IPAL",
+      "nama_barang": "Kabel dari Panel kontrol ke STP",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Nym 3x4",
+        "spesifikasi_merek": "Supreme, Extrana, Eterna"
+      }
+    },
+    {
+      "header1": "MEKANIKAL",
+      "header2": "M IPAL",
+      "nama_barang": "Instalasi pipa limbah STP",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "PVC dia 100mm",
+        "spesifikasi_merek": "Rucka, Vinilon, Surya Flo"
+      }
+    },
+    {
+      "header1": "MEKANIKAL",
+      "header2": "N AIR BERSIH",
+      "nama_barang": "Pompa Booster Head",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "SPPG Ukuran 20x20: End Suction, 2x120 LPM, 2X1,17 Kw, 30m\nSPPG Ukuran 10x15: End Suction, 2x75 LPM, 2X1 Kw, 30m",
+        "spesifikasi_merek": "Shimitzu, Farmel, Ebara, Wilo, Washer, Sanyo, Grundfos"
+      }
+    },
+    {
+      "header1": "MEKANIKAL",
+      "header2": "N AIR BERSIH",
+      "nama_barang": "Pompa Transfer Head",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "End Suction, 2x50 LPM, 2X1 Kw, 30m",
+        "spesifikasi_merek": "Shimitzu, Farmel, Ebara, Wilo, Washer, Sanyo, Grundfos"
+      }
+    },
+    {
+      "header1": "MEKANIKAL",
+      "header2": "N AIR BERSIH",
+      "nama_barang": "Tandon Air",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Stainless Foodgrade, 5000L",
+        "spesifikasi_merek": "Tirta,Grand, Profil Tank, Farmel"
+      }
+    },
+    {
+      "header1": "MEKANIKAL",
+      "header2": "M Penangkal Petir",
+      "nama_barang": "Air Terminal",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Tembaga, 16 mm , tinggi 1000 mm",
+        "spesifikasi_merek": "Corn, Plasma"
+      }
+    },
+    {
+      "header1": "MEKANIKAL",
+      "header2": "M Penangkal Petir",
+      "nama_barang": "Downconductor",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "BC 70 mm, di beri",
+        "spesifikasi_merek": "Lokal"
+      }
+    }
+  ]
+}

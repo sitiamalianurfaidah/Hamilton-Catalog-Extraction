@@ -1,0 +1,40 @@
+{
+  "items": [
+    {
+      "header1": "ARSITEKTUR",
+      "header2": "I. PEKERJAAN PAVING",
+      "nama_barang": "Pondasi Bangunan",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Raft Foundation t=200mm\nWiremesh M10-150\nBeton mutu fc' 25\nMutu beton fc' 25 MPa: untuk struktur raft foundation atau ditentukan lain digambar sesuai kondisi khusus lapangan.\nAngkur Siku M16\nMutu ST41 fy=250MPa, fu=410MPa\nAngkur Siku M20\nMutu ST41 fy=250MPa, fu=410MPa\nDynabolt M16 fu=40kN",
+        "spesifikasi_merek": "Krakatau Steel, Master Steel, Cakra Steel, Delco Prima\nLokal\nGaruda Raja Paksi, Lautan Steel, Krakatau Steel\nGaruda Raja Paksi, Lautan Steel, Krakatau Steel\nFischer, Hilti"
+      }
+    },
+    {
+      "header1": "ARSITEKTUR",
+      "header2": "I. PEKERJAAN PAVING",
+      "nama_barang": "Pondasi Water Tank",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Slab on Ground t=200mm\nTulangan D10-150\nBeton mutu fc' 25\nMutu beton fc' 25 MPa: untuk struktur raft foundation atau ditentukan lain digambar sesuai kondisi khusus lapangan.",
+        "spesifikasi_merek": "Krakatau Steel, Master Steel, Cakra Steel, Delco Prima\nLokal"
+      }
+    },
+    {
+      "header1": "ARSITEKTUR",
+      "header2": "I. PEKERJAAN PAVING",
+      "nama_barang": "Pondasi IPAL",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Slab t=200mm\nTulangan D10-150\nBeton mutu fc' 25\nMutu beton fc' 25 MPa: untuk struktur raft foundation atau ditentukan lain digambar sesuai kondisi khusus lapangan.",
+        "spesifikasi_merek": "Krakatau Steel, Master Steel, Cakra Steel, Delco Prima\nLokal"
+      }
+    },
+    {
+      "header1": "ARSITEKTUR",
+      "header2": "I. PEKERJAAN PAVING",
+      "nama_barang": "Sistem Rangka Modular Baja",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "SS400 t=2,3mm (Powder Coating 60-80µm)\nfy=240MPa; fu=400Mpa\nSS400 t=4,8mm (Powder Coating 60-80µm)\nfy=240MPa; fu=400MPa",
+        "spesifikasi_merek": "Mobox"
+      }
+    }
+  ]
+}

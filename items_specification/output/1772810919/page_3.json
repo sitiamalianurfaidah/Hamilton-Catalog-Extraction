@@ -1,0 +1,157 @@
+{
+  "items": [
+    {
+      "header1": "ARSITEKTUR",
+      "header2": "A. LANTAI",
+      "nama_barang": "Ruang Sampel Makanan",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Epoxy, Anti-Slip, Abu-Abu 500µm",
+        "spesifikasi_merek": "Propan, Fosroc, Flowcrete, Nippon Epoxy 982 SL, Jotafloor, Sika"
+      }
+    },
+    {
+      "header1": "ARSITEKTUR",
+      "header2": "A. LANTAI",
+      "nama_barang": "Koridor Manajemen ke Dapur",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "HT 60x60, Polished",
+        "spesifikasi_merek": "Nirogranite, Granito, Romangranit"
+      }
+    },
+    {
+      "header1": "ARSITEKTUR",
+      "header2": "A. LANTAI",
+      "nama_barang": "Koridor Loker ke Dapur",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Epoxy, Anti-Slip, Abu-Abu 500µm",
+        "spesifikasi_merek": "Propan, Fosroc, Flowcrete, Nippon Epoxy 982 SL, Jotafloor, Sika"
+      }
+    },
+    {
+      "header1": "ARSITEKTUR",
+      "header2": "A. LANTAI",
+      "nama_barang": "Koridor Area Cuci",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Epoxy, Anti-Slip, Abu-Abu 500µm",
+        "spesifikasi_merek": "Propan, Fosroc, Flowcrete, Nippon Epoxy 982 SL, Jotafloor, Sika"
+      }
+    },
+    {
+      "header1": "ARSITEKTUR",
+      "header2": "A. LANTAI",
+      "nama_barang": "Koridor Gudang Basah",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Epoxy, Anti-Slip, Abu-Abu 500µm",
+        "spesifikasi_merek": "Propan, Fosroc, Flowcrete, Nippon Epoxy 982 SL, Jotafloor, Sika"
+      }
+    },
+    {
+      "header1": "ARSITEKTUR",
+      "header2": "A. LANTAI",
+      "nama_barang": "Koridor area preparation/penyajian",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Epoxy, Anti-Slip, Abu-Abu 500µm",
+        "spesifikasi_merek": "Propan, Fosroc, Flowcrete, Nippon Epoxy 982 SL, Jotafloor, Sika"
+      }
+    },
+    {
+      "header1": "ARSITEKTUR",
+      "header2": "A. LANTAI",
+      "nama_barang": "Selasar Keliling",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Floor Hardener",
+        "spesifikasi_merek": "Fosroc, Sika, MU"
+      }
+    },
+    {
+      "header1": "ARSITEKTUR",
+      "header2": "B. DINDING",
+      "nama_barang": "All Area",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Sandwich panel EPS t=50 mm, anti bakteri",
+        "spesifikasi_merek": "Zelltech, Bondor, Maspen"
+      }
+    },
+    {
+      "header1": "ARSITEKTUR",
+      "header2": "B. DINDING",
+      "nama_barang": "Area Masak",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Dinding Bata Ringan Tebal 10 cm + dilapis stainless steel 0.8mm + rangka galvanis",
+        "spesifikasi_merek": "Powerblock, Grand Elephant, LeichtBric Premium AAC"
+      }
+    },
+    {
+      "header1": "ARSITEKTUR",
+      "header2": "B. DINDING",
+      "nama_barang": "Area Ruang Genset",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Dinding sandwich panel EPS t=50",
+        "spesifikasi_merek": "Zelltech, Bondor, Maspen"
+      }
+    },
+    {
+      "header1": "ARSITEKTUR",
+      "header2": "B. DINDING",
+      "nama_barang": "Aksesoris lantai",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Skirting - Curving PVC, Warna Putih",
+        "spesifikasi_merek": "Lokal"
+      }
+    },
+    {
+      "header1": "ARSITEKTUR",
+      "header2": "C. PINTU DAN JENDELA",
+      "nama_barang": "Kusen",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Aluminium Extrude 3\" min t 1,2mm - Warna Putih (Powder Coating)",
+        "spesifikasi_merek": "Incalum, Indalex, Alexindo, ATA, Kenari Djaja"
+      }
+    },
+    {
+      "header1": "ARSITEKTUR",
+      "header2": "C. PINTU DAN JENDELA",
+      "nama_barang": "Engsel",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "3\"x2.5\"x1.3mm SUS 304",
+        "spesifikasi_merek": "Dekkson, kend, Calfis"
+      }
+    },
+    {
+      "header1": "ARSITEKTUR",
+      "header2": "C. PINTU DAN JENDELA",
+      "nama_barang": "Sliding door",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Aluminium Extrude 3\", panjang rel 2000 mm, kapasitas daun pintu max. 80 kg",
+        "spesifikasi_merek": "Lokal"
+      }
+    },
+    {
+      "header1": "ARSITEKTUR",
+      "header2": "C. PINTU DAN JENDELA",
+      "nama_barang": "Daun Pintu",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Single, Sandwich Panel t=5cm",
+        "spesifikasi_merek": "Zelltech, Bondor, Maspen"
+      }
+    },
+    {
+      "header1": "ARSITEKTUR",
+      "header2": "C. PINTU DAN JENDELA",
+      "nama_barang": "Daun Pintu",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Double, Sandwich Panel t=5cm",
+        "spesifikasi_merek": "Zelltech, Bondor, Maspen"
+      }
+    },
+    {
+      "header1": "ARSITEKTUR",
+      "header2": "C. PINTU DAN JENDELA",
+      "nama_barang": "Daun Jendela",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Jendela Jungkit t=6 mm",
+        "spesifikasi_merek": "Mulia Glass, Asahimas"
+      }
+    }
+  ]
+}

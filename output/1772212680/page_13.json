@@ -1,0 +1,116 @@
+{
+  "items": [
+    {
+      "nama_barang": "Pipa Air Bekas",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "PVC AW (4\")",
+        "spesifikasi_merek": "Wavin, Rucika, Supramas, Elterra Genova, Westpex"
+      }
+    },
+    {
+      "nama_barang": "Pipa Air Bekas",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "PVC AW (2\")",
+        "spesifikasi_merek": "Wavin, Rucika, Supramas, Elterra Genova, Westpex"
+      }
+    },
+    {
+      "nama_barang": "Pipa Air Bekas",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "FCO 2\"",
+        "spesifikasi_merek": "Wavin, Rucika, Supramas, Elterra Genova, Westpex"
+      }
+    },
+    {
+      "nama_barang": "Pipa Air Bekas",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "FCO 4\"",
+        "spesifikasi_merek": "Wavin, Rucika, Supramas, Elterra Genova, Westpex"
+      }
+    },
+    {
+      "nama_barang": "Pipa Air Hujan",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "PVC AW (3\")",
+        "spesifikasi_merek": "Wavin, Rucika, Supramas, Elterra Genova, Westpex"
+      }
+    },
+    {
+      "nama_barang": "Pipa Gas",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Pipa Gip medium A Ø 3/4\"",
+        "spesifikasi_merek": "Spindo, SPS"
+      }
+    },
+    {
+      "nama_barang": "Gas Detector",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Sistem sensor tekanan",
+        "spesifikasi_merek": "Lokal"
+      }
+    },
+    {
+      "nama_barang": "Stop Kran Gas",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Ball valve, tekanan max 2 bar brass body, sambungan drat",
+        "spesifikasi_merek": "Onda, ANZ, Showa"
+      }
+    },
+    {
+      "nama_barang": "Header Pipa Central",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "2\"",
+        "spesifikasi_merek": "Fabrikasi Spindo, SPS"
+      }
+    },
+    {
+      "nama_barang": "Bak Kontrol",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "300 x 300 x 300 mm",
+        "spesifikasi_merek": "Lokal"
+      }
+    },
+    {
+      "nama_barang": "Terminal Udara Copper",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "1000 mm",
+        "spesifikasi_merek": "Lokal"
+      }
+    },
+    {
+      "nama_barang": "Klem Kabel Grounding",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Klem kuningan standar 5/8, Mekanik (dengan baut stainless atau kuningan)",
+        "spesifikasi_merek": "Lokal"
+      }
+    },
+    {
+      "nama_barang": "Down Conductor",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "BC 70 mm2",
+        "spesifikasi_merek": "Lokal"
+      }
+    },
+    {
+      "nama_barang": "Copper Grounding Rod",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "5/8\"",
+        "spesifikasi_merek": "Lokal"
+      }
+    },
+    {
+      "nama_barang": "Alat Pemadam Api Ringan (APAR)",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Dry chemical Tipe A Kap. 6 kg",
+        "spesifikasi_merek": "Toshiro, Tanata"
+      }
+    },
+    {
+      "nama_barang": "Alat Pemadam Api Ringan (APAR)",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Dry chemical Tipe A Kap.",
+        "spesifikasi_merek": "Toshiro, Tanata"
+      }
+    }
+  ]
+}

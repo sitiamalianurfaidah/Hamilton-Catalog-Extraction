@@ -1,0 +1,102 @@
+{
+  "items": [
+    {
+      "nama_barang": "Raft Foundation",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "t=200mm",
+        "spesifikasi_merek": "Krakatau Steel, Master Steel, Cakra Steel, Delco Prima"
+      }
+    },
+    {
+      "nama_barang": "Wiremesh",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "M10-150",
+        "spesifikasi_merek": null
+      }
+    },
+    {
+      "nama_barang": "Beton mutu",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "fc' 25\nMutu beton fc' 25 MPa: untuk struktur raft foundation atau ditentukan lain digambar sesuai kondisi khusus lapangan.",
+        "spesifikasi_merek": "Lokal"
+      }
+    },
+    {
+      "nama_barang": "Angkur Siku",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "M16\nMutu ST41 fy=250MPa, fu=410MPa",
+        "spesifikasi_merek": "Garuda Raja Paksi, Lautan Steel, Krakatau Steel"
+      }
+    },
+    {
+      "nama_barang": "Angkur Siku",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "M20\nMutu ST41 fy=250MPa, fu=410MPa",
+        "spesifikasi_merek": "Garuda Raja Paksi, Lautan Steel, Krakatau Steel"
+      }
+    },
+    {
+      "nama_barang": "Dynabolt",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "M16 fu=40kN",
+        "spesifikasi_merek": "Fischer, Hilti"
+      }
+    },
+    {
+      "nama_barang": "Slab on Ground",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "t=200mm",
+        "spesifikasi_merek": "Krakatau Steel, Master Steel, Cakra Steel, Delco Prima"
+      }
+    },
+    {
+      "nama_barang": "Tulangan",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "D10-150",
+        "spesifikasi_merek": null
+      }
+    },
+    {
+      "nama_barang": "Beton mutu",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "fc' 25\nMutu beton fc' 25 MPa: untuk struktur raft foundation atau ditentukan lain digambar sesuai kondisi khusus lapangan.",
+        "spesifikasi_merek": "Lokal"
+      }
+    },
+    {
+      "nama_barang": "Slab",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "t=200mm",
+        "spesifikasi_merek": "Krakatau Steel, Master Steel, Cakra Steel, Delco Prima"
+      }
+    },
+    {
+      "nama_barang": "Tulangan",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "D10-150",
+        "spesifikasi_merek": null
+      }
+    },
+    {
+      "nama_barang": "Beton mutu",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "fc' 25\nMutu beton fc' 25 MPa: untuk struktur raft foundation atau ditentukan lain digambar sesuai kondisi khusus lapangan.",
+        "spesifikasi_merek": "Lokal"
+      }
+    },
+    {
+      "nama_barang": "SS400",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "t=2,3mm (Powder Coating 60-80µm)\nfy=240MPa; fu=400Mpa",
+        "spesifikasi_merek": "Mobox"
+      }
+    },
+    {
+      "nama_barang": "SS400",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "t=4,8mm (Powder Coating 60-80µm)\nfy=240MPa; fu=400Mpa",
+        "spesifikasi_merek": "Mobox"
+      }
+    }
+  ]
+}

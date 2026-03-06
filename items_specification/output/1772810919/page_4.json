@@ -1,0 +1,103 @@
+{
+  "items": [
+    {
+      "header1": "ARSITEKTUR",
+      "header2": "C. PINTU DAN JENDELA",
+      "nama_barang": "Bouven Kaca Jungkit t=6mm",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Bouven Kaca Jungkit t=6mm",
+        "spesifikasi_merek": "Mulia Glass, Asahimas"
+      }
+    },
+    {
+      "header1": "ARSITEKTUR",
+      "header2": "C. PINTU DAN JENDELA",
+      "nama_barang": "Kusen Toilet",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Aluminium Extrude 3\" min t 1,2mm - Warna Putih (Powder Coating)",
+        "spesifikasi_merek": "Incalum, Indalex, Alexindo, ATA, Kenari Daja"
+      }
+    },
+    {
+      "header1": "ARSITEKTUR",
+      "header2": "C. PINTU DAN JENDELA",
+      "nama_barang": "Daun Pintu Toilet",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Pintu Spandrel, warna putih dengan jalusi",
+        "spesifikasi_merek": "Incalum, Indalex, Alexindo, ATA, Kenari Daja"
+      }
+    },
+    {
+      "header1": "ARSITEKTUR",
+      "header2": "C. PINTU DAN JENDELA",
+      "nama_barang": "Aksesoris pintu",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Door closer, lever handle, pull handle, knob, mortise pelor",
+        "spesifikasi_merek": "Dekkson, Kendall, Calfis"
+      }
+    },
+    {
+      "header1": "ARSITEKTUR",
+      "header2": "C. PINTU DAN JENDELA",
+      "nama_barang": "Folding Door",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "PPGL (Prepainted Galvalum) dan Harmonika - Daun t=0.3 mm CNP=0.7 mm, fin. Cat Putih atau Abu Muda",
+        "spesifikasi_merek": "Lokal"
+      }
+    },
+    {
+      "header1": "ARSITEKTUR",
+      "header2": "D. PLAFOND DAN RANGKA",
+      "nama_barang": "Plafon (Area memasak)",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Full System Garansi Pabrik 5 tahun; Plafond Fierated System TKA 2 jam (tergantung dari pabrikan masing masing dengan melengkapi Hasil Test PUSKIM 2 jam) + Papan Gypsum Moisture (WR) 9 mm; Rangka Metal Plafond Baja Mutu Tinggi G550 ; Dilapisi Cat yang tahan lembab tinggi + antibakteri.",
+        "spesifikasi_merek": "Aplus, Yoshino, Jayaboard, Gyproc"
+      }
+    },
+    {
+      "header1": "ARSITEKTUR",
+      "header2": "D. PLAFOND DAN RANGKA",
+      "nama_barang": "Plafon (Area Kering)",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Full System Garansi Pabrik 5 tahun; Plafond Flat 9 mm ; Rangka Metal Furring tebal 0,3 mm BMT Baja Mutu Tinggi G550; jarak rangka 60x120 cm finish cat anti bakteri.",
+        "spesifikasi_merek": "Aplus, Yoshino, Jayaboard, Gyproc"
+      }
+    },
+    {
+      "header1": "ARSITEKTUR",
+      "header2": "D. PLAFOND DAN RANGKA",
+      "nama_barang": "Plafon (Area Basah)",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Full System Garansi Pabrik 5 tahun; Plafond Moisture (WR) 9 mm ; Rangka Metal Furring tebal 0,3 mm BMT Baja Mutu Tinggi G550; jarak rangka 60x120 cm finish cat.",
+        "spesifikasi_merek": "Aplus, Yoshino, Jayaboard, Gyproc"
+      }
+    },
+    {
+      "header1": "ARSITEKTUR",
+      "header2": "D. PLAFOND DAN RANGKA",
+      "nama_barang": "Rangka",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Metal Furing 20 x 40 x 0.35 mm",
+        "spesifikasi_merek": "Aplus, Yoshino, Jayaboard, Gyproc"
+      }
+    },
+    {
+      "header1": "ARSITEKTUR",
+      "header2": "D. PLAFOND DAN RANGKA",
+      "nama_barang": "List",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "PVC warna Putih",
+        "spesifikasi_merek": "Wifon, Genius"
+      }
+    },
+    {
+      "header1": "ARSITEKTUR",
+      "header2": "E. ATAP",
+      "nama_barang": "Penutup Atap",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Spandek BMT 0,35mm &",
+        "spesifikasi_merek": "Aplus, Lysaght"
+      }
+    }
+  ]
+}

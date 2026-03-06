@@ -1,0 +1,25 @@
+{
+  "items": [
+    {
+      "nama_barang": "pelindung",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "",
+        "spesifikasi_merek": null
+      }
+    },
+    {
+      "nama_barang": "Rod",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Tembaga 6000 mm dia, 16 mm",
+        "spesifikasi_merek": "Lokal"
+      }
+    },
+    {
+      "nama_barang": "Klem",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Kuningan",
+        "spesifikasi_merek": "Lokal"
+      }
+    }
+  ]
+}

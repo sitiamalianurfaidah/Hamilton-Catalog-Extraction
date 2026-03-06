@@ -1,0 +1,139 @@
+{
+  "items": [
+    {
+      "header1": "MEKANIKAL",
+      "header2": "J SISTEM PROTEKSI KEBAKARAN",
+      "nama_barang": "Gas CO₂ Kap. 6 kg",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "6 kg",
+        "spesifikasi_merek": "Toshiro, Tanata"
+      }
+    },
+    {
+      "header1": "MEKANIKAL",
+      "header2": "J SISTEM PROTEKSI KEBAKARAN",
+      "nama_barang": "Potassium Cair Tipe K Kap. 6 kg",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Kap. 6 kg",
+        "spesifikasi_merek": "Toshiro, Tanata"
+      }
+    },
+    {
+      "header1": "MEKANIKAL",
+      "header2": "K SISTEM ICT",
+      "nama_barang": "Wallmount Rack Server",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "9U",
+        "spesifikasi_merek": "Universal"
+      }
+    },
+    {
+      "header1": "MEKANIKAL",
+      "header2": "K SISTEM ICT",
+      "nama_barang": "Switch Hub",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Manage/ unmanage, port 8, kecepatan ethernet (10/100/1000 Mbps), backplane minimal 16 Gbps, garansi minimal 1 tahun, keamanan port security, ACL",
+        "spesifikasi_merek": "Hikvision, TP Link, Universal, Cisco, HPE Aruba, Ruckus, Ubiquiti"
+      }
+    },
+    {
+      "header1": "MEKANIKAL",
+      "header2": "K SISTEM ICT",
+      "nama_barang": "Access Point",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Dual-band (2.4 GHz + 5 GHz)",
+        "spesifikasi_merek": "Hikvision, TP Link, Universal, Cisco, HPE Aruba, Ruckus, Ubiquiti"
+      }
+    },
+    {
+      "header1": "MEKANIKAL",
+      "header2": "K SISTEM ICT",
+      "nama_barang": "Outlet Data",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "RJ45 (8P8C) kompatibel dengan UTP Cat 6",
+        "spesifikasi_merek": "Panasonic, Broco, Scheineder"
+      }
+    },
+    {
+      "header1": "MEKANIKAL",
+      "header2": "K SISTEM ICT",
+      "nama_barang": "Instalasi Data Kabel",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "UTP Cat 6",
+        "spesifikasi_merek": "Hikvision,LS, SPC"
+      }
+    },
+    {
+      "header1": "MEKANIKAL",
+      "header2": "K SISTEM ICT",
+      "nama_barang": "Instalasi Accses Point",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "UTP Cat 6",
+        "spesifikasi_merek": "Hikvision,LS, SPC"
+      }
+    },
+    {
+      "header1": "MEKANIKAL",
+      "header2": "L CCTV",
+      "nama_barang": "NVR",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "8 chanel",
+        "spesifikasi_merek": "Hikvision, Vizion, UNV, Hilook, Dahua"
+      }
+    },
+    {
+      "header1": "MEKANIKAL",
+      "header2": "L CCTV",
+      "nama_barang": "CCTV",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "2 Mp indoor",
+        "spesifikasi_merek": "Hikvision, Vizion, UNV, Hilook, Dahua"
+      }
+    },
+    {
+      "header1": "MEKANIKAL",
+      "header2": "L CCTV",
+      "nama_barang": "CCTV",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "2 Mp outdoor",
+        "spesifikasi_merek": "Hikvision, Vizion, UNV, Hilook, Dahua"
+      }
+    },
+    {
+      "header1": "MEKANIKAL",
+      "header2": "L CCTV",
+      "nama_barang": "Instalasi CCTV Kabel",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "UTP Cat 6",
+        "spesifikasi_merek": "Hikvision, Vizion, UNV, Hilook, Dahua, LS"
+      }
+    },
+    {
+      "header1": "MEKANIKAL",
+      "header2": "M IPAL",
+      "nama_barang": "Reaktor Aerob Biosfilter",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "SPPG Ukuran 20x20: Kapasitas 9m3\nSPPG Ukuran 10x15: Kapasitas 4m3",
+        "spesifikasi_merek": "FRP, Farmel, Bams, Mitrabio, Nippon"
+      }
+    },
+    {
+      "header1": "MEKANIKAL",
+      "header2": "M IPAL",
+      "nama_barang": "Equalizing Tank",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Kapasitas 3 m3",
+        "spesifikasi_merek": "FRP, Farmel, Bams, Mitrabio, Nippon"
+      }
+    },
+    {
+      "header1": "MEKANIKAL",
+      "header2": "M IPAL",
+      "nama_barang": "Grease Trap",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "SPPG Ukuran 20x20: Kapasitas 4m3 FRP\nSPPG Ukuran 10x15:",
+        "spesifikasi_merek": "FRP, Farmel, Bams, Mitrabio, Nippon"
+      }
+    }
+  ]
+}

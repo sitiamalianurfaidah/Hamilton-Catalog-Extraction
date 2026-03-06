@@ -1,0 +1,1276 @@
+{
+  "nama_proyek": "Pembangunan Gedung SPPG 1 TA 2025",
+  "nama_site": null,
+  "lokasi": null,
+  "nama_bangunan": "Gedung SPPG 1",
+  "jenis_pekerjaan": "Gedung SPPG",
+  "items": [
+    {
+      "nama_barang": "R. Konsultasi Ahli Gizi",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "HT 60x60, Polished/Unpolished",
+        "spesifikasi_merek": "Nirogranite, Granito, Romangranit"
+      }
+    },
+    {
+      "nama_barang": "R. Manajemen/Staf/Administrasi",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "HT 60x60, Polished/Unpolished",
+        "spesifikasi_merek": "Nirogranite, Granito, Romangranit"
+      }
+    },
+    {
+      "nama_barang": "Ruang Rapat",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "HT 60x60, Polished/Unpolished",
+        "spesifikasi_merek": "Nirogranite, Granito, Romangranit"
+      }
+    },
+    {
+      "nama_barang": "Mushola",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "HT 60x60, Polished/Unpolished",
+        "spesifikasi_merek": "Nirogranite, Granito, Romangranit"
+      }
+    },
+    {
+      "nama_barang": "R. Kepala SPPG",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "HT 60x60, Polished/Unpolished",
+        "spesifikasi_merek": "Nirogranite, Granito, Romangranit"
+      }
+    },
+    {
+      "nama_barang": "Toilet Manajemen & Tempat Wudhu",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "HT 60x60, Unpolished",
+        "spesifikasi_merek": "Nirogranite, Granito, Romangranit"
+      }
+    },
+    {
+      "nama_barang": "Toilet Pria",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "HT 60x60, Unpolished",
+        "spesifikasi_merek": "Nirogranite, Granito, Romangranit"
+      }
+    },
+    {
+      "nama_barang": "Toilet Wanita",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "HT 60x60, Unpolished",
+        "spesifikasi_merek": "Nirogranite, Granito, Romangranit"
+      }
+    },
+    {
+      "nama_barang": "Loker",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "HT 60x60, Polished/Unpolished",
+        "spesifikasi_merek": "Nirogranite, Granito, Romangranit"
+      }
+    },
+    {
+      "nama_barang": "Ruang Ganti Pria",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "HT 60x60, Unpolished",
+        "spesifikasi_merek": "Nirogranite, Granito, Romangranit"
+      }
+    },
+    {
+      "nama_barang": "Ruang Ganti Wanita",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "HT 60x60, Unpolished",
+        "spesifikasi_merek": "Nirogranite, Granito, Romangranit"
+      }
+    },
+    {
+      "nama_barang": "Area Penerimaan dan Sortir",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Epoxy, Anti-Slip, Abu-Abu 500µm",
+        "spesifikasi_merek": "Propan, Fosroc, Weber, Reven floor, Nippon Epoxy 982 SL, Jotafloor, Sika"
+      }
+    },
+    {
+      "nama_barang": "Gudang Kering",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Epoxy, Anti-Slip, Abu-Abu 500µm",
+        "spesifikasi_merek": "Propan, Fosroc, Flowcrete, Nippon Epoxy 982 SL, Jotafloor, Sika"
+      }
+    },
+    {
+      "nama_barang": "Gudang Basah",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Epoxy, Anti-Slip, Abu-Abu 500µm",
+        "spesifikasi_merek": "Propan, Fosroc, Flowcrete, Nippon Epoxy 982 SL, Jotafloor, Sika"
+      }
+    },
+    {
+      "nama_barang": "Area Penyiapkan Sayur dan Buah",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Epoxy, Anti-Slip, Abu-Abu 500µm",
+        "spesifikasi_merek": "Propan, Fosroc, Flowcrete, Nippon Epoxy 982 SL, Jotafloor, Sika"
+      }
+    },
+    {
+      "nama_barang": "Area Penyimpan Daging, Ayam dan Ikan",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Epoxy, Anti-Slip, Abu-Abu 500µm",
+        "spesifikasi_merek": "Propan, Fosroc, Flowcrete, Nippon Epoxy 982 SL, Jotafloor, Sika"
+      }
+    },
+    {
+      "nama_barang": "Ruang Memasak",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Epoxy, Anti-Slip, Abu-Abu 500µm",
+        "spesifikasi_merek": "Propan, Fosroc, Flowcrete, Nippon Epoxy 982 SL, Jotafloor, Sika"
+      }
+    },
+    {
+      "nama_barang": "Ruang Pemorsian",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Epoxy, Anti-Slip, Abu-Abu 500µm",
+        "spesifikasi_merek": "Propan, Fosroc, Flowcrete, Nippon Epoxy 982 SL, Jotafloor, Sika"
+      }
+    },
+    {
+      "nama_barang": "Area Distribusi Makanan",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Epoxy, Anti-Slip, Abu-Abu 500µm",
+        "spesifikasi_merek": "Propan, Fosroc, Flowcrete, Nippon Epoxy 982 SL, Jotafloor, Sika"
+      }
+    },
+    {
+      "nama_barang": "Area Penerimaan dan Pencucian Bahan Makanan",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Epoxy, Anti-Slip, Abu-Abu 500µm",
+        "spesifikasi_merek": "Propan, Fosroc, Flowcrete, Nippon Epoxy 982 SL, Jotafloor, Sika"
+      }
+    },
+    {
+      "nama_barang": "Area Penyimpanan Alat",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Epoxy, Anti-Slip, Abu-Abu 500µm",
+        "spesifikasi_merek": "Propan, Fosroc, Flowcrete, Nippon Epoxy 982 SL, Jotafloor, Sika"
+      }
+    },
+    {
+      "nama_barang": "Gas Station",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Floor Hardener",
+        "spesifikasi_merek": "Fosroc, Sika, MU"
+      }
+    },
+    {
+      "nama_barang": "Janitor",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "HT 60x60, Unpolished",
+        "spesifikasi_merek": "Nirogranite, Granito, Romangranit"
+      }
+    },
+    {
+      "nama_barang": "Ruang Sampel Makanan",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Epoxy, Anti-Slip, Abu-Abu 500µm",
+        "spesifikasi_merek": "Propan, Fosroc, Flowcrete, Nippon Epoxy 982 SL, Jotafloor, Sika"
+      }
+    },
+    {
+      "nama_barang": "Koridor Manajemen ke Dapur",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "HT 60x60, Polished",
+        "spesifikasi_merek": "Nirogranite, Granito, Romangranit"
+      }
+    },
+    {
+      "nama_barang": "Koridor Loker ke Dapur",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Epoxy, Anti-Slip, Abu-Abu 500µm",
+        "spesifikasi_merek": "Propan, Fosroc, Flowcrete, Nippon Epoxy 982 SL, Jotafloor, Sika"
+      }
+    },
+    {
+      "nama_barang": "Koridor Area Cuci",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Epoxy, Anti-Slip, Abu-Abu 500µm",
+        "spesifikasi_merek": "Propan, Fosroc, Flowcrete, Nippon Epoxy 982 SL, Jotafloor, Sika"
+      }
+    },
+    {
+      "nama_barang": "Koridor Gudang Basah",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Epoxy, Anti-Slip, Abu-Abu 500µm",
+        "spesifikasi_merek": "Propan, Fosroc, Flowcrete, Nippon Epoxy 982 SL, Jotafloor, Sika"
+      }
+    },
+    {
+      "nama_barang": "Koridor area preparation/penyajian",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Epoxy, Anti-Slip, Abu-Abu 500µm",
+        "spesifikasi_merek": "Propan, Fosroc, Flowcrete, Nippon Epoxy 982 SL, Jotafloor, Sika"
+      }
+    },
+    {
+      "nama_barang": "Selasar Keliling",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Floor Hardener",
+        "spesifikasi_merek": "Fosroc, Sika, MU"
+      }
+    },
+    {
+      "nama_barang": "All Area",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Sandwich panel EPS t=50 mm, anti bakteri",
+        "spesifikasi_merek": "Zelltech, Bondor, Maspen"
+      }
+    },
+    {
+      "nama_barang": "Area Masak",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Dinding Bata Ringan Tebal 10 cm + dilapis stainless steel 0.8mm + rangka galvanis",
+        "spesifikasi_merek": "Powerblock, Grand Elephant, LeichtBric Premium AAC"
+      }
+    },
+    {
+      "nama_barang": "Area Ruang Genset",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Dinding sandwich panel EPS t=50",
+        "spesifikasi_merek": "Zelltech, Bondor, Maspen"
+      }
+    },
+    {
+      "nama_barang": "Aksesoris lantai",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Skirting - Curving PVC, Warna Putih",
+        "spesifikasi_merek": "Lokal"
+      }
+    },
+    {
+      "nama_barang": "Kusen",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Aluminium Extrude 3\" min t 1,2mm - Warna Putih (Powder Coating)",
+        "spesifikasi_merek": "Incalum, Indalex, Alexindo, ATA, Kenari Djaja"
+      }
+    },
+    {
+      "nama_barang": "Engsel",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "3\"x2.5\"x1.3mm SUS 304",
+        "spesifikasi_merek": "Dekkson, Kendall, Calfis"
+      }
+    },
+    {
+      "nama_barang": "Sliding door",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Aluminium Extrude 3\", panjang rel 2000 mm, kapasitas daun pintu max. 80 kg",
+        "spesifikasi_merek": "Lokal"
+      }
+    },
+    {
+      "nama_barang": "Daun Pintu",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Single, Sandwich Panel t=5cm",
+        "spesifikasi_merek": "Zelltech, Bondor, Maspen"
+      }
+    },
+    {
+      "nama_barang": "Daun Pintu",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Double, Sandwich Panel t=5cm",
+        "spesifikasi_merek": "Zelltech, Bondor, Maspen"
+      }
+    },
+    {
+      "nama_barang": "Daun Jendela",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Jendela Jungkit t=6 mm",
+        "spesifikasi_merek": "Mulia Glass, Asahimas"
+      }
+    },
+    {
+      "nama_barang": "Bouven Kaca Jungkit t=6mm",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Bouven Kaca Jungkit t=6mm",
+        "spesifikasi_merek": "Mulia Glass, Asahimas"
+      }
+    },
+    {
+      "nama_barang": "Kusen Toilet",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Aluminium Extrude 3\" min t 1,2mm - Warna Putih (Powder Coating)",
+        "spesifikasi_merek": "Incalum, Indalex, Alexindo, ATA, Kenari Daja"
+      }
+    },
+    {
+      "nama_barang": "Daun Pintu Toilet",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Pintu Spandrel, warna putih dengan jalusi",
+        "spesifikasi_merek": "Incalum, Indalex, Alexindo, ATA, Kenari Daja"
+      }
+    },
+    {
+      "nama_barang": "Aksesoris pintu",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Door closer, lever handle, pull handle, knob, mortise pelor",
+        "spesifikasi_merek": "Dekkson, Kendall, Calfis"
+      }
+    },
+    {
+      "nama_barang": "Folding Door",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "PPGL (Prepainted Galvalum) dan Harmonika - Daun t=0.3 mm CNP=0.7 mm, fin. Cat Putih atau Abu Muda",
+        "spesifikasi_merek": "Lokal"
+      }
+    },
+    {
+      "nama_barang": "Plafon (Area memasak)",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Full System Garansi Pabrik 5 tahun; Plafond Firerated System TKA 2 jam (tergantung dari pabrikan masing masing dengan melengkapi Hasil Test PUSKIM 2 jam) + Papan Gypsum Moisture (WR) 9 mm; Rangka Metal Plafond Baja Mutu Tinggi G550 ; Dilapisi Cat yang tahan lembab tinggi + antibakteri.",
+        "spesifikasi_merek": "Aplus, Yoshino, Jayaboard, Gyproc"
+      }
+    },
+    {
+      "nama_barang": "Plafon (Area Kering)",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Full System Garansi Pabrik 5 tahun; Plafond Flat 9 mm ; Rangka Metal Furring tebal 0,3 mm BMT Baja Mutu Tinggi G550; jarak rangka 60x120 cm finish cat anti bakteri.",
+        "spesifikasi_merek": "Aplus, Yoshino, Jayaboard, Gyproc"
+      }
+    },
+    {
+      "nama_barang": "Plafon (Area Basah)",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Full System Garansi Pabrik 5 tahun; Plafond Moisture (WR) 9 mm ; Rangka Metal Furring tebal 0,3 mm BMT Baja Mutu Tinggi G550; jarak rangka 60x120 cm finish cat.",
+        "spesifikasi_merek": "Aplus, Yoshino, Jayaboard, Gyproc"
+      }
+    },
+    {
+      "nama_barang": "Rangka",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Metal Furing 20 x 40 x 0.35 mm",
+        "spesifikasi_merek": "Aplus, Yoshino, Jayaboard, Gyproc"
+      }
+    },
+    {
+      "nama_barang": "List",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "PVC warna Putih",
+        "spesifikasi_merek": "Wifon, Genius"
+      }
+    },
+    {
+      "nama_barang": "Penutup Atap",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Spandek BMT 0,35mm &",
+        "spesifikasi_merek": "Aplus, Lysaght"
+      }
+    },
+    {
+      "nama_barang": "Aluminium Foil (insulasi)",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "",
+        "spesifikasi_merek": "Bluescope, Cahaya Benteng Mas, Kastil"
+      }
+    },
+    {
+      "nama_barang": "Talang",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "PVC",
+        "spesifikasi_merek": "Pipaku, Pinguin, Power"
+      }
+    },
+    {
+      "nama_barang": "Finish Cat Dinding",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Cat ruang luar: Emulsion paint weather resistant, Low VOC\nCat dalam ruangan: Cat emulsi Akrilik , Low VOC, mudah dibersihkan. Untuk papan gypsum menggunakan cat khusus gypsum",
+        "spesifikasi_merek": "Nippon, Jotun, Propan"
+      }
+    },
+    {
+      "nama_barang": "Finish Cat Besi",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Sintetis alkyd resin, anti karat, tebal minimal 30 mikron per lapis",
+        "spesifikasi_merek": "Nippon, Jotun, Propan"
+      }
+    },
+    {
+      "nama_barang": "Pagar",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "BRC 6 mm tinggi BRC 190cm\nTiang pagar panjang 2200 mm diameter 2\" Hot Dipped Galvanized",
+        "spesifikasi_merek": "Lokal"
+      }
+    },
+    {
+      "nama_barang": "Closet duduk",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Toilet bowl (s-trap) w/installation fitting set\nDual flush tank trim w/o stop valve\nDuroplast seat & cover w/metal hinges, soft, ssoft closing (European standard)",
+        "spesifikasi_merek": "Toto, American Standard, Trillianware, Roca"
+      }
+    },
+    {
+      "nama_barang": "Jet washer",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Shower spray w/stop valve (chrome)",
+        "spesifikasi_merek": "Toto, American Standard, Trillianware, Roca"
+      }
+    },
+    {
+      "nama_barang": "Floor drain",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Floor drain w/square flange (for 2\" G.I. Pipe) (115x115mm)",
+        "spesifikasi_merek": "Toto, American Standard, Trillianware, Roca Trillianware"
+      }
+    },
+    {
+      "nama_barang": "Shower & cross handle stop valve",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Min. water pressure : 0.05 MPa\nMax. water pressure : 0.75 MPa\nFlow rate : 12 l/m",
+        "spesifikasi_merek": "Toto, American Standard, Trilliumware, Roca Trilliumware"
+      }
+    },
+    {
+      "nama_barang": "Wastafel",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Wall hung lavatory 2 tap holes\nAvailable : 1 tap hole\n430x435mm",
+        "spesifikasi_merek": "Toto, American Standard, Trilliumware, Roca"
+      }
+    },
+    {
+      "nama_barang": "Kran wudhu",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Wall type lavatory faucet (cold only)\nMin. water pressure : 0.05 MPa\nMax. water pressure : 0.75 MPa\nFlow rate : 5 l/m",
+        "spesifikasi_merek": "Toto, American Standard, Trilliumware, Roca"
+      }
+    },
+    {
+      "nama_barang": "Kran Janitor/Servis",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Min. water pressure : 0.05 MPa\nMax. water pressure : 0.75 MPa\nFlow rate : 7 l/m",
+        "spesifikasi_merek": "Toto, American Standard, Trilliumware, Roca"
+      }
+    },
+    {
+      "nama_barang": "Kran Pencuci Wajan",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Min. water pressure : 0.05 MPa\nMax. water pressure : 0.75 MPa\nFlow rate : 7 l/m",
+        "spesifikasi_merek": "Toto, American Standard, Trilliumware, Roca"
+      }
+    },
+    {
+      "nama_barang": "Tissue Holder",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "",
+        "spesifikasi_merek": "Toto, American Standard, Trilliumware, Roca"
+      }
+    },
+    {
+      "nama_barang": "Kran Wastafel",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Min. water pressure : 0.05 MPa\nMax. water pressure : 0.75 MPa\nFlow rate : 7 l/m",
+        "spesifikasi_merek": "Toto, American Standard, Trilliumware, Roca"
+      }
+    },
+    {
+      "nama_barang": "Paving Block",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Kuat tekan rata-rata fc 25 mPa, dengan tebal 8cm\nPenyerapan air rata-rata 3%\nKetahanan aus rata-rata 0.09 mm/menit",
+        "spesifikasi_merek": "Cisangkan, Asiacon, Masterblock"
+      }
+    },
+    {
+      "nama_barang": "Raft Foundation",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "t=200mm",
+        "spesifikasi_merek": "Krakatau Steel, Master Steel, Cakra Steel, Delco Prima"
+      }
+    },
+    {
+      "nama_barang": "Wiremesh",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "M10-150",
+        "spesifikasi_merek": null
+      }
+    },
+    {
+      "nama_barang": "Beton mutu",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "fc' 25\nMutu beton fc' 25 MPa: untuk struktur raft foundation atau ditentukan lain digambar sesuai kondisi khusus lapangan.",
+        "spesifikasi_merek": "Lokal"
+      }
+    },
+    {
+      "nama_barang": "Angkur Siku",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "M16\nMutu ST41 fy=250MPa, fu=410MPa",
+        "spesifikasi_merek": "Garuda Raja Paksi, Lautan Steel, Krakatau Steel"
+      }
+    },
+    {
+      "nama_barang": "Angkur Siku",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "M20\nMutu ST41 fy=250MPa, fu=410MPa",
+        "spesifikasi_merek": "Garuda Raja Paksi, Lautan Steel, Krakatau Steel"
+      }
+    },
+    {
+      "nama_barang": "Dynabolt",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "M16 fu=40kN",
+        "spesifikasi_merek": "Fischer, Hilti"
+      }
+    },
+    {
+      "nama_barang": "Slab on Ground",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "t=200mm",
+        "spesifikasi_merek": "Krakatau Steel, Master Steel, Cakra Steel, Delco Prima"
+      }
+    },
+    {
+      "nama_barang": "Tulangan",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "D10-150",
+        "spesifikasi_merek": null
+      }
+    },
+    {
+      "nama_barang": "Beton mutu",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "fc' 25\nMutu beton fc' 25 MPa: untuk struktur raft foundation atau ditentukan lain digambar sesuai kondisi khusus lapangan.",
+        "spesifikasi_merek": "Lokal"
+      }
+    },
+    {
+      "nama_barang": "Slab",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "t=200mm",
+        "spesifikasi_merek": "Krakatau Steel, Master Steel, Cakra Steel, Delco Prima"
+      }
+    },
+    {
+      "nama_barang": "Tulangan",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "D10-150",
+        "spesifikasi_merek": null
+      }
+    },
+    {
+      "nama_barang": "Beton mutu",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "fc' 25\nMutu beton fc' 25 MPa: untuk struktur raft foundation atau ditentukan lain digambar sesuai kondisi khusus lapangan.",
+        "spesifikasi_merek": "Lokal"
+      }
+    },
+    {
+      "nama_barang": "SS400",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "t=2,3mm (Powder Coating 60-80µm)\nfy=240MPa; fu=400Mpa",
+        "spesifikasi_merek": "Mobox"
+      }
+    },
+    {
+      "nama_barang": "SS400",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "t=4,8mm (Powder Coating 60-80µm)\nfy=240MPa; fu=400Mpa",
+        "spesifikasi_merek": "Mobox"
+      }
+    },
+    {
+      "nama_barang": "Kolom Hollow",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Hollow 150x150x4.5mm\nHollow 100x50x3mm\nFin. Cat Besi Putih\nSS400 fy=240MPa; fu=400Mpa",
+        "spesifikasi_merek": "Garuda Raja Paksi, Lautan Steel, Krakatau Steel"
+      }
+    },
+    {
+      "nama_barang": "Balok Hollow",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Hollow 150x100x4.5mm\nHollow 150x100x3mm\nHollow 100x50x3mm\nHollow 50x50x2.3mm\nFin. Cat Besi Putih\nSS400 fy=240MPa; fu=400Mpa",
+        "spesifikasi_merek": "Garuda Raja Paksi, Lautan Steel, Krakatau Steel"
+      }
+    },
+    {
+      "nama_barang": "Baut",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Baut Mutu Tinggi A325; fy=660MPa; fu=830MPa",
+        "spesifikasi_merek": "Garuda Raja Paksi, Lautan Steel, Krakatau Steel"
+      }
+    },
+    {
+      "nama_barang": "Kuda-Kuda",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Rangka Baja Ringan C75 tebal minimal 0.7 BMT Mutu G550 fy=550MPa, fu=550MPa",
+        "spesifikasi_merek": "Lysaght Bluescope, Cahaya Benteng Mas, K-steel, Aplus, Utomodeck"
+      }
+    },
+    {
+      "nama_barang": "Gording",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Rangka Baja Ringan Reng t=0.4mm",
+        "spesifikasi_merek": "Lysaght Bluescope, Cahaya Benteng Mas, K-steel, Aplus, Utomodeck"
+      }
+    },
+    {
+      "nama_barang": "Kabel NY Y",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "3 x 10mm\n3 x 16mm",
+        "spesifikasi_merek": "Supreme, Extrana, Eterna, Kabelmetal, Kabelindo, Extrana"
+      }
+    },
+    {
+      "nama_barang": "Line Utama Kabel NYM",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "3 x 6mm",
+        "spesifikasi_merek": "Supreme, Extrana, Eterna, Kabelmetal, Kabelindo, Extrana"
+      }
+    },
+    {
+      "nama_barang": "Lampu Kabel NYM",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "3 x 2.5mm",
+        "spesifikasi_merek": "Supreme, Extrana, Eterna, Kabelmetal, Kabelindo, Extrana"
+      }
+    },
+    {
+      "nama_barang": "Stop Kontak NYM",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "3 x 2.5mm",
+        "spesifikasi_merek": "Supreme, Extrana, Eterna, Kabelmetal, Kabelindo, Extrana"
+      }
+    },
+    {
+      "nama_barang": "AC NYM",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "3 x 2.5mm",
+        "spesifikasi_merek": "Supreme, Extrana, Eterna, Kabelmetal, Kabelindo, Extrana"
+      }
+    },
+    {
+      "nama_barang": "Exhaust & Blower NYM",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "3 x 2.5mm",
+        "spesifikasi_merek": "Supreme, Extrana, Eterna, Kabelmetal, Kabelindo, Extrana"
+      }
+    },
+    {
+      "nama_barang": "Insect Killer NYM",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "3 x 2.5mm",
+        "spesifikasi_merek": "Supreme, Extrana, Eterna, Kabelmetal, Kabelindo, Extrana"
+      }
+    },
+    {
+      "nama_barang": "Air Curtain NYM",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "3 x 2.5mm",
+        "spesifikasi_merek": "Supreme, Extrana, Eterna, Kabelmetal, Kabelindo, Extrana"
+      }
+    },
+    {
+      "nama_barang": "Cooker Hood NYM",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "3 x 2.5mm",
+        "spesifikasi_merek": "Supreme, Extrana, Eterna, Kabelmetal, Kabelindo, Extrana"
+      }
+    },
+    {
+      "nama_barang": "Steamer NYM",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "3 x 2.5mm",
+        "spesifikasi_merek": "Supreme, Extrana, Eterna, Kabelmetal, Kabelindo, Extrana"
+      }
+    },
+    {
+      "nama_barang": "Water Heater 15L NYM",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "3 x 4 mm",
+        "spesifikasi_merek": "Supreme, Extrana, Eterna, Kabelmetal, Kabelindo, Extrana"
+      }
+    },
+    {
+      "nama_barang": "Water Heater 50L NYM",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "3 x 4 mm",
+        "spesifikasi_merek": "Supreme, Extrana, Eterna, Kabelmetal, Kabelindo, Extrana"
+      }
+    },
+    {
+      "nama_barang": "Lampu",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "TL LED 16W",
+        "spesifikasi_merek": "Philips, Panasonic, Oram, Meval"
+      }
+    },
+    {
+      "nama_barang": "Lampu",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Downlight LED 14W",
+        "spesifikasi_merek": "Philips, Panasonic, Oram, Meval"
+      }
+    },
+    {
+      "nama_barang": "Lampu",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Downlight LED 10W",
+        "spesifikasi_merek": "Philips, Panasonic, Oram, Meval"
+      }
+    },
+    {
+      "nama_barang": "Stop Kontak",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Single 16A",
+        "spesifikasi_merek": "Panasonic, Schneider (Clipsal/Vivace), Legrand, Boss, Broco"
+      }
+    },
+    {
+      "nama_barang": "Stop Kontak AC",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Single 16A",
+        "spesifikasi_merek": "Panasonic, Schneider (Clipsal/Vivace), Legrand, Boss, Broco"
+      }
+    },
+    {
+      "nama_barang": "Saklar",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Single 5A",
+        "spesifikasi_merek": "Panasonic, Schneider (Clipsal/Vivace), Legrand, Boss, Broco"
+      }
+    },
+    {
+      "nama_barang": "Saklar",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Double 5A",
+        "spesifikasi_merek": "Panasonic, Schneider (Clipsal/Vivace), Legrand, Boss, Broco"
+      }
+    },
+    {
+      "nama_barang": "Water Heater",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Type Air To Water, 100 L, 500 W Sesuai gambar perencanaan",
+        "spesifikasi_merek": "Ariston, Elterra, Midea, Paloma, Modena"
+      }
+    },
+    {
+      "nama_barang": "Insect Killer",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "120 Watt, sesuai gambar perencanaan",
+        "spesifikasi_merek": "Philips, Panasonic, Rentokil"
+      }
+    },
+    {
+      "nama_barang": "Air Curtain",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "1650 cmh, sesuai gambar perencanaan",
+        "spesifikasi_merek": "CKE, Gree, Midea"
+      }
+    },
+    {
+      "nama_barang": "Panel Distribusi",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Aluminium",
+        "spesifikasi_merek": "Lokal"
+      }
+    },
+    {
+      "nama_barang": "Genset Type Silent Engine : Diesel 4 langkah, system pendingin air, 1500 rpm Alternator : AVR, brushless, Copper Winding",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "SPPG Ukuran 20x20: Kapasitas 40 kVA, 3 Phase, 380 V, 50 Hz\nSPPG Ukuran 10x15: Kapasitas 25 kVA, 3 Phase, 380 V, 50 Hz",
+        "spesifikasi_merek": "Yanmar, Isuzu, V-ge"
+      }
+    },
+    {
+      "nama_barang": "Air Conditioner",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Single Split Wall Mounted Standard 18.000 btu/h Non Inverter",
+        "spesifikasi_merek": "Sharp, LG, Daikin, Panasonic"
+      }
+    },
+    {
+      "nama_barang": "Air Conditioner",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Single Split Wall Mounted",
+        "spesifikasi_merek": "Sharp, LG, Daikin,"
+      }
+    },
+    {
+      "nama_barang": "Standard 9.000 btu/H Non Inverter",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Standard 9.000 btu/H Non Inverter",
+        "spesifikasi_merek": "Panasonic"
+      }
+    },
+    {
+      "nama_barang": "Single Split Wall Mounted Standard 7.000 btu/H Non Inverter",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Single Split Wall Mounted Standard 7.000 btu/H Non Inverter",
+        "spesifikasi_merek": "Sharp, LG, Daikin, Panasonic"
+      }
+    },
+    {
+      "nama_barang": "Exhaust Fan Ceiling",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "60 cfm, 100 cfm & 150 cfm",
+        "spesifikasi_merek": "Maspion, CKE, Panasonic"
+      }
+    },
+    {
+      "nama_barang": "Exhaust cooker hood",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Axial Fan 3000 cfm",
+        "spesifikasi_merek": "CKE, Vanco, ADK"
+      }
+    },
+    {
+      "nama_barang": "Saluran cooker hood",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Ducting BJLS 0.5 mm",
+        "spesifikasi_merek": "Lokfom, Setara"
+      }
+    },
+    {
+      "nama_barang": "Pipa Refrigerant",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "IU/OU AC, NYM 3 x 2,5 mm + Conduit 18.000 btu/h",
+        "spesifikasi_merek": "hoda, Artic, Tateyama"
+      }
+    },
+    {
+      "nama_barang": "Pipa Refrigerant",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "IU/OU AC, NYM 3 x 2,5 mm + Conduit 9.000 btu/h",
+        "spesifikasi_merek": "hoda, Artic, Tateyama"
+      }
+    },
+    {
+      "nama_barang": "Drainase AC",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "PVC AW 1/2\"",
+        "spesifikasi_merek": "Rucika, Supramas, Vinilon, Surya Flo"
+      }
+    },
+    {
+      "nama_barang": "Instalasi Pipa Pembuangan Udara",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "PVC D 4\"",
+        "spesifikasi_merek": "Rucika, Supramas, Vinilon, Surya Flo"
+      }
+    },
+    {
+      "nama_barang": "Cooker Hood",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "SU 304, Blower Axial, Ducting BJLS",
+        "spesifikasi_merek": "LokFom"
+      }
+    },
+    {
+      "nama_barang": "Custom Commercial Hood",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Stainless Steel 6 m",
+        "spesifikasi_merek": "SU 304"
+      }
+    },
+    {
+      "nama_barang": "Custom Exhaust Fan Size 24\" Axial",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Custom Exhaust Fan Size 24\" Axial",
+        "spesifikasi_merek": "CKE, Vanco, ADK"
+      }
+    },
+    {
+      "nama_barang": "Custom Stainless Steel Ducting 500 x 400 mm",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Custom Stainless Steel Ducting 500 x 400 mm",
+        "spesifikasi_merek": "SU 304"
+      }
+    },
+    {
+      "nama_barang": "Gantungan Stainless Steel Ducting 10 m",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Gantungan Stainless Steel Ducting 10 m",
+        "spesifikasi_merek": "SU 304"
+      }
+    },
+    {
+      "nama_barang": "Pipa Air Bersih",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "PPR PN-10 (1\")",
+        "spesifikasi_merek": "Wavin, Rucika, Supramas, Elterra Genova, Westpex"
+      }
+    },
+    {
+      "nama_barang": "Pipa Air Bersih",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "PPR PN-10 (3/4\")",
+        "spesifikasi_merek": "Wavin, Rucika, Supramas, Elterra Genova, Westpex"
+      }
+    },
+    {
+      "nama_barang": "Pipa Air Bersih",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "PPR PN-10 (1/2\")",
+        "spesifikasi_merek": "Wavin, Rucika, Supramas, Elterra Genova, Westpex"
+      }
+    },
+    {
+      "nama_barang": "Pipa Air Bersih",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "PPR PN-20 (1/2\")",
+        "spesifikasi_merek": "Wavin, Rucika, Supramas, Elterra Genova, Westpex"
+      }
+    },
+    {
+      "nama_barang": "Gate Valve Air Bersih",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Gate Valve 1\"",
+        "spesifikasi_merek": "Kent, KITZ, Yuta"
+      }
+    },
+    {
+      "nama_barang": "Gate Valve Air Bersih",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Gate Valve 1 1/2\"",
+        "spesifikasi_merek": "Kent, KITZ, Yuta"
+      }
+    },
+    {
+      "nama_barang": "Pipa Air Kotor",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "PVC AW (4\")",
+        "spesifikasi_merek": "Wavin, Rucika"
+      }
+    },
+    {
+      "nama_barang": "Pipa Air Bekas",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "PVC AW (4\")",
+        "spesifikasi_merek": "Wavin, Rucika, Supramas, Elterra Genova, Westpex"
+      }
+    },
+    {
+      "nama_barang": "Pipa Air Bekas",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "PVC AW (2\")",
+        "spesifikasi_merek": "Wavin, Rucika, Supramas, Elterra Genova, Westpex"
+      }
+    },
+    {
+      "nama_barang": "Pipa Air Bekas",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "FCO 2\"",
+        "spesifikasi_merek": "Wavin, Rucika, Supramas, Elterra Genova, Westpex"
+      }
+    },
+    {
+      "nama_barang": "Pipa Air Bekas",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "FCO 4\"",
+        "spesifikasi_merek": "Wavin, Rucika, Supramas, Elterra Genova, Westpex"
+      }
+    },
+    {
+      "nama_barang": "Pipa Air Hujan",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "PVC AW (3\")",
+        "spesifikasi_merek": "Wavin, Rucika, Supramas, Elterra Genova, Westpex"
+      }
+    },
+    {
+      "nama_barang": "Pipa Gas",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Pipa Gip medium A Ø 3/4\"",
+        "spesifikasi_merek": "Spindo, SPS"
+      }
+    },
+    {
+      "nama_barang": "Gas Detector",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Sistem sensor tekanan",
+        "spesifikasi_merek": "Lokal"
+      }
+    },
+    {
+      "nama_barang": "Stop Kran Gas",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Ball valve, tekanan max 2 bar brass body, sambungan drat",
+        "spesifikasi_merek": "Onda, ANZ, Showa"
+      }
+    },
+    {
+      "nama_barang": "Header Pipa Central",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "2\"",
+        "spesifikasi_merek": "Fabrikasi Spindo, SPS"
+      }
+    },
+    {
+      "nama_barang": "Bak Kontrol",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "300 x 300 x 300 mm",
+        "spesifikasi_merek": "Lokal"
+      }
+    },
+    {
+      "nama_barang": "Terminal Udara Copper",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "1000 mm",
+        "spesifikasi_merek": "Lokal"
+      }
+    },
+    {
+      "nama_barang": "Klem Kabel Grounding",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Klem kuningan standar 5/8, Mekanik (dengan baut stainless atau kuningan)",
+        "spesifikasi_merek": "Lokal"
+      }
+    },
+    {
+      "nama_barang": "Down Conductor",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "BC 70 mm2",
+        "spesifikasi_merek": "Lokal"
+      }
+    },
+    {
+      "nama_barang": "Copper Grounding Rod",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "5/8\"",
+        "spesifikasi_merek": "Lokal"
+      }
+    },
+    {
+      "nama_barang": "Alat Pemadam Api Ringan (APAR)",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Dry chemical Tipe A Kap. 6 kg",
+        "spesifikasi_merek": "Toshiro, Tanata"
+      }
+    },
+    {
+      "nama_barang": "Alat Pemadam Api Ringan (APAR)",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Dry chemical Tipe A Kap.",
+        "spesifikasi_merek": "Toshiro, Tanata"
+      }
+    },
+    {
+      "nama_barang": "Gas CO2 Kap. 6 kg",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "6 kg",
+        "spesifikasi_merek": "Toshiro, Tanata"
+      }
+    },
+    {
+      "nama_barang": "Potassium Cair Tipe K Kap. 6 kg",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Kap. 6 kg",
+        "spesifikasi_merek": "Toshiro, Tanata"
+      }
+    },
+    {
+      "nama_barang": "Wallmount Rack Server",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "9U",
+        "spesifikasi_merek": "Universal"
+      }
+    },
+    {
+      "nama_barang": "Switch Hub",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Manage/ unmanage, port 8, kecepatan ethernet (10/100/1000 Mbps), backplane minimal 16 Gbps, garansi minimal 1 tahun, keamanan port security, ACL",
+        "spesifikasi_merek": "Hikvision, TP Link, Universal, Cisco, HPE Aruba, Ruckus, Ubiquiti"
+      }
+    },
+    {
+      "nama_barang": "Access Point",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Dual-band (2.4 GHz + 5 GHz)",
+        "spesifikasi_merek": "Hikvision, TP Link, Universal, Cisco, HPE Aruba, Ruckus, Ubiquiti"
+      }
+    },
+    {
+      "nama_barang": "Outlet Data",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "RJ45 (8P8C) kompatibel dengan UTP Cat 6",
+        "spesifikasi_merek": "Panasonic, Broco, Scheineder"
+      }
+    },
+    {
+      "nama_barang": "Instalasi Data Kabel",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "UTP Cat 6",
+        "spesifikasi_merek": "Hikvision,LS, SPC"
+      }
+    },
+    {
+      "nama_barang": "Instalasi Accses Point",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "UTP Cat 6",
+        "spesifikasi_merek": "Hikvision,LS, SPC"
+      }
+    },
+    {
+      "nama_barang": "NVR",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "8 chanel",
+        "spesifikasi_merek": "Hikvision, Vizion, UNV, Hilook, Dahua"
+      }
+    },
+    {
+      "nama_barang": "CCTV",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "2 Mp indoor",
+        "spesifikasi_merek": "Hikvision, Vizion, UNV, Hilook, Dahua"
+      }
+    },
+    {
+      "nama_barang": "CCTV",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "2 Mp outdoor",
+        "spesifikasi_merek": "Hikvision, Vizion, UNV, Hilook, Dahua"
+      }
+    },
+    {
+      "nama_barang": "Instalasi CCTV Kabel",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "UTP Cat 6",
+        "spesifikasi_merek": "Hikvision, Vizion, UNV, Hilook, Dahua, LS"
+      }
+    },
+    {
+      "nama_barang": "Reaktor Aerob Biosfilter",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "SPPG Ukuran 20x20: Kapasitas 9m3\nSPPG Ukuran 10x15: Kapasitas 4m3",
+        "spesifikasi_merek": "FRP, Farmel, Bams, Mitrabio, Nippon"
+      }
+    },
+    {
+      "nama_barang": "Equalizing Tank",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Kapasitas 3 m3",
+        "spesifikasi_merek": "FRP, Farmel, Bams, Mitrabio, Nippon"
+      }
+    },
+    {
+      "nama_barang": "Grease Trap",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "SPPG Ukuran 20x20: Kapasitas 4m3 FRP\nSPPG Ukuran 10x15:",
+        "spesifikasi_merek": "FRP, Farmel, Bams, Mitrabio, Nippon"
+      }
+    },
+    {
+      "nama_barang": "Difusser",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Coarse Buble 50-150 m3/ menit/pcs, ABS plastic natural rubber",
+        "spesifikasi_merek": "Yasunaga, San Ei, Lokal"
+      }
+    },
+    {
+      "nama_barang": "Bak Screen",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Frp ukuran lubang 10-20 mm",
+        "spesifikasi_merek": "FRP, Bams, Mitrabio, Nippon"
+      }
+    },
+    {
+      "nama_barang": "Air Blower Aeration",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Diaphram AP 60, pressure 20 kpa, air flow 60 lpm, tipe silent",
+        "spesifikasi_merek": "Yasunaga, San Ei, Lokal"
+      }
+    },
+    {
+      "nama_barang": "Panel Control",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Alumunium, contactor, overload, mcb indicator lamp",
+        "spesifikasi_merek": "Lokal, tebal 1,2mm"
+      }
+    },
+    {
+      "nama_barang": "Chlorinasi Tablet",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Inline contact, kaporit tablet, PVC AW",
+        "spesifikasi_merek": "Holan, Test Kit"
+      }
+    },
+    {
+      "nama_barang": "Air Lift Sistem Lumpur",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Summer sible , cast iron, 35-130lpm head 5 m",
+        "spesifikasi_merek": "Shimitzu, Wasser"
+      }
+    },
+    {
+      "nama_barang": "Sand Carbon Filter",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Frp, Dia 600 mm, tinggi 1200 mm, silika 0.45-0.55, media pasir 60 cm, kapasitas aliran 5-10 m3/jam, tekanan operasi 1.5-3.5 bar, efesien filtrasi 20-50 micron",
+        "spesifikasi_merek": "FRP, Farmel, Dia 600 mm"
+      }
+    },
+    {
+      "nama_barang": "Kabel dari Panel kontrol ke STP",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Nym 3x4",
+        "spesifikasi_merek": "Supreme, Extrana, Eterna"
+      }
+    },
+    {
+      "nama_barang": "Instalasi pipa limbah STP",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "PVC dia 100mm",
+        "spesifikasi_merek": "Rucka, Vinilon, Surya Flo"
+      }
+    },
+    {
+      "nama_barang": "Pompa Booster Head",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "SPPG Ukuran 20x20: End Suction, 2x120 LPM, 2X1,17 Kw, 30m\nSPPG Ukuran 10x15: End Suction, 2x75 LPM, 2X1 Kw, 30m",
+        "spesifikasi_merek": "Shimitzu, Farmel, Ebara, Wilo, Washer, Sanyo, Grundfos"
+      }
+    },
+    {
+      "nama_barang": "Pompa Transfer Head",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "End Suction, 2x50 LPM, 2X1 Kw, 30m",
+        "spesifikasi_merek": "Shimitzu, Farmel, Ebara, Wilo, Washer, Sanyo, Grundfos"
+      }
+    },
+    {
+      "nama_barang": "Tandon Air",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Stainless Foodgrade, 5000L",
+        "spesifikasi_merek": "Tirta,Grand, Profil Tank, Farmel"
+      }
+    },
+    {
+      "nama_barang": "Air Terminal",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Tembaga, 16 mm , tinggi 1000 mm",
+        "spesifikasi_merek": "Corn, Plasma"
+      }
+    },
+    {
+      "nama_barang": "Downconductor",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "BC 70 mm, di beri",
+        "spesifikasi_merek": "Lokal"
+      }
+    },
+    {
+      "nama_barang": "pelindung",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "",
+        "spesifikasi_merek": null
+      }
+    },
+    {
+      "nama_barang": "Rod",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Tembaga 6000 mm dia, 16 mm",
+        "spesifikasi_merek": "Lokal"
+      }
+    },
+    {
+      "nama_barang": "Klem",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Kuningan",
+        "spesifikasi_merek": "Lokal"
+      }
+    }
+  ]
+}

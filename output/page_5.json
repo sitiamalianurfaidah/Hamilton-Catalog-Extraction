@@ -1,0 +1,60 @@
+{
+  "items": [
+    {
+      "nama_barang": "Aluminium Foil (insulasi)",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "",
+        "spesifikasi_merek": "Bluescope, Cahaya Benteng Mas, Kastil"
+      }
+    },
+    {
+      "nama_barang": "Talang",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "PVC",
+        "spesifikasi_merek": "Pipaku, Pinguin, Power"
+      }
+    },
+    {
+      "nama_barang": "Finish Cat Dinding",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Cat ruang luar: Emulsion paint weather resistant, Low VOC\nCat dalam ruangan: Cat emulsi Akrilik , Low VOC, mudah dibersihkan. Untuk papan gypsum menggunakan cat khusus gypsum",
+        "spesifikasi_merek": "Nippon, Jotun, Propan"
+      }
+    },
+    {
+      "nama_barang": "Finish Cat Besi",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Sintetis alkyd resin, anti karat, tebal minimal 30 mikron per lapis",
+        "spesifikasi_merek": "Nippon, Jotun, Propan"
+      }
+    },
+    {
+      "nama_barang": "Pagar",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "BRC 6 mm tinggi BRC 190cm\nTiang pagar panjang 2200 mm diameter 2\" Hot Dipped Galvanized",
+        "spesifikasi_merek": "Lokal"
+      }
+    },
+    {
+      "nama_barang": "Closet duduk",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Toilet bowl (s-trap) w/installation fitting set\nDual flush tank trim w/o stop valve\nDuroplast seat & cover w/metal hinges, soft, ssoft closing (European standard)",
+        "spesifikasi_merek": "Toto, American Standard, Trillianware, Roca"
+      }
+    },
+    {
+      "nama_barang": "Jet washer",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Shower spray w/stop valve (chrome)",
+        "spesifikasi_merek": "Toto, American Standard, Trillianware, Roca"
+      }
+    },
+    {
+      "nama_barang": "Floor drain",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Floor drain w/square flange (for 2\" G.I. Pipe) (115x115mm)",
+        "spesifikasi_merek": "Toto, American Standard, Trillianware, Roca Trillianware"
+      }
+    }
+  ]
+}

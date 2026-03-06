@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "header1": "ARSITEKTUR",
+      "header2": "I. PEKERJAAN PAVING",
+      "nama_barang": "Kolom Hollow",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Hollow 150x150x4.5mm\nHollow 100x50x3mm\nFin. Cat Besi Putih\nSS400 fy=240MPa; fu=400Mpa",
+        "spesifikasi_merek": "Garuda Raja Paksi, Lautan Steel, Krakatau Steel"
+      }
+    },
+    {
+      "header1": "ARSITEKTUR",
+      "header2": "I. PEKERJAAN PAVING",
+      "nama_barang": "Balok Hollow",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Hollow 150x100x4.5mm\nHollow 150x100x3mm\nHollow 100x50x3mm\nHollow 50x50x2.3mm\nFin. Cat Besi Putih\nSS400 fy=240MPa; fu=400Mpa",
+        "spesifikasi_merek": "Garuda Raja Paksi, Lautan Steel, Krakatau Steel"
+      }
+    },
+    {
+      "header1": "ARSITEKTUR",
+      "header2": "I. PEKERJAAN PAVING",
+      "nama_barang": "Baut",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Baut Mutu Tinggi A325; fy=660MPa; fu=830MPa",
+        "spesifikasi_merek": "Garuda Raja Paksi, Lautan Steel, Krakatau Steel"
+      }
+    },
+    {
+      "header1": "ARSITEKTUR",
+      "header2": "C. ATAP",
+      "nama_barang": "Kuda-Kuda",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Rangka Baja Ringan C75 tebal minimal 0.7 BMT Mutu G550 fy=550MPa, fu=550MPa",
+        "spesifikasi_merek": "Lysaght Bluescope, Cahaya Benteng Mas, K-steel, Aplus, Utomodeck"
+      }
+    },
+    {
+      "header1": "ARSITEKTUR",
+      "header2": "C. ATAP",
+      "nama_barang": "Gording",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Rangka Baja Ringan Reng t=0.4mm",
+        "spesifikasi_merek": "Lysaght Bluescope, Cahaya Benteng Mas, K-steel, Aplus, Utomodeck"
+      }
+    }
+  ]
+}

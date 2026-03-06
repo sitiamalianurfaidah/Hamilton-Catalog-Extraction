@@ -1,0 +1,102 @@
+{
+  "items": [
+    {
+      "nama_barang": "Lampu",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "TL LED 16W",
+        "spesifikasi_merek": "Philips, Panasonic, Oram, Meval"
+      }
+    },
+    {
+      "nama_barang": "Lampu",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Downlight LED 14W",
+        "spesifikasi_merek": "Philips, Panasonic, Oram, Meval"
+      }
+    },
+    {
+      "nama_barang": "Lampu",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Downlight LED 10W",
+        "spesifikasi_merek": "Philips, Panasonic, Oram, Meval"
+      }
+    },
+    {
+      "nama_barang": "Stop Kontak",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Single 16A",
+        "spesifikasi_merek": "Panasonic, Schneider (Clipsal/Vivace), Legrand, Boss, Broco"
+      }
+    },
+    {
+      "nama_barang": "Stop Kontak AC",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Single 16A",
+        "spesifikasi_merek": "Panasonic, Schneider (Clipsal/Vivace), Legrand, Boss, Broco"
+      }
+    },
+    {
+      "nama_barang": "Saklar",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Single 5A",
+        "spesifikasi_merek": "Panasonic, Schneider (Clipsal/Vivace), Legrand, Boss, Broco"
+      }
+    },
+    {
+      "nama_barang": "Saklar",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Double 5A",
+        "spesifikasi_merek": "Panasonic, Schneider (Clipsal/Vivace), Legrand, Boss, Broco"
+      }
+    },
+    {
+      "nama_barang": "Water Heater",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Type Air To Water, 100 L, 500 W Sesuai gambar perencanaan",
+        "spesifikasi_merek": "Ariston, Elterra, Midea, Paloma, Modena"
+      }
+    },
+    {
+      "nama_barang": "Insect Killer",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "120 Watt, sesuai gambar perencanaan",
+        "spesifikasi_merek": "Philips, Panasonic, Rentokil"
+      }
+    },
+    {
+      "nama_barang": "Air Curtain",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "1650 cmh, sesuai gambar perencanaan",
+        "spesifikasi_merek": "CKE,Gree, Midea"
+      }
+    },
+    {
+      "nama_barang": "Panel Distribusi",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Aluminium",
+        "spesifikasi_merek": "Lokal"
+      }
+    },
+    {
+      "nama_barang": "Genset Type Silent Engine : Diesel 4 langkah, system pendingin air, 1500 rpm Alternator : AVR, brushless, Copper Winding",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "SPPG Ukuran 20x20: Kapasitas 40 kVA, 3 Phase, 380 V, 50 Hz\nSPPG Ukuran 10x15: Kapasitas 25 kVA, 3 Phase, 380 V, 50 Hz",
+        "spesifikasi_merek": "Yanmar, Isuzu, V-ge"
+      }
+    },
+    {
+      "nama_barang": "Air Conditioner",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Single Split Wall Mounted Standard 18.000 btu/h Non Inverter",
+        "spesifikasi_merek": "Sharp, LG, Daikin, Panasonic"
+      }
+    },
+    {
+      "nama_barang": "Air Conditioner",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Single Split Wall Mounted",
+        "spesifikasi_merek": "Sharp, LG, Daikin,"
+      }
+    }
+  ]
+}

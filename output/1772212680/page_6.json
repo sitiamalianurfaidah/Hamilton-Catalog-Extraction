@@ -1,0 +1,53 @@
+{
+  "items": [
+    {
+      "nama_barang": "Shower & cross handle stop valve",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Min. water pressure : 0.05 MPa\nMax. water pressure : 0.75 MPa\nFlow rate : 12 l/m",
+        "spesifikasi_merek": "Toto, American Standard, Trilliumware, Roca Trilliumware"
+      }
+    },
+    {
+      "nama_barang": "Wastafel",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Wall hung lavatory 2 tap holes\nAvailable : 1 tap hole\n430x435mm",
+        "spesifikasi_merek": "Toto, American Standard, Trilliumware, Roca"
+      }
+    },
+    {
+      "nama_barang": "Kran wudhu",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Wall type lavatory faucet (cold only)\nMin. water pressure : 0.05 MPa\nMax. water pressure : 0.75 MPa\nFlow rate : 5 l/m",
+        "spesifikasi_merek": "Toto, American Standard, Trilliumware, Roca"
+      }
+    },
+    {
+      "nama_barang": "Kran Janitor/Servis",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Min. water pressure : 0.05 MPa\nMax. water pressure : 0.75 MPa\nFlow rate : 7 l/m",
+        "spesifikasi_merek": "Toto, American Standard, Trilliumware, Roca"
+      }
+    },
+    {
+      "nama_barang": "Kran Pencuci Wajan",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Min. water pressure : 0.05 MPa\nMax. water pressure : 0.75 MPa\nFlow rate : 7 l/m",
+        "spesifikasi_merek": "Toto, American Standard, Trilliumware, Roca"
+      }
+    },
+    {
+      "nama_barang": "Tissue Holder",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "",
+        "spesifikasi_merek": "Toto, American Standard, Trilliumware, Roca"
+      }
+    },
+    {
+      "nama_barang": "Kran Wastafel",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Min. water pressure : 0.05 MPa\nMax. water pressure : 0.75 MPa\nFlow rate : 7 l/m",
+        "spesifikasi_merek": "Toto, American Standard, Trilliumware, Roca"
+      }
+    }
+  ]
+}

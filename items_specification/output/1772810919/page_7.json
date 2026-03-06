@@ -1,0 +1,13 @@
+{
+  "items": [
+    {
+      "header1": "ARSITEKTUR",
+      "header2": "I. PEKERJAAN PAVING",
+      "nama_barang": "Paving Block",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Kuat tekan rata-rata fc 25 mPa, dengan tebal 8cm\nPenyerapan air rata-rata 3%\nKetahanan aus rata-rata 0.09 mm/menit",
+        "spesifikasi_merek": "Cisangkan, Asiacon, Masterblock"
+      }
+    }
+  ]
+}

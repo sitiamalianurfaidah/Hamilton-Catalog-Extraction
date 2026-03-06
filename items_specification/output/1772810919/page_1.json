@@ -1,0 +1,76 @@
+{
+  "items": [
+    {
+      "header1": "ARSITEKTUR",
+      "header2": "A. LANTAI",
+      "nama_barang": "R. Konsultasi Ahli Gizi",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "HT 60x60, Polished/Unpolished",
+        "spesifikasi_merek": "Nirogranite, Granito, Romangranit"
+      }
+    },
+    {
+      "header1": "ARSITEKTUR",
+      "header2": "A. LANTAI",
+      "nama_barang": "R. Manajemen/Staf/Administrasi",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "HT 60x60, Polished/Unpolished",
+        "spesifikasi_merek": "Nirogranite, Granito, Romangranit"
+      }
+    },
+    {
+      "header1": "ARSITEKTUR",
+      "header2": "A. LANTAI",
+      "nama_barang": "Ruang Rapat",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "HT 60x60, Polished/Unpolished",
+        "spesifikasi_merek": "Nirogranite, Granito, Romangranit"
+      }
+    },
+    {
+      "header1": "ARSITEKTUR",
+      "header2": "A. LANTAI",
+      "nama_barang": "Mushola",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "HT 60x60, Polished/Unpolished",
+        "spesifikasi_merek": "Nirogranite, Granito, Romangranit"
+      }
+    },
+    {
+      "header1": "ARSITEKTUR",
+      "header2": "A. LANTAI",
+      "nama_barang": "R. Kepala SPPG",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "HT 60x60, Polished/Unpolished",
+        "spesifikasi_merek": "Nirogranite, Granito, Romangranit"
+      }
+    },
+    {
+      "header1": "ARSITEKTUR",
+      "header2": "A. LANTAI",
+      "nama_barang": "Toilet Manajemen & Tempat Wudhu",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "HT 60x60, Unpolished",
+        "spesifikasi_merek": "Nirogranite, Granito, Romangranit"
+      }
+    },
+    {
+      "header1": "ARSITEKTUR",
+      "header2": "A. LANTAI",
+      "nama_barang": "Toilet Pria",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "HT 60x60, Unpolished",
+        "spesifikasi_merek": "Nirogranite, Granito, Romangranit"
+      }
+    },
+    {
+      "header1": "ARSITEKTUR",
+      "header2": "A. LANTAI",
+      "nama_barang": "Toilet Wanita",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "HT 60x60, Unpolished",
+        "spesifikasi_merek": "Nirogranite, Granito, Romangranit"
+      }
+    }
+  ]
+}
