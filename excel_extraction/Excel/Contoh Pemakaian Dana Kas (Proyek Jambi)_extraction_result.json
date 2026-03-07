@@ -1,0 +1,571 @@
+{
+  "metadata": {
+    "file_path": "Excel/Contoh Pemakaian Dana Kas (Proyek Jambi).xlsx",
+    "sheet_name": "Laporan Monitoring Kas Januari",
+    "stage": "extraction_result",
+    "total_blocks": 11,
+    "total_transactions": 18,
+    "total_products": 39
+  },
+  "blocks": [
+    {
+      "tanggal": "2025-01-01 00:00:00",
+      "dana_masuk": null,
+      "sisa_saldo_sebelum": null,
+      "saldo_saat_ini": -640000.0,
+      "total_operasional": 1100000.0,
+      "items": [
+        {
+          "nama_barang": "BBM KLX",
+          "jenis_tipe_barang": "Bahan Bakar Motor",
+          "spesifikasi_detail_barang": {
+            "peruntukan": "Kendaraan"
+          },
+          "merk_barang": "Tidak Ada",
+          "harga_barang": null,
+          "raw_keterangan": "BBM KLX, Canebo, Sapu Mobil, Tisu Mobil",
+          "raw_operasional": 1100000.0
+        },
+        {
+          "nama_barang": "Canebo",
+          "jenis_tipe_barang": "Material",
+          "spesifikasi_detail_barang": {
+            "peruntukan": "Pembersihan"
+          },
+          "merk_barang": "Tidak Ada",
+          "harga_barang": null,
+          "raw_keterangan": "BBM KLX, Canebo, Sapu Mobil, Tisu Mobil",
+          "raw_operasional": 1100000.0
+        },
+        {
+          "nama_barang": "Sapu Mobil",
+          "jenis_tipe_barang": "Peralatan",
+          "spesifikasi_detail_barang": {
+            "peruntukan": "Pembersihan Kendaraan"
+          },
+          "merk_barang": "Tidak Ada",
+          "harga_barang": null,
+          "raw_keterangan": "BBM KLX, Canebo, Sapu Mobil, Tisu Mobil",
+          "raw_operasional": 1100000.0
+        },
+        {
+          "nama_barang": "Tisu Mobil",
+          "jenis_tipe_barang": "Peralatan",
+          "spesifikasi_detail_barang": {
+            "peruntukan": "Pembersihan Kendaraan"
+          },
+          "merk_barang": "Tidak Ada",
+          "harga_barang": null,
+          "raw_keterangan": "BBM KLX, Canebo, Sapu Mobil, Tisu Mobil",
+          "raw_operasional": 1100000.0
+        }
+      ],
+      "num_items": 4
+    },
+    {
+      "tanggal": "2025-02-01 00:00:00",
+      "dana_masuk": null,
+      "sisa_saldo_sebelum": -640000.0,
+      "saldo_saat_ini": -2140000.0,
+      "total_operasional": 1500000.0,
+      "items": [
+        {
+          "nama_barang": "Tali Rafia",
+          "jenis_tipe_barang": "Material",
+          "spesifikasi_detail_barang": {
+            "peruntukan": "Entertaint"
+          },
+          "merk_barang": "Tidak Ada",
+          "harga_barang": 1500000,
+          "raw_keterangan": "Tali Rafia, Entertaint",
+          "raw_operasional": 1500000.0
+        }
+      ],
+      "num_items": 1
+    },
+    {
+      "tanggal": "2024-05-01 00:00:00",
+      "dana_masuk": null,
+      "sisa_saldo_sebelum": -2140000.0,
+      "saldo_saat_ini": -3340000.0,
+      "total_operasional": 1200000.0,
+      "items": [
+        {
+          "nama_barang": "BBM KLX",
+          "jenis_tipe_barang": "Bahan Bakar",
+          "spesifikasi_detail_barang": {
+            "jumlah": 2
+          },
+          "merk_barang": "Tidak Ada",
+          "harga_barang": 600000,
+          "raw_keterangan": "BBM KLX, 2 Kali Isi",
+          "raw_operasional": 1200000.0
+        }
+      ],
+      "num_items": 1
+    },
+    {
+      "tanggal": "2025-08-01 00:00:00",
+      "dana_masuk": 8340000.0,
+      "sisa_saldo_sebelum": -3340000.0,
+      "saldo_saat_ini": 2230000.0,
+      "total_operasional": 2770000.0,
+      "items": [
+        {
+          "nama_barang": "BBm KLX",
+          "jenis_tipe_barang": "Bahan Bakar",
+          "spesifikasi_detail_barang": {
+            "peruntukan": "Kendaraan"
+          },
+          "merk_barang": "Tidak Ada",
+          "harga_barang": null,
+          "raw_keterangan": "BBm KLX, Materai, Galon, BBM mesin, Biaya Tarik Tunai, Colokan Listrk",
+          "raw_operasional": 2770000.0
+        },
+        {
+          "nama_barang": "Materai",
+          "jenis_tipe_barang": "Material",
+          "spesifikasi_detail_barang": {
+            "ukuran": "Umum",
+            "jumlah": 1
+          },
+          "merk_barang": "Tidak Ada",
+          "harga_barang": null,
+          "raw_keterangan": "BBm KLX, Materai, Galon, BBM mesin, Biaya Tarik Tunai, Colokan Listrk",
+          "raw_operasional": 2770000.0
+        },
+        {
+          "nama_barang": "Galon",
+          "jenis_tipe_barang": "Minuman",
+          "spesifikasi_detail_barang": {
+            "ukuran": "19L",
+            "temperatur": "Dingin"
+          },
+          "merk_barang": "Aqua/Local",
+          "harga_barang": null,
+          "raw_keterangan": "BBm KLX, Materai, Galon, BBM mesin, Biaya Tarik Tunai, Colokan Listrk",
+          "raw_operasional": 2770000.0
+        },
+        {
+          "nama_barang": "BBM mesin",
+          "jenis_tipe_barang": "Bahan Bakar",
+          "spesifikasi_detail_barang": {
+            "peruntukan": "Mesin"
+          },
+          "merk_barang": "Tidak Ada",
+          "harga_barang": null,
+          "raw_keterangan": "BBm KLX, Materai, Galon, BBM mesin, Biaya Tarik Tunai, Colokan Listrk",
+          "raw_operasional": 2770000.0
+        },
+        {
+          "nama_barang": "Biaya Tarik Tunai",
+          "jenis_tipe_barang": "Service",
+          "spesifikasi_detail_barang": {
+            "layanan": "ATM Withdrawal Fee",
+            "bank": "Umum"
+          },
+          "merk_barang": "Bank",
+          "harga_barang": null,
+          "raw_keterangan": "BBm KLX, Materai, Galon, BBM mesin, Biaya Tarik Tunai, Colokan Listrk",
+          "raw_operasional": 2770000.0
+        },
+        {
+          "nama_barang": "Colokan Listrik",
+          "jenis_tipe_barang": "Peralatan",
+          "spesifikasi_detail_barang": {
+            "tipe": "Umum"
+          },
+          "merk_barang": "Tidak Ada",
+          "harga_barang": null,
+          "raw_keterangan": "BBm KLX, Materai, Galon, BBM mesin, Biaya Tarik Tunai, Colokan Listrk",
+          "raw_operasional": 2770000.0
+        }
+      ],
+      "num_items": 6
+    },
+    {
+      "tanggal": "2025-11-01 00:00:00",
+      "dana_masuk": null,
+      "sisa_saldo_sebelum": 2230000.0,
+      "saldo_saat_ini": 680000.0,
+      "total_operasional": 1550000.0,
+      "items": [
+        {
+          "nama_barang": "BBM",
+          "jenis_tipe_barang": "Bahan Bakar",
+          "spesifikasi_detail_barang": {
+            "peruntukan": "Kendaraan"
+          },
+          "merk_barang": "Tidak Ada",
+          "harga_barang": 1550000,
+          "raw_keterangan": "BBM Motor, Entertaint",
+          "raw_operasional": 1550000.0
+        },
+        {
+          "nama_barang": "Entertaint",
+          "jenis_tipe_barang": "Service",
+          "spesifikasi_detail_barang": {
+            "layanan": "Hiburan"
+          },
+          "merk_barang": "Tidak Ada",
+          "harga_barang": null,
+          "raw_keterangan": "BBM Motor, Entertaint",
+          "raw_operasional": 1550000.0
+        }
+      ],
+      "num_items": 2
+    },
+    {
+      "tanggal": "13-01-2024",
+      "dana_masuk": 10000000.0,
+      "sisa_saldo_sebelum": 680000.0,
+      "saldo_saat_ini": 7430000.0,
+      "total_operasional": 3250000.0,
+      "items": [
+        {
+          "nama_barang": "Colokan Listrik",
+          "jenis_tipe_barang": "Peralatan",
+          "spesifikasi_detail_barang": {
+            "ukuran": "Tidak Ada",
+            "warna": "Tidak Ada",
+            "jumlah": "Tidak Ada"
+          },
+          "merk_barang": "Tidak Ada",
+          "harga_barang": null,
+          "raw_keterangan": "Colokan Listrik, Terminal Listrik, Spidol",
+          "raw_operasional": 1280000.0
+        },
+        {
+          "nama_barang": "Terminal Listrik",
+          "jenis_tipe_barang": "Peralatan",
+          "spesifikasi_detail_barang": {
+            "ukuran": "Tidak Ada",
+            "warna": "Tidak Ada",
+            "jumlah": "Tidak Ada"
+          },
+          "merk_barang": "Tidak Ada",
+          "harga_barang": null,
+          "raw_keterangan": "Colokan Listrik, Terminal Listrik, Spidol",
+          "raw_operasional": 1280000.0
+        },
+        {
+          "nama_barang": "Spidol",
+          "jenis_tipe_barang": "Alat Tulis Kantor",
+          "spesifikasi_detail_barang": {
+            "ukuran": "Tidak Ada",
+            "warna": "Tidak Ada",
+            "jumlah": "Tidak Ada"
+          },
+          "merk_barang": "Tidak Ada",
+          "harga_barang": null,
+          "raw_keterangan": "Colokan Listrik, Terminal Listrik, Spidol",
+          "raw_operasional": 1280000.0
+        },
+        {
+          "nama_barang": "Air Minum Galon",
+          "jenis_tipe_barang": "Minuman",
+          "spesifikasi_detail_barang": {
+            "ukuran": "Tidak Dijelaskan",
+            "jumlah": "Tidak Dijelaskan"
+          },
+          "merk_barang": "Tidak Ada",
+          "harga_barang": null,
+          "raw_keterangan": "Isi Ulang Air Minum Galon, Biaya Tarik Tunai",
+          "raw_operasional": 1080000.0
+        },
+        {
+          "nama_barang": "Biaya Tarik Tunai",
+          "jenis_tipe_barang": "Service",
+          "spesifikasi_detail_barang": {
+            "layanan": "Tarik Tunai",
+            "bank": "Tidak Dijelaskan"
+          },
+          "merk_barang": "Tidak Ada",
+          "harga_barang": null,
+          "raw_keterangan": "Isi Ulang Air Minum Galon, Biaya Tarik Tunai",
+          "raw_operasional": 1080000.0
+        },
+        {
+          "nama_barang": "Ban Dalam Motor",
+          "jenis_tipe_barang": "Material",
+          "spesifikasi_detail_barang": {
+            "ukuran": "Tidak Ada",
+            "warna": "Tidak Ada",
+            "jumlah": 1
+          },
+          "merk_barang": "Tidak Ada",
+          "harga_barang": 500000,
+          "raw_keterangan": "Ganti Ban Dalam Motor",
+          "raw_operasional": 500000.0
+        },
+        {
+          "nama_barang": "Entertaint",
+          "jenis_tipe": "Pengeluaran Operasional",
+          "spesifikasi": {
+            "deskripsi": "Entertaint"
+          },
+          "merk_barang": "Tidak Ada",
+          "harga_barang": 390000.0,
+          "raw_keterangan": "Entertaint",
+          "raw_operasional": 390000.0
+        }
+      ],
+      "num_items": 7
+    },
+    {
+      "tanggal": "16-01-2024",
+      "dana_masuk": null,
+      "sisa_saldo_sebelum": 7430000.0,
+      "saldo_saat_ini": 5310000.0,
+      "total_operasional": 2120000.0,
+      "items": [
+        {
+          "nama_barang": "Air Minum Galon",
+          "jenis_tipe_barang": "Minuman",
+          "spesifikasi_detail_barang": {
+            "ukuran": "19L",
+            "temperatur": "Dingin"
+          },
+          "merk_barang": "Tidak Ada",
+          "harga_barang": null,
+          "raw_keterangan": "Isi Ulang Air Minum Galon, Biaya Tarik Tunai, BBM Genset",
+          "raw_operasional": 2120000.0
+        },
+        {
+          "nama_barang": "Biaya Tarik Tunai",
+          "jenis_tipe_barang": "Service",
+          "spesifikasi_detail_barang": {
+            "layanan": "ATM Withdrawal Fee",
+            "bank": "Umum"
+          },
+          "merk_barang": "Bank",
+          "harga_barang": null,
+          "raw_keterangan": "Isi Ulang Air Minum Galon, Biaya Tarik Tunai, BBM Genset",
+          "raw_operasional": 2120000.0
+        },
+        {
+          "nama_barang": "BBM Genset",
+          "jenis_tipe_barang": "Bahan Bakar",
+          "spesifikasi_detail_barang": {
+            "peruntukan": "Genset"
+          },
+          "merk_barang": "Tidak Ada",
+          "harga_barang": null,
+          "raw_keterangan": "Isi Ulang Air Minum Galon, Biaya Tarik Tunai, BBM Genset",
+          "raw_operasional": 2120000.0
+        }
+      ],
+      "num_items": 3
+    },
+    {
+      "tanggal": "20-01-2024",
+      "dana_masuk": null,
+      "sisa_saldo_sebelum": 5310000.0,
+      "saldo_saat_ini": 990000.0,
+      "total_operasional": 4320000.0,
+      "items": [
+        {
+          "nama_barang": "Galon",
+          "jenis_tipe_barang": "Material",
+          "spesifikasi_detail_barang": {
+            "ukuran": "Tidak Ada",
+            "warna": "Tidak Ada",
+            "jumlah": "Tidak Ada"
+          },
+          "merk_barang": "Tidak Ada",
+          "harga_barang": null,
+          "raw_keterangan": "Galon, BBM Mesin, Biaya Galian, Biaya tarik Tunai",
+          "raw_operasional": 2990000.0
+        },
+        {
+          "nama_barang": "BBM Mesin",
+          "jenis_tipe_barang": "Bahan Bakar",
+          "spesifikasi_detail_barang": {
+            "jenis": "Tidak Ada",
+            "peruntukan": "Mesin"
+          },
+          "merk_barang": "Tidak Ada",
+          "harga_barang": null,
+          "raw_keterangan": "Galon, BBM Mesin, Biaya Galian, Biaya tarik Tunai",
+          "raw_operasional": 2990000.0
+        },
+        {
+          "nama_barang": "Biaya Galian",
+          "jenis_tipe_barang": "Service",
+          "spesifikasi_detail_barang": {
+            "layanan": "Galian",
+            "lokasi": "Tidak Ada"
+          },
+          "merk_barang": "Tidak Ada",
+          "harga_barang": null,
+          "raw_keterangan": "Galon, BBM Mesin, Biaya Galian, Biaya tarik Tunai",
+          "raw_operasional": 2990000.0
+        },
+        {
+          "nama_barang": "Biaya tarik Tunai",
+          "jenis_tipe_barang": "Service",
+          "spesifikasi_detail_barang": {
+            "layanan": "Tarik Tunai",
+            "bank": "Tidak Ada"
+          },
+          "merk_barang": "Tidak Ada",
+          "harga_barang": null,
+          "raw_keterangan": "Galon, BBM Mesin, Biaya Galian, Biaya tarik Tunai",
+          "raw_operasional": 2990000.0
+        },
+        {
+          "nama_barang": "Uji Sampel",
+          "jenis_tipe_barang": "Service",
+          "spesifikasi_detail_barang": {
+            "peruntukan": "Koordinasi"
+          },
+          "merk_barang": "Tidak Ada",
+          "harga_barang": 1330000,
+          "raw_keterangan": "Entertaint Koordinasi Uji Sampel",
+          "raw_operasional": 1330000.0
+        }
+      ],
+      "num_items": 5
+    },
+    {
+      "tanggal": "24-01-2025",
+      "dana_masuk": null,
+      "sisa_saldo_sebelum": 990000.0,
+      "saldo_saat_ini": -5470000.0,
+      "total_operasional": 6460000.0,
+      "items": [
+        {
+          "nama_barang": "Air Minum Galon",
+          "jenis_tipe_barang": "Minuman",
+          "spesifikasi_detail_barang": {
+            "ukuran": "19L",
+            "temperatur": "Dingin"
+          },
+          "merk_barang": "Tidak Ada",
+          "harga_barang": null,
+          "raw_keterangan": "Isi Ulang Air Minum Galon, BBM vixion,",
+          "raw_operasional": 2820000.0
+        },
+        {
+          "nama_barang": "BBM vixion",
+          "jenis_tipe_barang": "Bahan Bakar Motor",
+          "spesifikasi_detail_barang": {
+            "jenis": "Premium",
+            "peruntukan": "Kendaraan"
+          },
+          "merk_barang": "Tidak Ada",
+          "harga_barang": null,
+          "raw_keterangan": "Isi Ulang Air Minum Galon, BBM vixion,",
+          "raw_operasional": 2820000.0
+        },
+        {
+          "nama_barang": "Listrik Barak Lama",
+          "jenis_tipe_barang": "Service",
+          "spesifikasi_detail_barang": {
+            "lokasi": "Barak Lama"
+          },
+          "merk_barang": "Tidak Ada",
+          "harga_barang": 2030000,
+          "raw_keterangan": "Listrik Barak Lama",
+          "raw_operasional": 2030000.0
+        },
+        {
+          "nama_barang": "Inspeksi",
+          "jenis_tipe_barang": "Service",
+          "spesifikasi_detail_barang": {
+            "layanan": "Entertaint Inspeksi"
+          },
+          "merk_barang": "Tidak Ada",
+          "harga_barang": 930000,
+          "raw_keterangan": "Entertaint Inspeksi",
+          "raw_operasional": 930000.0
+        },
+        {
+          "nama_barang": "Entertaint Exa",
+          "jenis_tipe_barang": "Service",
+          "spesifikasi_detail_barang": {
+            "status": "Belum Terealisasi"
+          },
+          "merk_barang": "Tidak Ada",
+          "harga_barang": 680000,
+          "raw_keterangan": "Entertaint Exa (Belum Terealisasi)",
+          "raw_operasional": 680000.0
+        }
+      ],
+      "num_items": 5
+    },
+    {
+      "tanggal": "25-01-2025",
+      "dana_masuk": null,
+      "sisa_saldo_sebelum": -5470000.0,
+      "saldo_saat_ini": -8090000.0,
+      "total_operasional": 2620000.0,
+      "items": [
+        {
+          "nama_barang": "BBM",
+          "jenis_tipe_barang": "Bahan Bakar",
+          "spesifikasi_detail_barang": {
+            "peruntukan": "Kendaraan"
+          },
+          "merk_barang": "Tidak Ada",
+          "harga_barang": null,
+          "raw_keterangan": "BBM Kendaraan, Drigen",
+          "raw_operasional": 2620000.0
+        },
+        {
+          "nama_barang": "Drigen",
+          "jenis_tipe_barang": "Material",
+          "spesifikasi_detail_barang": {},
+          "merk_barang": "Tidak Ada",
+          "harga_barang": null,
+          "raw_keterangan": "BBM Kendaraan, Drigen",
+          "raw_operasional": 2620000.0
+        }
+      ],
+      "num_items": 2
+    },
+    {
+      "tanggal": "27-01-2025",
+      "dana_masuk": null,
+      "sisa_saldo_sebelum": -8090000.0,
+      "saldo_saat_ini": -9050000.0,
+      "total_operasional": 960000.0,
+      "items": [
+        {
+          "nama_barang": "BBM",
+          "jenis_tipe_barang": "Bahan Bakar",
+          "spesifikasi_detail_barang": {
+            "peruntukan": "Kendaraan"
+          },
+          "merk_barang": "Tidak Ada",
+          "harga_barang": null,
+          "raw_keterangan": "BBM Motor Vixion Dan Revo",
+          "raw_operasional": 960000.0
+        },
+        {
+          "nama_barang": "Vixion",
+          "jenis_tipe_barang": "Sepeda Motor",
+          "spesifikasi_detail_barang": {
+            "model": "Vixion"
+          },
+          "merk_barang": "Yamaha",
+          "harga_barang": null,
+          "raw_keterangan": "BBM Motor Vixion Dan Revo",
+          "raw_operasional": 960000.0
+        },
+        {
+          "nama_barang": "Revo",
+          "jenis_tipe_barang": "Sepeda Motor",
+          "spesifikasi_detail_barang": {
+            "model": "Revo"
+          },
+          "merk_barang": "Honda",
+          "harga_barang": null,
+          "raw_keterangan": "BBM Motor Vixion Dan Revo",
+          "raw_operasional": 960000.0
+        }
+      ],
+      "num_items": 3
+    }
+  ]
+}

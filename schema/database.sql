@@ -19,3 +19,18 @@ CREATE TABLE construction.items_specification (
 );
 
 CREATE INDEX ON construction.items_specification USING ivfflat (embedding vector_cosine_ops);
+
+CREATE TABLE construction.items_catalog (
+    id                  SERIAL PRIMARY KEY,
+    source_json_path    TEXT NOT NULL,
+    nama_barang         TEXT NOT NULL,
+    jenis_tipe_barang   TEXT,
+    spesifikasi         JSONB,
+    merk_barang         TEXT,
+    harga_barang        NUMERIC,
+    search_text         TEXT NOT NULL,
+    embedding           vector(1024),
+    created_at          TIMESTAMPTZ DEFAULT now()
+);
+
+CREATE INDEX ON construction.items_catalog USING ivfflat (embedding vector_cosine_ops);
