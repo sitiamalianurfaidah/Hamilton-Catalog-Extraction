@@ -1,0 +1,1654 @@
+{
+  "total_items": 234,
+  "stats": {
+    "total_items": 234,
+    "items_with_price": 0,
+    "match_rate": 0.0
+  },
+  "sheet_pairs": {
+    "Laporan Monitoring Kas Januari": "Lampiran Nota Januari",
+    "Laporan Monitoring Kas Desember": "Lampiran Nota Desember",
+    "Laporan Monitoring Kas November": "Lampiran Nota November",
+    "Laporan Monitoring Kas Oktober": "Lampiran Nota Oktober"
+  },
+  "items": [
+    {
+      "tanggal": "2025-01-01",
+      "keterangan_monitoring": "BBM KLX",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Januari",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2025-01-01",
+      "keterangan_monitoring": "Canebo",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Januari",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2025-01-01",
+      "keterangan_monitoring": "Sapu Mobil",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Januari",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2025-01-01",
+      "keterangan_monitoring": "Tisu Mobil",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Januari",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2025-02-01",
+      "keterangan_monitoring": "Tali Rafia",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Januari",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2025-02-01",
+      "keterangan_monitoring": "Entertaint",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Januari",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-05-01",
+      "keterangan_monitoring": "BBM KLX",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Januari",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-05-01",
+      "keterangan_monitoring": "2 Kali Isi",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Januari",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-05-01",
+      "keterangan_monitoring": "BBm KLX",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Januari",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-05-01",
+      "keterangan_monitoring": "Materai",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Januari",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-05-01",
+      "keterangan_monitoring": "Galon",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Januari",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-05-01",
+      "keterangan_monitoring": "BBM mesin",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Januari",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-05-01",
+      "keterangan_monitoring": "Biaya Tarik Tunai",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Januari",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-05-01",
+      "keterangan_monitoring": "Colokan Listrk",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Januari",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2025-11-01",
+      "keterangan_monitoring": "BBM Motor",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Januari",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2025-11-01",
+      "keterangan_monitoring": "Entertaint",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Januari",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2025-11-01",
+      "keterangan_monitoring": "Colokan Listrik",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Januari",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2025-11-01",
+      "keterangan_monitoring": "Terminal Listrik",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Januari",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2025-11-01",
+      "keterangan_monitoring": "Spidol",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Januari",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2025-11-01",
+      "keterangan_monitoring": "Isi Ulang Air Minum Galon",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Januari",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2025-11-01",
+      "keterangan_monitoring": "Biaya Tarik Tunai",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Januari",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2025-11-01",
+      "keterangan_monitoring": "Ganti Ban Dalam Motor",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Januari",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2025-11-01",
+      "keterangan_monitoring": "Entertaint",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Januari",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-01-16",
+      "keterangan_monitoring": "Isi Ulang Air Minum Galon",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Januari",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-01-16",
+      "keterangan_monitoring": "Biaya Tarik Tunai",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Januari",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-01-16",
+      "keterangan_monitoring": "BBM Genset",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Januari",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-01-20",
+      "keterangan_monitoring": "Galon",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Januari",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-01-20",
+      "keterangan_monitoring": "BBM Mesin",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Januari",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-01-20",
+      "keterangan_monitoring": "Biaya Galian",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Januari",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-01-20",
+      "keterangan_monitoring": "Biaya tarik Tunai",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Januari",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-01-20",
+      "keterangan_monitoring": "Entertaint Koordinasi Uji Sampel",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Januari",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2025-01-24",
+      "keterangan_monitoring": "Isi Ulang Air Minum Galon",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Januari",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2025-01-24",
+      "keterangan_monitoring": "BBM vixion",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Januari",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2025-01-24",
+      "keterangan_monitoring": "Listrik Barak Lama",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Januari",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2025-01-24",
+      "keterangan_monitoring": "Entertaint Inspeksi",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Januari",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2025-01-24",
+      "keterangan_monitoring": "Entertaint Exa (Belum Terealisasi)",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Januari",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2025-01-25",
+      "keterangan_monitoring": "BBM Kendaraan",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Januari",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2025-01-25",
+      "keterangan_monitoring": "Drigen",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Januari",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2025-01-27",
+      "keterangan_monitoring": "BBM Motor Vixion Dan Revo",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Januari",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-01-12",
+      "keterangan_monitoring": "Pembayaran Air Pam",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-01-12",
+      "keterangan_monitoring": "Entertaint",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-01-12",
+      "keterangan_monitoring": "Aqua Gelas",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-01-12",
+      "keterangan_monitoring": "Tarik Tunai",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-01-12",
+      "keterangan_monitoring": "Sapu Lidi Pembersih Rigid Galian",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-01-12",
+      "keterangan_monitoring": "BBM Mesin",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-01-12",
+      "keterangan_monitoring": "Galon",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-01-12",
+      "keterangan_monitoring": "Tarik Tunai",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-03-12",
+      "keterangan_monitoring": "Entertaint",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-03-12",
+      "keterangan_monitoring": "Lakban",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-05-12",
+      "keterangan_monitoring": "Pengharum Mobil",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-05-12",
+      "keterangan_monitoring": "BBM KLX",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-05-12",
+      "keterangan_monitoring": "Galon",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-05-12",
+      "keterangan_monitoring": "Entertaint",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-05-12",
+      "keterangan_monitoring": "MuatMaterial",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-05-12",
+      "keterangan_monitoring": "Cuci Mobil Strada Mingguan",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-07-12",
+      "keterangan_monitoring": "Kain Majun",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-07-12",
+      "keterangan_monitoring": "Tarik Tunai",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-07-12",
+      "keterangan_monitoring": "Galon",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-07-12",
+      "keterangan_monitoring": "Corong Minyak",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-07-12",
+      "keterangan_monitoring": "BBM Mesin",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-07-12",
+      "keterangan_monitoring": "BBM KLX",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-10-12",
+      "keterangan_monitoring": "Gula",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-10-12",
+      "keterangan_monitoring": "kopi",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-10-12",
+      "keterangan_monitoring": "Aqua Botol",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-10-12",
+      "keterangan_monitoring": "Stop Kontak",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-10-12",
+      "keterangan_monitoring": "BBM klx",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-10-12",
+      "keterangan_monitoring": "Entertaint",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-10-12",
+      "keterangan_monitoring": "Kasir Paket Bandara",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-10-12",
+      "keterangan_monitoring": "uang masuk bandara",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-10-12",
+      "keterangan_monitoring": "mobil dan motor",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-10-12",
+      "keterangan_monitoring": "BBM KLX",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-10-12",
+      "keterangan_monitoring": "Galon",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-12-14",
+      "keterangan_monitoring": "Entertaint",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-12-14",
+      "keterangan_monitoring": "Amplas Seribu",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-12-14",
+      "keterangan_monitoring": "BBM KLX",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-12-14",
+      "keterangan_monitoring": "BBM Mesin",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-12-18",
+      "keterangan_monitoring": "BBM Mesin",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-12-18",
+      "keterangan_monitoring": "Cuci Alat Exa",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-12-18",
+      "keterangan_monitoring": "Biaya Ambil Paket",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-12-20",
+      "keterangan_monitoring": "Biaya Tarik Tunai",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-12-20",
+      "keterangan_monitoring": "Pembersihan Carbu dan filter",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-12-20",
+      "keterangan_monitoring": "Tali Rafia",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-12-20",
+      "keterangan_monitoring": "BBM Alkon",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-12-20",
+      "keterangan_monitoring": "Genset",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-12-20",
+      "keterangan_monitoring": "BBM KLX",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-12-20",
+      "keterangan_monitoring": "Pembuatan Stempel",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-12-20",
+      "keterangan_monitoring": "BBM Mesin",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-12-20",
+      "keterangan_monitoring": "BBM KLX",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-12-20",
+      "keterangan_monitoring": "Tali Plastik Rafia",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-12-20",
+      "keterangan_monitoring": "Map dan Klip",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-12-20",
+      "keterangan_monitoring": "Pembayaran Listrik",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-12-26",
+      "keterangan_monitoring": "Tali Rafia",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-12-26",
+      "keterangan_monitoring": "BBM KLX",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-12-26",
+      "keterangan_monitoring": "Pembuatan Surat sehat",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-12-26",
+      "keterangan_monitoring": "galon",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-12-26",
+      "keterangan_monitoring": "BBM Terios",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-12-28",
+      "keterangan_monitoring": "Entertaint",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-12-28",
+      "keterangan_monitoring": "biaya tarik tunai",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-12-31",
+      "keterangan_monitoring": "Entertaint Tim Survey",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-12-31",
+      "keterangan_monitoring": "Tambal Ban KLX",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-02-11",
+      "keterangan_monitoring": "BBM KLX Besar",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-02-11",
+      "keterangan_monitoring": "Alkon",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-02-11",
+      "keterangan_monitoring": "Genset",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-03-11",
+      "keterangan_monitoring": "BBM KLX mini",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-03-11",
+      "keterangan_monitoring": "dan Air minum galon",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-03-11",
+      "keterangan_monitoring": "10 Liter Bensin",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-03-11",
+      "keterangan_monitoring": "Drigen 5 Liter 2 Buah",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-07-11",
+      "keterangan_monitoring": "BBM KLX",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-07-11",
+      "keterangan_monitoring": "Galon",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-07-11",
+      "keterangan_monitoring": "Tarik mobil",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-07-11",
+      "keterangan_monitoring": "Tarik Tunai",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-07-11",
+      "keterangan_monitoring": "Carbon Brush",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-08-11",
+      "keterangan_monitoring": "BBM Alkon",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-08-11",
+      "keterangan_monitoring": "Genset",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-08-11",
+      "keterangan_monitoring": "Klx",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-08-11",
+      "keterangan_monitoring": "Sapu Lantai",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-08-11",
+      "keterangan_monitoring": "Nota entertaint",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-08-11",
+      "keterangan_monitoring": "Tarik tunai",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-09-11",
+      "keterangan_monitoring": "Perbaikan Mobil Truk",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-09-11",
+      "keterangan_monitoring": "Tambal Ban Motor",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-09-11",
+      "keterangan_monitoring": "BBM KLX",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-09-11",
+      "keterangan_monitoring": "Tambah Angin Ban truk",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-09-11",
+      "keterangan_monitoring": "Entertaint",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-12-11",
+      "keterangan_monitoring": "Kunjungan Babin",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-12-11",
+      "keterangan_monitoring": "Galon",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-12-11",
+      "keterangan_monitoring": "Biaya Tungu",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-11-13",
+      "keterangan_monitoring": "BBM KLX",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-11-13",
+      "keterangan_monitoring": "Gunting",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-11-13",
+      "keterangan_monitoring": "BBM Alat",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-11-16",
+      "keterangan_monitoring": "Baut baja+Ring",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-11-16",
+      "keterangan_monitoring": "Tambal Ban Truk",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-11-16",
+      "keterangan_monitoring": "Biaya tarik tunai",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-11-16",
+      "keterangan_monitoring": "Galon",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-11-18",
+      "keterangan_monitoring": "BBM KLX",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-11-18",
+      "keterangan_monitoring": "Genset",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-11-18",
+      "keterangan_monitoring": "Biaya Tarik Tunai",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-11-20",
+      "keterangan_monitoring": "Pulsa Listrik",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-11-20",
+      "keterangan_monitoring": "Entertaint Tim Survey",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-11-20",
+      "keterangan_monitoring": "Baut baja+Ring",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-11-20",
+      "keterangan_monitoring": "Materai",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-11-20",
+      "keterangan_monitoring": "Galon",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-11-20",
+      "keterangan_monitoring": "Sapu Mobil",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-11-20",
+      "keterangan_monitoring": "bbm klx",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-11-20",
+      "keterangan_monitoring": "Canebo",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-11-20",
+      "keterangan_monitoring": "Biaya Tarik Tunai",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-11-25",
+      "keterangan_monitoring": "BBM Mesin",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-11-25",
+      "keterangan_monitoring": "Dompet Gantungan Truk",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-11-28",
+      "keterangan_monitoring": "Vixal",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-11-28",
+      "keterangan_monitoring": "gembok",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-11-28",
+      "keterangan_monitoring": "kabbel tis",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-11-28",
+      "keterangan_monitoring": "biaya tarik tunai",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-11-28",
+      "keterangan_monitoring": "entertaint",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-11-28",
+      "keterangan_monitoring": "bbm klx",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-11-29",
+      "keterangan_monitoring": "Corong Minyak",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-11-29",
+      "keterangan_monitoring": "Isolatip",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-11-29",
+      "keterangan_monitoring": "Saringan",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-11-29",
+      "keterangan_monitoring": "Kunci ring pas 24",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-11-29",
+      "keterangan_monitoring": "Galon",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-11-29",
+      "keterangan_monitoring": "Aqua Botol",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-11-29",
+      "keterangan_monitoring": "BBM Alkon",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-11-29",
+      "keterangan_monitoring": "Genset",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-11-29",
+      "keterangan_monitoring": "Vibrator",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-11-30",
+      "keterangan_monitoring": "Entertaint",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-11-30",
+      "keterangan_monitoring": "Print Safety Induction",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-01-10",
+      "keterangan_monitoring": "BBM Alkon",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-01-10",
+      "keterangan_monitoring": "BBM KLX",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-01-10",
+      "keterangan_monitoring": "Air Minum dan Makan",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-03-10",
+      "keterangan_monitoring": "BBM TRUK",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-03-10",
+      "keterangan_monitoring": "Busi KLX Besar",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-03-10",
+      "keterangan_monitoring": "Entertain Cek Area",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-05-10",
+      "keterangan_monitoring": "BBM Alkon",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-06-10",
+      "keterangan_monitoring": "Pembayaran Air Pam",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-06-10",
+      "keterangan_monitoring": "BBM Alkon",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-06-10",
+      "keterangan_monitoring": "Lem Stel (Dextone)",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-06-10",
+      "keterangan_monitoring": "BBM KLX Besar",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-06-10",
+      "keterangan_monitoring": "BBM KLX dan Alkon",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-06-10",
+      "keterangan_monitoring": "Tarik Tunai",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-06-10",
+      "keterangan_monitoring": "Ampera",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-06-10",
+      "keterangan_monitoring": "Kuitansi Dan Nota",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-10-10",
+      "keterangan_monitoring": "Ampera",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-10-10",
+      "keterangan_monitoring": "Biaya Tarik",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-10-10",
+      "keterangan_monitoring": "BBM Klx Mini",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-10-10",
+      "keterangan_monitoring": "BBm Alkon",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-11-10",
+      "keterangan_monitoring": "Entertaint",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-11-10",
+      "keterangan_monitoring": "BBM KLX Bsar",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-11-10",
+      "keterangan_monitoring": "Air Galon",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-12-10",
+      "keterangan_monitoring": "BBM KLX Besar",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-12-10",
+      "keterangan_monitoring": "KLX Kecil",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-12-10",
+      "keterangan_monitoring": "Ampera Material",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-10-13",
+      "keterangan_monitoring": "Aqua Botol",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-10-13",
+      "keterangan_monitoring": "BBM KLX Besar",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-10-13",
+      "keterangan_monitoring": "KLX Kecil",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-10-13",
+      "keterangan_monitoring": "Galon",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-10-13",
+      "keterangan_monitoring": "Tarik Tunai",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-10-13",
+      "keterangan_monitoring": "BBM KLX Besar",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-10-13",
+      "keterangan_monitoring": "KLX Kecil",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-10-13",
+      "keterangan_monitoring": "Galon",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-10-13",
+      "keterangan_monitoring": "Entertain",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-10-13",
+      "keterangan_monitoring": "BBM KLX Besar",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-10-13",
+      "keterangan_monitoring": "Tarik Tunai",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-10-16",
+      "keterangan_monitoring": "Pulsa Listrik",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-10-16",
+      "keterangan_monitoring": "BBM KLX Mini",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-10-16",
+      "keterangan_monitoring": "Biaya Tarik Tunai",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-10-18",
+      "keterangan_monitoring": "BBM KLX",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-10-18",
+      "keterangan_monitoring": "Galon",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-10-19",
+      "keterangan_monitoring": "BBM KLX Kecil",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-10-20",
+      "keterangan_monitoring": "BBM KLX Besar",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-10-20",
+      "keterangan_monitoring": "KLX Kecil",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-10-20",
+      "keterangan_monitoring": "Galon",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-10-22",
+      "keterangan_monitoring": "Galon",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-10-22",
+      "keterangan_monitoring": "BBM KLX besar",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-10-22",
+      "keterangan_monitoring": "BBM KLX Mini",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-10-23",
+      "keterangan_monitoring": "BBM KLX besar",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-10-23",
+      "keterangan_monitoring": "entertaint",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-10-24",
+      "keterangan_monitoring": "Pulsa Listrik",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-10-24",
+      "keterangan_monitoring": "BBM KLX",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-10-24",
+      "keterangan_monitoring": "Entertaint",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-10-25",
+      "keterangan_monitoring": "Entertaint",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-10-25",
+      "keterangan_monitoring": "Air Galon",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-10-25",
+      "keterangan_monitoring": "BBM KLX Mini",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-10-25",
+      "keterangan_monitoring": "KLX Besar",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-10-27",
+      "keterangan_monitoring": "BBM Alkon",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-10-27",
+      "keterangan_monitoring": "Vibrator",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-10-27",
+      "keterangan_monitoring": "Genset. Tarik Tunai",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-10-27",
+      "keterangan_monitoring": "Impeler Alkon",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-10-28",
+      "keterangan_monitoring": "BBM KLX Besar",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-10-28",
+      "keterangan_monitoring": "Peralatan Cuci Motor",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-10-29",
+      "keterangan_monitoring": "BBM KLX Kecil",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-10-29",
+      "keterangan_monitoring": "BBM Vibrator",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-10-29",
+      "keterangan_monitoring": "Galon",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-10-31",
+      "keterangan_monitoring": "Ganti Ban Truk",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-10-31",
+      "keterangan_monitoring": "Baut Roofing",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-10-31",
+      "keterangan_monitoring": "Ban Dalam Swallow",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "tanggal": "2024-10-31",
+      "keterangan_monitoring": "Lem Aicha Aibon",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    }
+  ]
+}

@@ -1,0 +1,2122 @@
+{
+  "total_items": 234,
+  "stats": {
+    "total_items": 234,
+    "items_with_price": 0,
+    "match_rate": 0.0
+  },
+  "sheet_pairs": {
+    "Laporan Monitoring Kas Januari": "Lampiran Nota Januari",
+    "Laporan Monitoring Kas Desember": "Lampiran Nota Desember",
+    "Laporan Monitoring Kas November": "Lampiran Nota November",
+    "Laporan Monitoring Kas Oktober": "Lampiran Nota Oktober"
+  },
+  "items": [
+    {
+      "id": "Januari_BBM KLX_UNMATCHED",
+      "tanggal": "2025-01-01",
+      "month": "Januari",
+      "keterangan_monitoring": "BBM KLX",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Januari",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Januari_Canebo_UNMATCHED",
+      "tanggal": "2025-01-01",
+      "month": "Januari",
+      "keterangan_monitoring": "Canebo",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Januari",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Januari_Sapu Mobil_UNMATCHED",
+      "tanggal": "2025-01-01",
+      "month": "Januari",
+      "keterangan_monitoring": "Sapu Mobil",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Januari",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Januari_Tisu Mobil_UNMATCHED",
+      "tanggal": "2025-01-01",
+      "month": "Januari",
+      "keterangan_monitoring": "Tisu Mobil",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Januari",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Januari_Tali Rafia_UNMATCHED",
+      "tanggal": "2025-02-01",
+      "month": "Januari",
+      "keterangan_monitoring": "Tali Rafia",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Januari",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Januari_Entertaint_UNMATCHED",
+      "tanggal": "2025-02-01",
+      "month": "Januari",
+      "keterangan_monitoring": "Entertaint",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Januari",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Januari_BBM KLX_UNMATCHED",
+      "tanggal": "2024-05-01",
+      "month": "Januari",
+      "keterangan_monitoring": "BBM KLX",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Januari",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Januari_2 Kali Isi_UNMATCHED",
+      "tanggal": "2024-05-01",
+      "month": "Januari",
+      "keterangan_monitoring": "2 Kali Isi",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Januari",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Januari_BBm KLX_UNMATCHED",
+      "tanggal": "2024-05-01",
+      "month": "Januari",
+      "keterangan_monitoring": "BBm KLX",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Januari",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Januari_Materai_UNMATCHED",
+      "tanggal": "2024-05-01",
+      "month": "Januari",
+      "keterangan_monitoring": "Materai",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Januari",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Januari_Galon_UNMATCHED",
+      "tanggal": "2024-05-01",
+      "month": "Januari",
+      "keterangan_monitoring": "Galon",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Januari",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Januari_BBM mesin_UNMATCHED",
+      "tanggal": "2024-05-01",
+      "month": "Januari",
+      "keterangan_monitoring": "BBM mesin",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Januari",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Januari_Biaya Tarik Tunai_UNMATCHED",
+      "tanggal": "2024-05-01",
+      "month": "Januari",
+      "keterangan_monitoring": "Biaya Tarik Tunai",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Januari",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Januari_Colokan Listrk_UNMATCHED",
+      "tanggal": "2024-05-01",
+      "month": "Januari",
+      "keterangan_monitoring": "Colokan Listrk",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Januari",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Januari_BBM Motor_UNMATCHED",
+      "tanggal": "2025-11-01",
+      "month": "Januari",
+      "keterangan_monitoring": "BBM Motor",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Januari",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Januari_Entertaint_UNMATCHED",
+      "tanggal": "2025-11-01",
+      "month": "Januari",
+      "keterangan_monitoring": "Entertaint",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Januari",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Januari_Colokan Listrik_UNMATCHED",
+      "tanggal": "2025-11-01",
+      "month": "Januari",
+      "keterangan_monitoring": "Colokan Listrik",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Januari",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Januari_Terminal Listrik_UNMATCHED",
+      "tanggal": "2025-11-01",
+      "month": "Januari",
+      "keterangan_monitoring": "Terminal Listrik",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Januari",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Januari_Spidol_UNMATCHED",
+      "tanggal": "2025-11-01",
+      "month": "Januari",
+      "keterangan_monitoring": "Spidol",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Januari",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Januari_Isi Ulang Air Minum Galon_UNMATCHED",
+      "tanggal": "2025-11-01",
+      "month": "Januari",
+      "keterangan_monitoring": "Isi Ulang Air Minum Galon",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Januari",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Januari_Biaya Tarik Tunai_UNMATCHED",
+      "tanggal": "2025-11-01",
+      "month": "Januari",
+      "keterangan_monitoring": "Biaya Tarik Tunai",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Januari",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Januari_Ganti Ban Dalam Motor_UNMATCHED",
+      "tanggal": "2025-11-01",
+      "month": "Januari",
+      "keterangan_monitoring": "Ganti Ban Dalam Motor",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Januari",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Januari_Entertaint_UNMATCHED",
+      "tanggal": "2025-11-01",
+      "month": "Januari",
+      "keterangan_monitoring": "Entertaint",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Januari",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Januari_Isi Ulang Air Minum Galon_UNMATCHED",
+      "tanggal": "2024-01-16",
+      "month": "Januari",
+      "keterangan_monitoring": "Isi Ulang Air Minum Galon",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Januari",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Januari_Biaya Tarik Tunai_UNMATCHED",
+      "tanggal": "2024-01-16",
+      "month": "Januari",
+      "keterangan_monitoring": "Biaya Tarik Tunai",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Januari",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Januari_BBM Genset_UNMATCHED",
+      "tanggal": "2024-01-16",
+      "month": "Januari",
+      "keterangan_monitoring": "BBM Genset",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Januari",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Januari_Galon_UNMATCHED",
+      "tanggal": "2024-01-20",
+      "month": "Januari",
+      "keterangan_monitoring": "Galon",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Januari",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Januari_BBM Mesin_UNMATCHED",
+      "tanggal": "2024-01-20",
+      "month": "Januari",
+      "keterangan_monitoring": "BBM Mesin",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Januari",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Januari_Biaya Galian_UNMATCHED",
+      "tanggal": "2024-01-20",
+      "month": "Januari",
+      "keterangan_monitoring": "Biaya Galian",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Januari",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Januari_Biaya tarik Tunai_UNMATCHED",
+      "tanggal": "2024-01-20",
+      "month": "Januari",
+      "keterangan_monitoring": "Biaya tarik Tunai",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Januari",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Januari_Entertaint Koordinasi Uji Sampel_UNMATCHED",
+      "tanggal": "2024-01-20",
+      "month": "Januari",
+      "keterangan_monitoring": "Entertaint Koordinasi Uji Sampel",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Januari",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Januari_Isi Ulang Air Minum Galon_UNMATCHED",
+      "tanggal": "2025-01-24",
+      "month": "Januari",
+      "keterangan_monitoring": "Isi Ulang Air Minum Galon",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Januari",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Januari_BBM vixion_UNMATCHED",
+      "tanggal": "2025-01-24",
+      "month": "Januari",
+      "keterangan_monitoring": "BBM vixion",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Januari",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Januari_Listrik Barak Lama_UNMATCHED",
+      "tanggal": "2025-01-24",
+      "month": "Januari",
+      "keterangan_monitoring": "Listrik Barak Lama",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Januari",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Januari_Entertaint Inspeksi_UNMATCHED",
+      "tanggal": "2025-01-24",
+      "month": "Januari",
+      "keterangan_monitoring": "Entertaint Inspeksi",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Januari",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Januari_Entertaint Exa (Belum Terealisasi)_UNMATCHED",
+      "tanggal": "2025-01-24",
+      "month": "Januari",
+      "keterangan_monitoring": "Entertaint Exa (Belum Terealisasi)",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Januari",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Januari_BBM Kendaraan_UNMATCHED",
+      "tanggal": "2025-01-25",
+      "month": "Januari",
+      "keterangan_monitoring": "BBM Kendaraan",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Januari",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Januari_Drigen_UNMATCHED",
+      "tanggal": "2025-01-25",
+      "month": "Januari",
+      "keterangan_monitoring": "Drigen",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Januari",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Januari_BBM Motor Vixion Dan Revo_UNMATCHED",
+      "tanggal": "2025-01-27",
+      "month": "Januari",
+      "keterangan_monitoring": "BBM Motor Vixion Dan Revo",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Januari",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Desember_Pembayaran Air Pam_UNMATCHED",
+      "tanggal": "2024-01-12",
+      "month": "Desember",
+      "keterangan_monitoring": "Pembayaran Air Pam",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Desember_Entertaint_UNMATCHED",
+      "tanggal": "2024-01-12",
+      "month": "Desember",
+      "keterangan_monitoring": "Entertaint",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Desember_Aqua Gelas_UNMATCHED",
+      "tanggal": "2024-01-12",
+      "month": "Desember",
+      "keterangan_monitoring": "Aqua Gelas",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Desember_Tarik Tunai_UNMATCHED",
+      "tanggal": "2024-01-12",
+      "month": "Desember",
+      "keterangan_monitoring": "Tarik Tunai",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Desember_Sapu Lidi Pembersih Rigid Galian_UNMATCHED",
+      "tanggal": "2024-01-12",
+      "month": "Desember",
+      "keterangan_monitoring": "Sapu Lidi Pembersih Rigid Galian",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Desember_BBM Mesin_UNMATCHED",
+      "tanggal": "2024-01-12",
+      "month": "Desember",
+      "keterangan_monitoring": "BBM Mesin",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Desember_Galon_UNMATCHED",
+      "tanggal": "2024-01-12",
+      "month": "Desember",
+      "keterangan_monitoring": "Galon",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Desember_Tarik Tunai_UNMATCHED",
+      "tanggal": "2024-01-12",
+      "month": "Desember",
+      "keterangan_monitoring": "Tarik Tunai",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Desember_Entertaint_UNMATCHED",
+      "tanggal": "2024-03-12",
+      "month": "Desember",
+      "keterangan_monitoring": "Entertaint",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Desember_Lakban_UNMATCHED",
+      "tanggal": "2024-03-12",
+      "month": "Desember",
+      "keterangan_monitoring": "Lakban",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Desember_Pengharum Mobil_UNMATCHED",
+      "tanggal": "2024-05-12",
+      "month": "Desember",
+      "keterangan_monitoring": "Pengharum Mobil",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Desember_BBM KLX_UNMATCHED",
+      "tanggal": "2024-05-12",
+      "month": "Desember",
+      "keterangan_monitoring": "BBM KLX",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Desember_Galon_UNMATCHED",
+      "tanggal": "2024-05-12",
+      "month": "Desember",
+      "keterangan_monitoring": "Galon",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Desember_Entertaint_UNMATCHED",
+      "tanggal": "2024-05-12",
+      "month": "Desember",
+      "keterangan_monitoring": "Entertaint",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Desember_MuatMaterial_UNMATCHED",
+      "tanggal": "2024-05-12",
+      "month": "Desember",
+      "keterangan_monitoring": "MuatMaterial",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Desember_Cuci Mobil Strada Mingguan_UNMATCHED",
+      "tanggal": "2024-05-12",
+      "month": "Desember",
+      "keterangan_monitoring": "Cuci Mobil Strada Mingguan",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Desember_Kain Majun_UNMATCHED",
+      "tanggal": "2024-07-12",
+      "month": "Desember",
+      "keterangan_monitoring": "Kain Majun",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Desember_Tarik Tunai_UNMATCHED",
+      "tanggal": "2024-07-12",
+      "month": "Desember",
+      "keterangan_monitoring": "Tarik Tunai",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Desember_Galon_UNMATCHED",
+      "tanggal": "2024-07-12",
+      "month": "Desember",
+      "keterangan_monitoring": "Galon",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Desember_Corong Minyak_UNMATCHED",
+      "tanggal": "2024-07-12",
+      "month": "Desember",
+      "keterangan_monitoring": "Corong Minyak",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Desember_BBM Mesin_UNMATCHED",
+      "tanggal": "2024-07-12",
+      "month": "Desember",
+      "keterangan_monitoring": "BBM Mesin",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Desember_BBM KLX_UNMATCHED",
+      "tanggal": "2024-07-12",
+      "month": "Desember",
+      "keterangan_monitoring": "BBM KLX",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Desember_Gula_UNMATCHED",
+      "tanggal": "2024-10-12",
+      "month": "Desember",
+      "keterangan_monitoring": "Gula",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Desember_kopi_UNMATCHED",
+      "tanggal": "2024-10-12",
+      "month": "Desember",
+      "keterangan_monitoring": "kopi",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Desember_Aqua Botol_UNMATCHED",
+      "tanggal": "2024-10-12",
+      "month": "Desember",
+      "keterangan_monitoring": "Aqua Botol",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Desember_Stop Kontak_UNMATCHED",
+      "tanggal": "2024-10-12",
+      "month": "Desember",
+      "keterangan_monitoring": "Stop Kontak",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Desember_BBM klx_UNMATCHED",
+      "tanggal": "2024-10-12",
+      "month": "Desember",
+      "keterangan_monitoring": "BBM klx",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Desember_Entertaint_UNMATCHED",
+      "tanggal": "2024-10-12",
+      "month": "Desember",
+      "keterangan_monitoring": "Entertaint",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Desember_Kasir Paket Bandara_UNMATCHED",
+      "tanggal": "2024-10-12",
+      "month": "Desember",
+      "keterangan_monitoring": "Kasir Paket Bandara",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Desember_uang masuk bandara_UNMATCHED",
+      "tanggal": "2024-10-12",
+      "month": "Desember",
+      "keterangan_monitoring": "uang masuk bandara",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Desember_mobil dan motor_UNMATCHED",
+      "tanggal": "2024-10-12",
+      "month": "Desember",
+      "keterangan_monitoring": "mobil dan motor",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Desember_BBM KLX_UNMATCHED",
+      "tanggal": "2024-10-12",
+      "month": "Desember",
+      "keterangan_monitoring": "BBM KLX",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Desember_Galon_UNMATCHED",
+      "tanggal": "2024-10-12",
+      "month": "Desember",
+      "keterangan_monitoring": "Galon",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Desember_Entertaint_UNMATCHED",
+      "tanggal": "2024-12-14",
+      "month": "Desember",
+      "keterangan_monitoring": "Entertaint",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Desember_Amplas Seribu_UNMATCHED",
+      "tanggal": "2024-12-14",
+      "month": "Desember",
+      "keterangan_monitoring": "Amplas Seribu",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Desember_BBM KLX_UNMATCHED",
+      "tanggal": "2024-12-14",
+      "month": "Desember",
+      "keterangan_monitoring": "BBM KLX",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Desember_BBM Mesin_UNMATCHED",
+      "tanggal": "2024-12-14",
+      "month": "Desember",
+      "keterangan_monitoring": "BBM Mesin",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Desember_BBM Mesin_UNMATCHED",
+      "tanggal": "2024-12-18",
+      "month": "Desember",
+      "keterangan_monitoring": "BBM Mesin",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Desember_Cuci Alat Exa_UNMATCHED",
+      "tanggal": "2024-12-18",
+      "month": "Desember",
+      "keterangan_monitoring": "Cuci Alat Exa",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Desember_Biaya Ambil Paket_UNMATCHED",
+      "tanggal": "2024-12-18",
+      "month": "Desember",
+      "keterangan_monitoring": "Biaya Ambil Paket",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Desember_Biaya Tarik Tunai_UNMATCHED",
+      "tanggal": "2024-12-20",
+      "month": "Desember",
+      "keterangan_monitoring": "Biaya Tarik Tunai",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Desember_Pembersihan Carbu dan filter_UNMATCHED",
+      "tanggal": "2024-12-20",
+      "month": "Desember",
+      "keterangan_monitoring": "Pembersihan Carbu dan filter",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Desember_Tali Rafia_UNMATCHED",
+      "tanggal": "2024-12-20",
+      "month": "Desember",
+      "keterangan_monitoring": "Tali Rafia",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Desember_BBM Alkon_UNMATCHED",
+      "tanggal": "2024-12-20",
+      "month": "Desember",
+      "keterangan_monitoring": "BBM Alkon",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Desember_Genset_UNMATCHED",
+      "tanggal": "2024-12-20",
+      "month": "Desember",
+      "keterangan_monitoring": "Genset",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Desember_BBM KLX_UNMATCHED",
+      "tanggal": "2024-12-20",
+      "month": "Desember",
+      "keterangan_monitoring": "BBM KLX",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Desember_Pembuatan Stempel_UNMATCHED",
+      "tanggal": "2024-12-20",
+      "month": "Desember",
+      "keterangan_monitoring": "Pembuatan Stempel",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Desember_BBM Mesin_UNMATCHED",
+      "tanggal": "2024-12-20",
+      "month": "Desember",
+      "keterangan_monitoring": "BBM Mesin",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Desember_BBM KLX_UNMATCHED",
+      "tanggal": "2024-12-20",
+      "month": "Desember",
+      "keterangan_monitoring": "BBM KLX",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Desember_Tali Plastik Rafia_UNMATCHED",
+      "tanggal": "2024-12-20",
+      "month": "Desember",
+      "keterangan_monitoring": "Tali Plastik Rafia",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Desember_Map dan Klip_UNMATCHED",
+      "tanggal": "2024-12-20",
+      "month": "Desember",
+      "keterangan_monitoring": "Map dan Klip",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Desember_Pembayaran Listrik_UNMATCHED",
+      "tanggal": "2024-12-20",
+      "month": "Desember",
+      "keterangan_monitoring": "Pembayaran Listrik",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Desember_Tali Rafia_UNMATCHED",
+      "tanggal": "2024-12-26",
+      "month": "Desember",
+      "keterangan_monitoring": "Tali Rafia",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Desember_BBM KLX_UNMATCHED",
+      "tanggal": "2024-12-26",
+      "month": "Desember",
+      "keterangan_monitoring": "BBM KLX",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Desember_Pembuatan Surat sehat_UNMATCHED",
+      "tanggal": "2024-12-26",
+      "month": "Desember",
+      "keterangan_monitoring": "Pembuatan Surat sehat",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Desember_galon_UNMATCHED",
+      "tanggal": "2024-12-26",
+      "month": "Desember",
+      "keterangan_monitoring": "galon",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Desember_BBM Terios_UNMATCHED",
+      "tanggal": "2024-12-26",
+      "month": "Desember",
+      "keterangan_monitoring": "BBM Terios",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Desember_Entertaint_UNMATCHED",
+      "tanggal": "2024-12-28",
+      "month": "Desember",
+      "keterangan_monitoring": "Entertaint",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Desember_biaya tarik tunai_UNMATCHED",
+      "tanggal": "2024-12-28",
+      "month": "Desember",
+      "keterangan_monitoring": "biaya tarik tunai",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Desember_Entertaint Tim Survey_UNMATCHED",
+      "tanggal": "2024-12-31",
+      "month": "Desember",
+      "keterangan_monitoring": "Entertaint Tim Survey",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Desember_Tambal Ban KLX_UNMATCHED",
+      "tanggal": "2024-12-31",
+      "month": "Desember",
+      "keterangan_monitoring": "Tambal Ban KLX",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Desember",
+      "matched_with_nota": false
+    },
+    {
+      "id": "November_BBM KLX Besar_UNMATCHED",
+      "tanggal": "2024-02-11",
+      "month": "November",
+      "keterangan_monitoring": "BBM KLX Besar",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "id": "November_Alkon_UNMATCHED",
+      "tanggal": "2024-02-11",
+      "month": "November",
+      "keterangan_monitoring": "Alkon",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "id": "November_Genset_UNMATCHED",
+      "tanggal": "2024-02-11",
+      "month": "November",
+      "keterangan_monitoring": "Genset",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "id": "November_BBM KLX mini_UNMATCHED",
+      "tanggal": "2024-03-11",
+      "month": "November",
+      "keterangan_monitoring": "BBM KLX mini",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "id": "November_dan Air minum galon_UNMATCHED",
+      "tanggal": "2024-03-11",
+      "month": "November",
+      "keterangan_monitoring": "dan Air minum galon",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "id": "November_10 Liter Bensin_UNMATCHED",
+      "tanggal": "2024-03-11",
+      "month": "November",
+      "keterangan_monitoring": "10 Liter Bensin",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "id": "November_Drigen 5 Liter 2 Buah_UNMATCHED",
+      "tanggal": "2024-03-11",
+      "month": "November",
+      "keterangan_monitoring": "Drigen 5 Liter 2 Buah",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "id": "November_BBM KLX_UNMATCHED",
+      "tanggal": "2024-07-11",
+      "month": "November",
+      "keterangan_monitoring": "BBM KLX",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "id": "November_Galon_UNMATCHED",
+      "tanggal": "2024-07-11",
+      "month": "November",
+      "keterangan_monitoring": "Galon",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "id": "November_Tarik mobil_UNMATCHED",
+      "tanggal": "2024-07-11",
+      "month": "November",
+      "keterangan_monitoring": "Tarik mobil",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "id": "November_Tarik Tunai_UNMATCHED",
+      "tanggal": "2024-07-11",
+      "month": "November",
+      "keterangan_monitoring": "Tarik Tunai",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "id": "November_Carbon Brush_UNMATCHED",
+      "tanggal": "2024-07-11",
+      "month": "November",
+      "keterangan_monitoring": "Carbon Brush",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "id": "November_BBM Alkon_UNMATCHED",
+      "tanggal": "2024-08-11",
+      "month": "November",
+      "keterangan_monitoring": "BBM Alkon",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "id": "November_Genset_UNMATCHED",
+      "tanggal": "2024-08-11",
+      "month": "November",
+      "keterangan_monitoring": "Genset",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "id": "November_Klx_UNMATCHED",
+      "tanggal": "2024-08-11",
+      "month": "November",
+      "keterangan_monitoring": "Klx",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "id": "November_Sapu Lantai_UNMATCHED",
+      "tanggal": "2024-08-11",
+      "month": "November",
+      "keterangan_monitoring": "Sapu Lantai",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "id": "November_Nota entertaint_UNMATCHED",
+      "tanggal": "2024-08-11",
+      "month": "November",
+      "keterangan_monitoring": "Nota entertaint",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "id": "November_Tarik tunai_UNMATCHED",
+      "tanggal": "2024-08-11",
+      "month": "November",
+      "keterangan_monitoring": "Tarik tunai",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "id": "November_Perbaikan Mobil Truk_UNMATCHED",
+      "tanggal": "2024-09-11",
+      "month": "November",
+      "keterangan_monitoring": "Perbaikan Mobil Truk",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "id": "November_Tambal Ban Motor_UNMATCHED",
+      "tanggal": "2024-09-11",
+      "month": "November",
+      "keterangan_monitoring": "Tambal Ban Motor",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "id": "November_BBM KLX_UNMATCHED",
+      "tanggal": "2024-09-11",
+      "month": "November",
+      "keterangan_monitoring": "BBM KLX",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "id": "November_Tambah Angin Ban truk_UNMATCHED",
+      "tanggal": "2024-09-11",
+      "month": "November",
+      "keterangan_monitoring": "Tambah Angin Ban truk",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "id": "November_Entertaint_UNMATCHED",
+      "tanggal": "2024-09-11",
+      "month": "November",
+      "keterangan_monitoring": "Entertaint",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "id": "November_Kunjungan Babin_UNMATCHED",
+      "tanggal": "2024-12-11",
+      "month": "November",
+      "keterangan_monitoring": "Kunjungan Babin",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "id": "November_Galon_UNMATCHED",
+      "tanggal": "2024-12-11",
+      "month": "November",
+      "keterangan_monitoring": "Galon",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "id": "November_Biaya Tungu_UNMATCHED",
+      "tanggal": "2024-12-11",
+      "month": "November",
+      "keterangan_monitoring": "Biaya Tungu",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "id": "November_BBM KLX_UNMATCHED",
+      "tanggal": "2024-11-13",
+      "month": "November",
+      "keterangan_monitoring": "BBM KLX",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "id": "November_Gunting_UNMATCHED",
+      "tanggal": "2024-11-13",
+      "month": "November",
+      "keterangan_monitoring": "Gunting",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "id": "November_BBM Alat_UNMATCHED",
+      "tanggal": "2024-11-13",
+      "month": "November",
+      "keterangan_monitoring": "BBM Alat",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "id": "November_Baut baja+Ring_UNMATCHED",
+      "tanggal": "2024-11-16",
+      "month": "November",
+      "keterangan_monitoring": "Baut baja+Ring",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "id": "November_Tambal Ban Truk_UNMATCHED",
+      "tanggal": "2024-11-16",
+      "month": "November",
+      "keterangan_monitoring": "Tambal Ban Truk",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "id": "November_Biaya tarik tunai_UNMATCHED",
+      "tanggal": "2024-11-16",
+      "month": "November",
+      "keterangan_monitoring": "Biaya tarik tunai",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "id": "November_Galon_UNMATCHED",
+      "tanggal": "2024-11-16",
+      "month": "November",
+      "keterangan_monitoring": "Galon",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "id": "November_BBM KLX_UNMATCHED",
+      "tanggal": "2024-11-18",
+      "month": "November",
+      "keterangan_monitoring": "BBM KLX",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "id": "November_Genset_UNMATCHED",
+      "tanggal": "2024-11-18",
+      "month": "November",
+      "keterangan_monitoring": "Genset",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "id": "November_Biaya Tarik Tunai_UNMATCHED",
+      "tanggal": "2024-11-18",
+      "month": "November",
+      "keterangan_monitoring": "Biaya Tarik Tunai",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "id": "November_Pulsa Listrik_UNMATCHED",
+      "tanggal": "2024-11-20",
+      "month": "November",
+      "keterangan_monitoring": "Pulsa Listrik",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "id": "November_Entertaint Tim Survey_UNMATCHED",
+      "tanggal": "2024-11-20",
+      "month": "November",
+      "keterangan_monitoring": "Entertaint Tim Survey",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "id": "November_Baut baja+Ring_UNMATCHED",
+      "tanggal": "2024-11-20",
+      "month": "November",
+      "keterangan_monitoring": "Baut baja+Ring",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "id": "November_Materai_UNMATCHED",
+      "tanggal": "2024-11-20",
+      "month": "November",
+      "keterangan_monitoring": "Materai",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "id": "November_Galon_UNMATCHED",
+      "tanggal": "2024-11-20",
+      "month": "November",
+      "keterangan_monitoring": "Galon",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "id": "November_Sapu Mobil_UNMATCHED",
+      "tanggal": "2024-11-20",
+      "month": "November",
+      "keterangan_monitoring": "Sapu Mobil",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "id": "November_bbm klx_UNMATCHED",
+      "tanggal": "2024-11-20",
+      "month": "November",
+      "keterangan_monitoring": "bbm klx",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "id": "November_Canebo_UNMATCHED",
+      "tanggal": "2024-11-20",
+      "month": "November",
+      "keterangan_monitoring": "Canebo",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "id": "November_Biaya Tarik Tunai_UNMATCHED",
+      "tanggal": "2024-11-20",
+      "month": "November",
+      "keterangan_monitoring": "Biaya Tarik Tunai",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "id": "November_BBM Mesin_UNMATCHED",
+      "tanggal": "2024-11-25",
+      "month": "November",
+      "keterangan_monitoring": "BBM Mesin",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "id": "November_Dompet Gantungan Truk_UNMATCHED",
+      "tanggal": "2024-11-25",
+      "month": "November",
+      "keterangan_monitoring": "Dompet Gantungan Truk",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "id": "November_Vixal_UNMATCHED",
+      "tanggal": "2024-11-28",
+      "month": "November",
+      "keterangan_monitoring": "Vixal",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "id": "November_gembok_UNMATCHED",
+      "tanggal": "2024-11-28",
+      "month": "November",
+      "keterangan_monitoring": "gembok",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "id": "November_kabbel tis_UNMATCHED",
+      "tanggal": "2024-11-28",
+      "month": "November",
+      "keterangan_monitoring": "kabbel tis",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "id": "November_biaya tarik tunai_UNMATCHED",
+      "tanggal": "2024-11-28",
+      "month": "November",
+      "keterangan_monitoring": "biaya tarik tunai",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "id": "November_entertaint_UNMATCHED",
+      "tanggal": "2024-11-28",
+      "month": "November",
+      "keterangan_monitoring": "entertaint",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "id": "November_bbm klx_UNMATCHED",
+      "tanggal": "2024-11-28",
+      "month": "November",
+      "keterangan_monitoring": "bbm klx",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "id": "November_Corong Minyak_UNMATCHED",
+      "tanggal": "2024-11-29",
+      "month": "November",
+      "keterangan_monitoring": "Corong Minyak",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "id": "November_Isolatip_UNMATCHED",
+      "tanggal": "2024-11-29",
+      "month": "November",
+      "keterangan_monitoring": "Isolatip",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "id": "November_Saringan_UNMATCHED",
+      "tanggal": "2024-11-29",
+      "month": "November",
+      "keterangan_monitoring": "Saringan",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "id": "November_Kunci ring pas 24_UNMATCHED",
+      "tanggal": "2024-11-29",
+      "month": "November",
+      "keterangan_monitoring": "Kunci ring pas 24",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "id": "November_Galon_UNMATCHED",
+      "tanggal": "2024-11-29",
+      "month": "November",
+      "keterangan_monitoring": "Galon",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "id": "November_Aqua Botol_UNMATCHED",
+      "tanggal": "2024-11-29",
+      "month": "November",
+      "keterangan_monitoring": "Aqua Botol",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "id": "November_BBM Alkon_UNMATCHED",
+      "tanggal": "2024-11-29",
+      "month": "November",
+      "keterangan_monitoring": "BBM Alkon",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "id": "November_Genset_UNMATCHED",
+      "tanggal": "2024-11-29",
+      "month": "November",
+      "keterangan_monitoring": "Genset",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "id": "November_Vibrator_UNMATCHED",
+      "tanggal": "2024-11-29",
+      "month": "November",
+      "keterangan_monitoring": "Vibrator",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "id": "November_Entertaint_UNMATCHED",
+      "tanggal": "2024-11-30",
+      "month": "November",
+      "keterangan_monitoring": "Entertaint",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "id": "November_Print Safety Induction_UNMATCHED",
+      "tanggal": "2024-11-30",
+      "month": "November",
+      "keterangan_monitoring": "Print Safety Induction",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas November",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Oktober_BBM Alkon_UNMATCHED",
+      "tanggal": "2024-01-10",
+      "month": "Oktober",
+      "keterangan_monitoring": "BBM Alkon",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Oktober_BBM KLX_UNMATCHED",
+      "tanggal": "2024-01-10",
+      "month": "Oktober",
+      "keterangan_monitoring": "BBM KLX",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Oktober_Air Minum dan Makan_UNMATCHED",
+      "tanggal": "2024-01-10",
+      "month": "Oktober",
+      "keterangan_monitoring": "Air Minum dan Makan",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Oktober_BBM TRUK_UNMATCHED",
+      "tanggal": "2024-03-10",
+      "month": "Oktober",
+      "keterangan_monitoring": "BBM TRUK",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Oktober_Busi KLX Besar_UNMATCHED",
+      "tanggal": "2024-03-10",
+      "month": "Oktober",
+      "keterangan_monitoring": "Busi KLX Besar",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Oktober_Entertain Cek Area_UNMATCHED",
+      "tanggal": "2024-03-10",
+      "month": "Oktober",
+      "keterangan_monitoring": "Entertain Cek Area",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Oktober_BBM Alkon_UNMATCHED",
+      "tanggal": "2024-05-10",
+      "month": "Oktober",
+      "keterangan_monitoring": "BBM Alkon",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Oktober_Pembayaran Air Pam_UNMATCHED",
+      "tanggal": "2024-06-10",
+      "month": "Oktober",
+      "keterangan_monitoring": "Pembayaran Air Pam",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Oktober_BBM Alkon_UNMATCHED",
+      "tanggal": "2024-06-10",
+      "month": "Oktober",
+      "keterangan_monitoring": "BBM Alkon",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Oktober_Lem Stel (Dextone)_UNMATCHED",
+      "tanggal": "2024-06-10",
+      "month": "Oktober",
+      "keterangan_monitoring": "Lem Stel (Dextone)",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Oktober_BBM KLX Besar_UNMATCHED",
+      "tanggal": "2024-06-10",
+      "month": "Oktober",
+      "keterangan_monitoring": "BBM KLX Besar",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Oktober_BBM KLX dan Alkon_UNMATCHED",
+      "tanggal": "2024-06-10",
+      "month": "Oktober",
+      "keterangan_monitoring": "BBM KLX dan Alkon",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Oktober_Tarik Tunai_UNMATCHED",
+      "tanggal": "2024-06-10",
+      "month": "Oktober",
+      "keterangan_monitoring": "Tarik Tunai",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Oktober_Ampera_UNMATCHED",
+      "tanggal": "2024-06-10",
+      "month": "Oktober",
+      "keterangan_monitoring": "Ampera",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Oktober_Kuitansi Dan Nota_UNMATCHED",
+      "tanggal": "2024-06-10",
+      "month": "Oktober",
+      "keterangan_monitoring": "Kuitansi Dan Nota",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Oktober_Ampera_UNMATCHED",
+      "tanggal": "2024-10-10",
+      "month": "Oktober",
+      "keterangan_monitoring": "Ampera",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Oktober_Biaya Tarik_UNMATCHED",
+      "tanggal": "2024-10-10",
+      "month": "Oktober",
+      "keterangan_monitoring": "Biaya Tarik",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Oktober_BBM Klx Mini_UNMATCHED",
+      "tanggal": "2024-10-10",
+      "month": "Oktober",
+      "keterangan_monitoring": "BBM Klx Mini",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Oktober_BBm Alkon_UNMATCHED",
+      "tanggal": "2024-10-10",
+      "month": "Oktober",
+      "keterangan_monitoring": "BBm Alkon",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Oktober_Entertaint_UNMATCHED",
+      "tanggal": "2024-11-10",
+      "month": "Oktober",
+      "keterangan_monitoring": "Entertaint",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Oktober_BBM KLX Bsar_UNMATCHED",
+      "tanggal": "2024-11-10",
+      "month": "Oktober",
+      "keterangan_monitoring": "BBM KLX Bsar",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Oktober_Air Galon_UNMATCHED",
+      "tanggal": "2024-11-10",
+      "month": "Oktober",
+      "keterangan_monitoring": "Air Galon",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Oktober_BBM KLX Besar_UNMATCHED",
+      "tanggal": "2024-12-10",
+      "month": "Oktober",
+      "keterangan_monitoring": "BBM KLX Besar",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Oktober_KLX Kecil_UNMATCHED",
+      "tanggal": "2024-12-10",
+      "month": "Oktober",
+      "keterangan_monitoring": "KLX Kecil",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Oktober_Ampera Material_UNMATCHED",
+      "tanggal": "2024-12-10",
+      "month": "Oktober",
+      "keterangan_monitoring": "Ampera Material",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Oktober_Aqua Botol_UNMATCHED",
+      "tanggal": "2024-10-13",
+      "month": "Oktober",
+      "keterangan_monitoring": "Aqua Botol",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Oktober_BBM KLX Besar_UNMATCHED",
+      "tanggal": "2024-10-13",
+      "month": "Oktober",
+      "keterangan_monitoring": "BBM KLX Besar",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Oktober_KLX Kecil_UNMATCHED",
+      "tanggal": "2024-10-13",
+      "month": "Oktober",
+      "keterangan_monitoring": "KLX Kecil",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Oktober_Galon_UNMATCHED",
+      "tanggal": "2024-10-13",
+      "month": "Oktober",
+      "keterangan_monitoring": "Galon",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Oktober_Tarik Tunai_UNMATCHED",
+      "tanggal": "2024-10-13",
+      "month": "Oktober",
+      "keterangan_monitoring": "Tarik Tunai",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Oktober_BBM KLX Besar_UNMATCHED",
+      "tanggal": "2024-10-13",
+      "month": "Oktober",
+      "keterangan_monitoring": "BBM KLX Besar",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Oktober_KLX Kecil_UNMATCHED",
+      "tanggal": "2024-10-13",
+      "month": "Oktober",
+      "keterangan_monitoring": "KLX Kecil",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Oktober_Galon_UNMATCHED",
+      "tanggal": "2024-10-13",
+      "month": "Oktober",
+      "keterangan_monitoring": "Galon",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Oktober_Entertain_UNMATCHED",
+      "tanggal": "2024-10-13",
+      "month": "Oktober",
+      "keterangan_monitoring": "Entertain",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Oktober_BBM KLX Besar_UNMATCHED",
+      "tanggal": "2024-10-13",
+      "month": "Oktober",
+      "keterangan_monitoring": "BBM KLX Besar",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Oktober_Tarik Tunai_UNMATCHED",
+      "tanggal": "2024-10-13",
+      "month": "Oktober",
+      "keterangan_monitoring": "Tarik Tunai",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Oktober_Pulsa Listrik_UNMATCHED",
+      "tanggal": "2024-10-16",
+      "month": "Oktober",
+      "keterangan_monitoring": "Pulsa Listrik",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Oktober_BBM KLX Mini_UNMATCHED",
+      "tanggal": "2024-10-16",
+      "month": "Oktober",
+      "keterangan_monitoring": "BBM KLX Mini",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Oktober_Biaya Tarik Tunai_UNMATCHED",
+      "tanggal": "2024-10-16",
+      "month": "Oktober",
+      "keterangan_monitoring": "Biaya Tarik Tunai",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Oktober_BBM KLX_UNMATCHED",
+      "tanggal": "2024-10-18",
+      "month": "Oktober",
+      "keterangan_monitoring": "BBM KLX",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Oktober_Galon_UNMATCHED",
+      "tanggal": "2024-10-18",
+      "month": "Oktober",
+      "keterangan_monitoring": "Galon",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Oktober_BBM KLX Kecil_UNMATCHED",
+      "tanggal": "2024-10-19",
+      "month": "Oktober",
+      "keterangan_monitoring": "BBM KLX Kecil",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Oktober_BBM KLX Besar_UNMATCHED",
+      "tanggal": "2024-10-20",
+      "month": "Oktober",
+      "keterangan_monitoring": "BBM KLX Besar",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Oktober_KLX Kecil_UNMATCHED",
+      "tanggal": "2024-10-20",
+      "month": "Oktober",
+      "keterangan_monitoring": "KLX Kecil",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Oktober_Galon_UNMATCHED",
+      "tanggal": "2024-10-20",
+      "month": "Oktober",
+      "keterangan_monitoring": "Galon",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Oktober_Galon_UNMATCHED",
+      "tanggal": "2024-10-22",
+      "month": "Oktober",
+      "keterangan_monitoring": "Galon",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Oktober_BBM KLX besar_UNMATCHED",
+      "tanggal": "2024-10-22",
+      "month": "Oktober",
+      "keterangan_monitoring": "BBM KLX besar",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Oktober_BBM KLX Mini_UNMATCHED",
+      "tanggal": "2024-10-22",
+      "month": "Oktober",
+      "keterangan_monitoring": "BBM KLX Mini",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Oktober_BBM KLX besar_UNMATCHED",
+      "tanggal": "2024-10-23",
+      "month": "Oktober",
+      "keterangan_monitoring": "BBM KLX besar",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Oktober_entertaint_UNMATCHED",
+      "tanggal": "2024-10-23",
+      "month": "Oktober",
+      "keterangan_monitoring": "entertaint",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Oktober_Pulsa Listrik_UNMATCHED",
+      "tanggal": "2024-10-24",
+      "month": "Oktober",
+      "keterangan_monitoring": "Pulsa Listrik",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Oktober_BBM KLX_UNMATCHED",
+      "tanggal": "2024-10-24",
+      "month": "Oktober",
+      "keterangan_monitoring": "BBM KLX",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Oktober_Entertaint_UNMATCHED",
+      "tanggal": "2024-10-24",
+      "month": "Oktober",
+      "keterangan_monitoring": "Entertaint",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Oktober_Entertaint_UNMATCHED",
+      "tanggal": "2024-10-25",
+      "month": "Oktober",
+      "keterangan_monitoring": "Entertaint",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Oktober_Air Galon_UNMATCHED",
+      "tanggal": "2024-10-25",
+      "month": "Oktober",
+      "keterangan_monitoring": "Air Galon",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Oktober_BBM KLX Mini_UNMATCHED",
+      "tanggal": "2024-10-25",
+      "month": "Oktober",
+      "keterangan_monitoring": "BBM KLX Mini",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Oktober_KLX Besar_UNMATCHED",
+      "tanggal": "2024-10-25",
+      "month": "Oktober",
+      "keterangan_monitoring": "KLX Besar",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Oktober_BBM Alkon_UNMATCHED",
+      "tanggal": "2024-10-27",
+      "month": "Oktober",
+      "keterangan_monitoring": "BBM Alkon",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Oktober_Vibrator_UNMATCHED",
+      "tanggal": "2024-10-27",
+      "month": "Oktober",
+      "keterangan_monitoring": "Vibrator",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Oktober_Genset. Tarik Tunai_UNMATCHED",
+      "tanggal": "2024-10-27",
+      "month": "Oktober",
+      "keterangan_monitoring": "Genset. Tarik Tunai",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Oktober_Impeler Alkon_UNMATCHED",
+      "tanggal": "2024-10-27",
+      "month": "Oktober",
+      "keterangan_monitoring": "Impeler Alkon",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Oktober_BBM KLX Besar_UNMATCHED",
+      "tanggal": "2024-10-28",
+      "month": "Oktober",
+      "keterangan_monitoring": "BBM KLX Besar",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Oktober_Peralatan Cuci Motor_UNMATCHED",
+      "tanggal": "2024-10-28",
+      "month": "Oktober",
+      "keterangan_monitoring": "Peralatan Cuci Motor",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Oktober_BBM KLX Kecil_UNMATCHED",
+      "tanggal": "2024-10-29",
+      "month": "Oktober",
+      "keterangan_monitoring": "BBM KLX Kecil",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Oktober_BBM Vibrator_UNMATCHED",
+      "tanggal": "2024-10-29",
+      "month": "Oktober",
+      "keterangan_monitoring": "BBM Vibrator",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Oktober_Galon_UNMATCHED",
+      "tanggal": "2024-10-29",
+      "month": "Oktober",
+      "keterangan_monitoring": "Galon",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Oktober_Ganti Ban Truk_UNMATCHED",
+      "tanggal": "2024-10-31",
+      "month": "Oktober",
+      "keterangan_monitoring": "Ganti Ban Truk",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Oktober_Baut Roofing_UNMATCHED",
+      "tanggal": "2024-10-31",
+      "month": "Oktober",
+      "keterangan_monitoring": "Baut Roofing",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Oktober_Ban Dalam Swallow_UNMATCHED",
+      "tanggal": "2024-10-31",
+      "month": "Oktober",
+      "keterangan_monitoring": "Ban Dalam Swallow",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    },
+    {
+      "id": "Oktober_Lem Aicha Aibon_UNMATCHED",
+      "tanggal": "2024-10-31",
+      "month": "Oktober",
+      "keterangan_monitoring": "Lem Aicha Aibon",
+      "harga": null,
+      "source_sheet": "Laporan Monitoring Kas Oktober",
+      "matched_with_nota": false
+    }
+  ]
+}

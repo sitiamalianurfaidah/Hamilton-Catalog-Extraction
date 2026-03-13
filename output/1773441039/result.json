@@ -1,0 +1,1017 @@
+{
+  "nama_proyek": "REST AREA BETJAM SEKSI 4",
+  "nama_site": null,
+  "lokasi": null,
+  "nama_bangunan": null,
+  "jenis_pekerjaan": [],
+  "items": [
+    {
+      "header1": "Struktur Bangunan",
+      "header2": null,
+      "nama_barang": "Baja Tulangan Ø 10 mm",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Kuat tarik leleh minimum 280 Mpa",
+        "spesifikasi_merek": "Lautan Steel Indonesia"
+      }
+    },
+    {
+      "header1": "Struktur Bangunan",
+      "header2": null,
+      "nama_barang": "Baja Tulangan D 13",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Kuat tarik leleh minimum 420 Mpa",
+        "spesifikasi_merek": "Citra Baru Steel"
+      }
+    },
+    {
+      "header1": "Rangka Atap",
+      "header2": null,
+      "nama_barang": "Baja Ringan",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "",
+        "spesifikasi_merek": "Taso"
+      }
+    },
+    {
+      "header1": "Dinding",
+      "header2": null,
+      "nama_barang": "Bata Ringan",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "BJ Kering : 520  kg/m3, BJ Normal : 600  kg/m3, Kuat Tekan : ≥ 4   N/mm2",
+        "spesifikasi_merek": "Walbrick"
+      }
+    },
+    {
+      "header1": "Dinding",
+      "header2": null,
+      "nama_barang": "Bata Ringan",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "BJ Normal :  600 ± 50  kg/m3, Kuat Tekan : ≥ 4,25   N/mm2",
+        "spesifikasi_merek": "Fortune Block Indonesia (FBI)"
+      }
+    },
+    {
+      "header1": "Plafond",
+      "header2": null,
+      "nama_barang": "Plafond Gypsumboard",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "",
+        "spesifikasi_merek": null
+      }
+    },
+    {
+      "header1": "Plafond",
+      "header2": null,
+      "nama_barang": "Floor Hardener",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "",
+        "spesifikasi_merek": "Sika Chapdur"
+      }
+    },
+    {
+      "header1": "Plafond",
+      "header2": null,
+      "nama_barang": "Minipile Pondasi Highmash",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "25 x 25 x 600 cm",
+        "spesifikasi_merek": "PT Kunango Jantan"
+      }
+    },
+    {
+      "header1": "Atap",
+      "header2": null,
+      "nama_barang": "Listplank",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "GRC Timber Plank Motif Urat Kayu 8mm",
+        "spesifikasi_merek": "Aplus"
+      }
+    },
+    {
+      "header1": "Pintu dan Jendela",
+      "header2": null,
+      "nama_barang": "Kaca",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "",
+        "spesifikasi_merek": null
+      }
+    },
+    {
+      "header1": "Cermin Wastafel",
+      "header2": null,
+      "nama_barang": "Cermin",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Tebal 6 mm",
+        "spesifikasi_merek": "Asahimas"
+      }
+    },
+    {
+      "header1": "Elektrikal",
+      "header2": null,
+      "nama_barang": "Conduit Ø 20 mm :",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Diameter Ø 20 mm",
+        "spesifikasi_merek": "Boss"
+      }
+    },
+    {
+      "header1": "Elektrikal",
+      "header2": null,
+      "nama_barang": "Rangka Plafond",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Hollow 40 x 40",
+        "spesifikasi_merek": "Aplus"
+      }
+    },
+    {
+      "header1": "Elektrikal",
+      "header2": null,
+      "nama_barang": "Multiplek Pelapis Atap",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Tebal 12 mm",
+        "spesifikasi_merek": "Apel (Lokal)"
+      }
+    },
+    {
+      "header1": "Elektrikal",
+      "header2": null,
+      "nama_barang": "Cat Waterprofing",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Sika Top - 107 seal",
+        "spesifikasi_merek": "Sika"
+      }
+    },
+    {
+      "header1": "Instalasi Air Kotor",
+      "header2": null,
+      "nama_barang": "Pekerjaan Instalasi Air Kotor dan Bekas",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "",
+        "spesifikasi_merek": null
+      }
+    },
+    {
+      "header1": "Instalasi Air Kotor",
+      "header2": null,
+      "nama_barang": "Septic Tank",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "",
+        "spesifikasi_merek": null
+      }
+    },
+    {
+      "header1": "Struktur Bangunan",
+      "header2": null,
+      "nama_barang": "Baja Tulangan",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "",
+        "spesifikasi_merek": null
+      }
+    },
+    {
+      "header1": "Struktur Bangunan",
+      "header2": null,
+      "nama_barang": "Angkur Ø 16 mm",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "BJTS 420",
+        "spesifikasi_merek": "BJTS 420"
+      }
+    },
+    {
+      "header1": "Struktur Bangunan",
+      "header2": null,
+      "nama_barang": "Baja Tulangan Ulir 10 mm",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Kuat tarik leleh minimum 420 Mpa",
+        "spesifikasi_merek": "Citra Baru Steel"
+      }
+    },
+    {
+      "header1": "Elektrikal",
+      "header2": null,
+      "nama_barang": "Kabel Instalasi Elektrikal",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "",
+        "spesifikasi_merek": null
+      }
+    },
+    {
+      "header1": "Baja Profil",
+      "header2": null,
+      "nama_barang": "Cat Baja Profil",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "",
+        "spesifikasi_merek": null
+      }
+    },
+    {
+      "header1": "Instalasi Air Bersih",
+      "header2": null,
+      "nama_barang": "PIPA AIR BERSIH",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "",
+        "spesifikasi_merek": null
+      }
+    },
+    {
+      "header1": "Hydrant",
+      "header2": null,
+      "nama_barang": "PIPA HYDRANT",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "",
+        "spesifikasi_merek": null
+      }
+    },
+    {
+      "header1": "Instalasi Air Bersih",
+      "header2": null,
+      "nama_barang": "Alat Bantu Air Bersih",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "",
+        "spesifikasi_merek": null
+      }
+    },
+    {
+      "header1": "Instalasi Hydrant",
+      "header2": null,
+      "nama_barang": "Alat Bantu Hydrant",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "",
+        "spesifikasi_merek": null
+      }
+    },
+    {
+      "header1": "Proteksi Pipa",
+      "header2": null,
+      "nama_barang": "Wraping Pipa",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "4\" (100 mm), 100ft (30 m)",
+        "spesifikasi_merek": "Polyken 980"
+      }
+    },
+    {
+      "header1": "Instalasi Air Bersih",
+      "header2": null,
+      "nama_barang": "Pompa Deep Well",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Type submersible, Kapasitas 200 lpm, Head 120 mtr, Daya 5,5 Kw",
+        "spesifikasi_merek": "Grundfos model SP 14-20"
+      }
+    },
+    {
+      "header1": "Instalasi Hydrant",
+      "header2": null,
+      "nama_barang": "Pompa Hydrant dan Panel Hydrant",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "",
+        "spesifikasi_merek": null
+      }
+    },
+    {
+      "header1": "Elektrikal",
+      "header2": null,
+      "nama_barang": "Transformator Daya",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Kapasitas 630 kVA, Oil Type, Tegangan  20/0,4 kV, 50 Hz",
+        "spesifikasi_merek": "Bambang Djaja"
+      }
+    },
+    {
+      "header1": "Elektrikal",
+      "header2": null,
+      "nama_barang": "Generator Set",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Genset model INT 440C Engine  Cummins / 6ZTAA13-G2",
+        "spesifikasi_merek": "Cummins"
+      }
+    },
+    {
+      "header1": "Elektrikal",
+      "header2": null,
+      "nama_barang": "Lampu PJU dan Lampu Highmash",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "",
+        "spesifikasi_merek": null
+      }
+    },
+    {
+      "header1": "Elektrikal",
+      "header2": null,
+      "nama_barang": "Apar 6 kg",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Type ABC Powder",
+        "spesifikasi_merek": "Viking"
+      }
+    },
+    {
+      "header1": "Penerangan Jalan Umum",
+      "header2": null,
+      "nama_barang": "Tiang PJU dan Tiang Highmash",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "",
+        "spesifikasi_merek": null
+      }
+    },
+    {
+      "header1": "Elektrikal",
+      "header2": null,
+      "nama_barang": "KABEL FEEDER",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "",
+        "spesifikasi_merek": null
+      }
+    },
+    {
+      "header1": "Tangki Air",
+      "header2": null,
+      "nama_barang": "Panel Tanki FRP",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "",
+        "spesifikasi_merek": null
+      }
+    },
+    {
+      "header1": "Tangki Air",
+      "header2": null,
+      "nama_barang": "Kabel Tray dan Kabel Ladder",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Tebal 2 mm",
+        "spesifikasi_merek": "Traytek"
+      }
+    },
+    {
+      "header1": "Struktur Bangunan",
+      "header2": null,
+      "nama_barang": "Casing  Pompa Deep Well",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Tebal 4.2 mm",
+        "spesifikasi_merek": "Spindo"
+      }
+    },
+    {
+      "header1": "Struktur Bangunan",
+      "header2": null,
+      "nama_barang": "Alat Bantu Air Bersih",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "",
+        "spesifikasi_merek": null
+      }
+    },
+    {
+      "header1": "Struktur Bangunan",
+      "header2": null,
+      "nama_barang": "Flexible Joint Duct",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "",
+        "spesifikasi_merek": "Polar"
+      }
+    },
+    {
+      "header1": "Penutup Atap",
+      "header2": null,
+      "nama_barang": "Atap Bitumen + Underlayer",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Warna Bark Brown",
+        "spesifikasi_merek": "BSK"
+      }
+    },
+    {
+      "header1": "Penutup Atap",
+      "header2": null,
+      "nama_barang": "Exhaust Air Grille",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "",
+        "spesifikasi_merek": "Prima Wangi"
+      }
+    },
+    {
+      "header1": "Penutup Atap",
+      "header2": null,
+      "nama_barang": "Apar kap 25 kg",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Type ABC",
+        "spesifikasi_merek": "Hooseki"
+      }
+    },
+    {
+      "header1": "Penutup Atap",
+      "header2": null,
+      "nama_barang": "Pipa Air Bersih",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "",
+        "spesifikasi_merek": null
+      }
+    },
+    {
+      "header1": "Penutup Atap",
+      "header2": null,
+      "nama_barang": "Aksesoris Hydrant",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "",
+        "spesifikasi_merek": null
+      }
+    },
+    {
+      "header1": "Penutup Atap",
+      "header2": null,
+      "nama_barang": "Sanitary",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "",
+        "spesifikasi_merek": null
+      }
+    },
+    {
+      "header1": "Penutup Atap",
+      "header2": null,
+      "nama_barang": "Kran Taman",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "TC-030B",
+        "spesifikasi_merek": "Wasser"
+      }
+    },
+    {
+      "header1": "Penutup Atap",
+      "header2": null,
+      "nama_barang": "Grouting Base Plat",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "SikaGrout - 215",
+        "spesifikasi_merek": "Sika"
+      }
+    },
+    {
+      "header1": "Penutup Atap",
+      "header2": null,
+      "nama_barang": "Kusen",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Shop Front 4\" powder coating Black",
+        "spesifikasi_merek": "Alexindo"
+      }
+    },
+    {
+      "header1": "Penutup Atap",
+      "header2": null,
+      "nama_barang": "KERAMIK",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "",
+        "spesifikasi_merek": null
+      }
+    },
+    {
+      "header1": "Penutup Atap",
+      "header2": "Kantin Tempat Istirahat Supir",
+      "nama_barang": "Pompa Transfer dan Pompa Distribusi",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Kapasitas 2x150 lpm, Head 150 mtr, Motor factory standard: Power 2x7.5 Kw @2900 Rpm, 380 V, 3ph/50Hz",
+        "spesifikasi_merek": "Ironguard IGVM 10-18"
+      }
+    },
+    {
+      "header1": "Penutup Atap",
+      "header2": "Kantin Tempat Istirahat Supir",
+      "nama_barang": "Mortar Instan untuk Pekerjaan Dinding",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "",
+        "spesifikasi_merek": null
+      }
+    },
+    {
+      "header1": "Penutup Atap",
+      "header2": "Kantin Tempat Istirahat Supir",
+      "nama_barang": "Perekat dan Nat Keramik",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "",
+        "spesifikasi_merek": null
+      }
+    },
+    {
+      "header1": "Penutup Atap",
+      "header2": "Kantin Tempat Istirahat Supir",
+      "nama_barang": "Roster",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "20 x 20",
+        "spesifikasi_merek": "Lokal"
+      }
+    },
+    {
+      "header1": "Penutup Atap",
+      "header2": "Kantin Tempat Istirahat Supir",
+      "nama_barang": "Tanki Air 12 m3",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "2 x 3 x 2",
+        "spesifikasi_merek": "Biotechno"
+      }
+    },
+    {
+      "header1": "Penutup Atap",
+      "header2": "Kantin Tempat Istirahat Supir",
+      "nama_barang": "HPL Pelapis Daun Pintu",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "TH 192 DP Tadao calacatta, TH 1215 NT Geneva Elm",
+        "spesifikasi_merek": "Taco"
+      }
+    },
+    {
+      "header1": "Penutup Atap",
+      "header2": "Kantin Tempat Istirahat Supir",
+      "nama_barang": "Baja Profil IWF",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "",
+        "spesifikasi_merek": null
+      }
+    },
+    {
+      "header1": "Penutup Atap",
+      "header2": "Kantin Tempat Istirahat Supir",
+      "nama_barang": "Tata Suara kawasan",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "",
+        "spesifikasi_merek": null
+      }
+    },
+    {
+      "header1": "Penutup Atap",
+      "header2": "Kantin Tempat Istirahat Supir",
+      "nama_barang": "CCTV Kawasan",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "",
+        "spesifikasi_merek": null
+      }
+    },
+    {
+      "header1": "Penutup Atap",
+      "header2": "Kantin Tempat Istirahat Supir",
+      "nama_barang": "Panel",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "",
+        "spesifikasi_merek": null
+      }
+    },
+    {
+      "header1": "Penutup Atap",
+      "header2": "Kantin Tempat Istirahat Supir",
+      "nama_barang": "Flexible Joint Dia. 65 mm dan 150 mm",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "JIS 16 K",
+        "spesifikasi_merek": "Tozen"
+      }
+    },
+    {
+      "header1": "Penutup Atap",
+      "header2": "Kantin Tempat Istirahat Supir",
+      "nama_barang": "Flexible Joint Dia. 50 mm",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "JIS 10 K",
+        "spesifikasi_merek": "Tozen"
+      }
+    },
+    {
+      "header1": "Penutup Atap",
+      "header2": "Kantin Tempat Istirahat Supir",
+      "nama_barang": "Pressure Gauge",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Model P359 (0 - 16 Bar)",
+        "spesifikasi_merek": "Wise"
+      }
+    },
+    {
+      "header1": "Penutup Atap",
+      "header2": "Kantin Tempat Istirahat Supir",
+      "nama_barang": "Main Control Valve",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "PN 16 /DN150 Model J-1",
+        "spesifikasi_merek": "Viking"
+      }
+    },
+    {
+      "header1": "Penutup Atap",
+      "header2": "Kantin Tempat Istirahat Supir",
+      "nama_barang": "Sand & Carbon Filter",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "FT3072-4D",
+        "spesifikasi_merek": "Nanotec"
+      }
+    },
+    {
+      "header1": "Penutup Atap",
+      "header2": "Kantin Tempat Istirahat Supir",
+      "nama_barang": "Ducting BJLS",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Tebal 0.7 mm",
+        "spesifikasi_merek": "Fumira Grip"
+      }
+    },
+    {
+      "header1": "Penutup Atap",
+      "header2": "Kantin Tempat Istirahat Supir",
+      "nama_barang": "Floor Clean Out",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "HN 58",
+        "spesifikasi_merek": "San-Ei"
+      }
+    },
+    {
+      "header1": "Penutup Atap",
+      "header2": "Kantin Tempat Istirahat Supir",
+      "nama_barang": "Baja Tulangan Pondasi PJU",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Ulir Dia. 13 mm dan 16 mm",
+        "spesifikasi_merek": "Lautan Steel"
+      }
+    },
+    {
+      "header1": "Penutup Atap",
+      "header2": "Kantin Tempat Istirahat Supir",
+      "nama_barang": "Roof Drain",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "",
+        "spesifikasi_merek": "San-Ei"
+      }
+    },
+    {
+      "header1": "Penutup Atap",
+      "header2": "Kantin Tempat Istirahat Supir",
+      "nama_barang": "Saklar dan Stop kontak",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "",
+        "spesifikasi_merek": null
+      }
+    },
+    {
+      "header1": "Penutup Atap",
+      "header2": "Kantin Tempat Istirahat Supir",
+      "nama_barang": "Tata Suara Masjid",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "",
+        "spesifikasi_merek": null
+      }
+    },
+    {
+      "header1": "Penutup Atap",
+      "header2": "Kantin Tempat Istirahat Supir",
+      "nama_barang": "Rolling Door",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "One Sheet 75, Perforated warna Cream, tebal 0.45 mm",
+        "spesifikasi_merek": null
+      }
+    },
+    {
+      "header1": "Penutup Atap",
+      "header2": "Kantin Tempat Istirahat Supir",
+      "nama_barang": "Penangkal Petir",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "",
+        "spesifikasi_merek": null
+      }
+    },
+    {
+      "header1": "Penutup Atap",
+      "header2": "Kantin Tempat Istirahat Supir",
+      "nama_barang": "Louver depan Foodcourt dan Restaurant",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Aluminium profil 4\", Powder coating black, Jarak antar profil 5 cm",
+        "spesifikasi_merek": "Alexindo"
+      }
+    },
+    {
+      "header1": "Penutup Atap",
+      "header2": "Kantin Tempat Istirahat Supir",
+      "nama_barang": "Lampu",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "",
+        "spesifikasi_merek": null
+      }
+    },
+    {
+      "header1": "Penutup Atap",
+      "header2": "Kantin Tempat Istirahat Supir",
+      "nama_barang": "Kabel PJU",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "",
+        "spesifikasi_merek": null
+      }
+    },
+    {
+      "header1": "Penutup Atap",
+      "header2": "Kantin Tempat Istirahat Supir",
+      "nama_barang": "Cat Kansteen",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "",
+        "spesifikasi_merek": null
+      }
+    },
+    {
+      "header1": "Penutup Atap",
+      "header2": "Kantin Tempat Istirahat Supir",
+      "nama_barang": "Exhaust Fan Type Inline",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "",
+        "spesifikasi_merek": null
+      }
+    },
+    {
+      "header1": "Penutup Atap",
+      "header2": "Kantin Tempat Istirahat Supir",
+      "nama_barang": "Sealant Kusen",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Warna Hitam",
+        "spesifikasi_merek": "Marks"
+      }
+    },
+    {
+      "header1": "Penutup Atap",
+      "header2": "Kantin Tempat Istirahat Supir",
+      "nama_barang": "Pintu Aluminium",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Spandrel Double",
+        "spesifikasi_merek": "Alexindo"
+      }
+    },
+    {
+      "header1": "Penutup Atap",
+      "header2": "Kantin Tempat Istirahat Supir",
+      "nama_barang": "Cat Dinding Interior",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "NP OW 1083P Reticent White",
+        "spesifikasi_merek": "Nippon Spot Less"
+      }
+    },
+    {
+      "header1": "Penutup Atap",
+      "header2": "Cat Dasar",
+      "nama_barang": "Flow Meter Dia. 2 1/2\" - 8\"",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "LXLG",
+        "spesifikasi_merek": "B&R (Yuta)"
+      }
+    },
+    {
+      "header1": "Penutup Atap",
+      "header2": "Cat Dasar",
+      "nama_barang": "Ducting BJLS",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Tebal 0.7 mm",
+        "spesifikasi_merek": "Lokfom"
+      }
+    },
+    {
+      "header1": "Penutup Atap",
+      "header2": "Cat Dasar",
+      "nama_barang": "Aksesoris Pintu",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "",
+        "spesifikasi_merek": "Dekson"
+      }
+    },
+    {
+      "header1": "Penutup Atap",
+      "header2": "Cat Dasar",
+      "nama_barang": "AC Split Wallmounted",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "",
+        "spesifikasi_merek": null
+      }
+    },
+    {
+      "header1": "Penutup Atap",
+      "header2": "Cat Dasar",
+      "nama_barang": "Pressure Tank",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Kapasitas 500 L",
+        "spesifikasi_merek": "PT Muntek Berkah Utama"
+      }
+    },
+    {
+      "header1": "Penutup Atap",
+      "header2": "Cat Dasar",
+      "nama_barang": "Lampu Hias Masjid",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "",
+        "spesifikasi_merek": null
+      }
+    },
+    {
+      "header1": "Penutup Atap",
+      "header2": "Cat Dasar",
+      "nama_barang": "Shadow Line",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "",
+        "spesifikasi_merek": "Aplus"
+      }
+    },
+    {
+      "header1": "Penutup Atap",
+      "header2": "Cat Dasar",
+      "nama_barang": "Angkur PJU",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Polos 22 mm",
+        "spesifikasi_merek": "Lautan Steel"
+      }
+    },
+    {
+      "header1": "Penutup Atap",
+      "header2": "Cat Dasar",
+      "nama_barang": "Ornamen PVC Masjid",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "",
+        "spesifikasi_merek": null
+      }
+    },
+    {
+      "header1": "Penutup Atap",
+      "header2": "Cat Dasar",
+      "nama_barang": "Pintu Power House",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "",
+        "spesifikasi_merek": null
+      }
+    },
+    {
+      "header1": "Penutup Atap",
+      "header2": "Cat Dasar",
+      "nama_barang": "Ornamen Karawang",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "",
+        "spesifikasi_merek": null
+      }
+    },
+    {
+      "header1": "Penutup Atap",
+      "header2": "Cat Dasar",
+      "nama_barang": "Stop kontak outbow",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "WKJ1131",
+        "spesifikasi_merek": "Panasonic"
+      }
+    },
+    {
+      "header1": "Penutup Atap",
+      "header2": "Cat Dasar",
+      "nama_barang": "Makara kubah masjid",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Plat Stainless Steel Gold",
+        "spesifikasi_merek": "Lokal"
+      }
+    },
+    {
+      "header1": "Penutup Atap",
+      "header2": "Cat Dasar",
+      "nama_barang": "Pressure Switch",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "FF 4-16 DAH",
+        "spesifikasi_merek": "Tival"
+      }
+    },
+    {
+      "header1": "Penutup Atap",
+      "header2": "Cat Dasar",
+      "nama_barang": "Exhaust Fan Wall Mounted",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "ESN-D16/1 (FA-40)",
+        "spesifikasi_merek": "CKE"
+      }
+    },
+    {
+      "header1": "Penutup Atap",
+      "header2": "Cat Dasar",
+      "nama_barang": "Panel Bangunan",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "",
+        "spesifikasi_merek": "Nurinda"
+      }
+    },
+    {
+      "header1": "Penutup Atap",
+      "header2": "Cat Dasar",
+      "nama_barang": "Name Board Masjid",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Akrilik tebal 3mm, kode warna 135",
+        "spesifikasi_merek": "Marga Cipta"
+      }
+    },
+    {
+      "header1": "Penutup Atap",
+      "header2": "Cat Dasar",
+      "nama_barang": "Atap Zincalume (Atap TPS)",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Warna Hitam",
+        "spesifikasi_merek": "Aplus"
+      }
+    },
+    {
+      "header1": "Penutup Atap",
+      "header2": "Cat Dasar",
+      "nama_barang": "Glass Block",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Type Linio",
+        "spesifikasi_merek": "Mulia"
+      }
+    },
+    {
+      "header1": "Penutup Atap",
+      "header2": "Cat Dasar",
+      "nama_barang": "Besi Hollow 50x100  (Atap TPS)",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Tebal 2 mm",
+        "spesifikasi_merek": "Lokal"
+      }
+    },
+    {
+      "header1": "Penutup Atap",
+      "header2": "Cat Dasar",
+      "nama_barang": "Valve",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "",
+        "spesifikasi_merek": null
+      }
+    },
+    {
+      "header1": "Penutup Atap",
+      "header2": "Cat Dasar",
+      "nama_barang": "Exhaust Fan Ceiling",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "CD-BPT-30-MRS",
+        "spesifikasi_merek": "CKE"
+      }
+    },
+    {
+      "header1": "Penutup Atap",
+      "header2": "Cat Dasar",
+      "nama_barang": "Lampu Highbay",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "BY229P LED195/CW PSU GM 6500K",
+        "spesifikasi_merek": "Philips"
+      }
+    },
+    {
+      "header1": "Penutup Atap",
+      "header2": "Cat Dasar",
+      "nama_barang": "Pipa Refrigerant",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "",
+        "spesifikasi_merek": "Toyoda"
+      }
+    },
+    {
+      "header1": "Penutup Atap",
+      "header2": "Cat Dasar",
+      "nama_barang": "Safety Valve",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "PN 16",
+        "spesifikasi_merek": "YOY"
+      }
+    },
+    {
+      "header1": "Penutup Atap",
+      "header2": "Cat Dasar",
+      "nama_barang": "Air Vent",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "PN 16",
+        "spesifikasi_merek": "Gala"
+      }
+    },
+    {
+      "header1": "Penutup Atap",
+      "header2": "Cat Dasar",
+      "nama_barang": "Grease Trap",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "Stainless Steel 30 liter",
+        "spesifikasi_merek": "Biotechno"
+      }
+    },
+    {
+      "header1": "Penutup Atap",
+      "header2": "Cat Dasar",
+      "nama_barang": "Lampu Sorot Kubah Masjid",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "",
+        "spesifikasi_merek": null
+      }
+    },
+    {
+      "header1": "Penutup Atap",
+      "header2": "Cat Dasar",
+      "nama_barang": "Lampu Sorot Name Board Foodcourt dan Resto",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "BVP150 LED20/WW PSU 20W SWB G3 GM",
+        "spesifikasi_merek": "Philips"
+      }
+    },
+    {
+      "header1": "Penutup Atap",
+      "header2": "Cat Dasar",
+      "nama_barang": "Gazebo",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "",
+        "spesifikasi_merek": null
+      }
+    },
+    {
+      "header1": "Penutup Atap",
+      "header2": "Cat Dasar",
+      "nama_barang": "Name Board Rest Area",
+      "spesifikasi_barang": {
+        "spesifikasi_general": "",
+        "spesifikasi_merek": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,323 @@
+{
+  "total_items": 39,
+  "stats": {
+    "total_items": 39,
+    "items_with_price": 39,
+    "coverage_percent": 100.0
+  },
+  "failed_pages": [],
+  "items": [
+    {
+      "nama_barang": "BBM KLX",
+      "jenis_tipe_barang": "Bahan Bakar Minyak",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 110000.0,
+      "_page": 2
+    },
+    {
+      "nama_barang": "Canebo",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 110000.0,
+      "_page": 2
+    },
+    {
+      "nama_barang": "Sapu Mobil",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 110000.0,
+      "_page": 2
+    },
+    {
+      "nama_barang": "Tisu Mobil",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 110000.0,
+      "_page": 2
+    },
+    {
+      "nama_barang": "Tali Rafia",
+      "jenis_tipe_barang": "Alat dan Bahan",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 150000.0,
+      "_page": 3
+    },
+    {
+      "nama_barang": "Entertaint",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 150000.0,
+      "_page": 3
+    },
+    {
+      "nama_barang": "BBM KLX",
+      "jenis_tipe_barang": "Bahan Bakar Minyak",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 120000.0,
+      "_page": 4
+    },
+    {
+      "nama_barang": "Kali Isi",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 120000.0,
+      "_page": 4
+    },
+    {
+      "nama_barang": "KLX",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": "BBm",
+      "harga_barang": 277000.0,
+      "_page": 4
+    },
+    {
+      "nama_barang": "Materai",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 277000.0,
+      "_page": 4
+    },
+    {
+      "nama_barang": "Galon",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 277000.0,
+      "_page": 4
+    },
+    {
+      "nama_barang": "BBM mesin",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 277000.0,
+      "_page": 4
+    },
+    {
+      "nama_barang": "Tarik Tunai",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 277000.0,
+      "_page": 4
+    },
+    {
+      "nama_barang": "Colokan Listrik",
+      "jenis_tipe_barang": "Aksesori Elektronik",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 277000.0,
+      "_page": 4
+    },
+    {
+      "nama_barang": "BBM Motor",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 155000.0,
+      "_page": 5
+    },
+    {
+      "nama_barang": "Entertaint",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 155000.0,
+      "_page": 5
+    },
+    {
+      "nama_barang": "Colokan Listrik",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 128000.0,
+      "_page": 5
+    },
+    {
+      "nama_barang": "Terminal Listrik",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 128000.0,
+      "_page": 5
+    },
+    {
+      "nama_barang": "Spidol",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 128000.0,
+      "_page": 5
+    },
+    {
+      "nama_barang": "Isi Ulang Air Minum Galon",
+      "jenis_tipe_barang": "Air Minum",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 108000.0,
+      "_page": 5
+    },
+    {
+      "nama_barang": "Biaya Tarik Tunai",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 108000.0,
+      "_page": 5
+    },
+    {
+      "nama_barang": "Ban Dalam Motor",
+      "jenis_tipe_barang": "Sparepart",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 50000.0,
+      "_page": 5
+    },
+    {
+      "nama_barang": "Entertaint",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 39000.0,
+      "_page": 5
+    },
+    {
+      "nama_barang": "Isi Ulang Air Minum Galon",
+      "jenis_tipe_barang": "Air Minum",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 212000.0,
+      "_page": 6
+    },
+    {
+      "nama_barang": "Tarik Tunai",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 212000.0,
+      "_page": 6
+    },
+    {
+      "nama_barang": "BBM Genset",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 212000.0,
+      "_page": 6
+    },
+    {
+      "nama_barang": "Galon",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 299000.0,
+      "_page": 7
+    },
+    {
+      "nama_barang": "BBM Mesin",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 299000.0,
+      "_page": 7
+    },
+    {
+      "nama_barang": "Galian",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 299000.0,
+      "_page": 7
+    },
+    {
+      "nama_barang": "Biaya tarik Tunai",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 299000.0,
+      "_page": 7
+    },
+    {
+      "nama_barang": "Koordinasi Uji Sampel",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 133000.0,
+      "_page": 7
+    },
+    {
+      "nama_barang": "Isi Ulang Air Minum Galon",
+      "jenis_tipe_barang": "Air Minum",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 282000.0,
+      "_page": 8
+    },
+    {
+      "nama_barang": "BBM vixion",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 282000.0,
+      "_page": 8
+    },
+    {
+      "nama_barang": "Listrik Barak Lama",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 203000.0,
+      "_page": 8
+    },
+    {
+      "nama_barang": "Inspeksi",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 93000.0,
+      "_page": 8
+    },
+    {
+      "nama_barang": "Entertaint Exa",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 68000.0,
+      "_page": 8
+    },
+    {
+      "nama_barang": "BBM Kendaraan",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 262000.0,
+      "_page": 9
+    },
+    {
+      "nama_barang": "Drigen",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 262000.0,
+      "_page": 9
+    },
+    {
+      "nama_barang": "BBM Motor Vixion dan Revo",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 96000.0,
+      "_page": 10
+    }
+  ]
+}

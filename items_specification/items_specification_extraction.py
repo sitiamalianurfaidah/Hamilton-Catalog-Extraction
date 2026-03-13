@@ -3,10 +3,12 @@ items_specification_extraction.py — main orchestrator
 
 Usage:
     python items_specification_extraction.py <path/to/document.pdf>
+    python items_specification_extraction.py <path/to/spreadsheet.xlsx> 
 """
 
 import sys
 import json
+import argparse
 from pathlib import Path
 from time import time
 
@@ -22,12 +24,18 @@ from stage2_page_extraction import extract_page_items
 from merge_results import merge_all
 from items_specification.ingest import ingest
 
+try:
+    from excel_parser import excel_to_result_json
+    EXCEL_SUPPORT = True
+except ImportError:
+    EXCEL_SUPPORT = False
+    print("Warning: Excel support not available. Install pandas and openpyxl for Excel support.")
+
 OUTPUT_DIR = f"output/{int(time())}"
 RESULT_PATH = f"{OUTPUT_DIR}/result.json"
 STAGE1_PAGES = 3  # number of pages sent to Stage 1
 
-
-def main(pdf_path: str) -> None:
+def process_pdf(pdf_path: str, output_dir: str, result_path: str) -> dict:
     # ------------------------------------------------------------------ #
     # 1. Render PDF pages to base64 images
     # ------------------------------------------------------------------ #
@@ -75,20 +83,59 @@ def main(pdf_path: str) -> None:
     print(f"\nDone. Final output: {RESULT_PATH}")
     print(f"Total items extracted: {len(final.get('items', []))}")
 
-    # ------------------------------------------------------------------ #
-    # 5. Auto-ingest into PostgreSQL vector store
-    # ------------------------------------------------------------------ #
-    print(f"\n[5/5] Ingesting into vector store…")
-    abs_result_path = str(Path(RESULT_PATH).resolve())
-    try:
-        ingest(abs_result_path)
-    except Exception as exc:
-        print(f"WARNING: Ingestion failed (database may not be configured): {exc}")
+def process_excel(excel_path: str, output_dir: str, result_path: str) -> dict:
+        """Process Excel file directly to result.json."""
+        print(f"[1/1] Processing Excel file: {excel_path}")
+        
+        if not EXCEL_SUPPORT:
+            print("Error: Excel support not installed. Run: pip install pandas openpyxl")
+            sys.exit(1)
+        
+        # Parse Excel to result.json format
+        result_path = excel_to_result_json(excel_path, output_dir)
+        
+        # Load the result for return
+        with open(result_path, 'r', encoding='utf-8') as f:
+            final = json.load(f)
+        
+        print(f"\nDone. Excel parsed: {len(final.get('items', []))} items → {result_path}")
+        return final
 
+
+def main():
+    parser = argparse.ArgumentParser(description='Extract construction items from PDF or Excel')
+    parser.add_argument('input_file', help='Path to input file (PDF or Excel)')
+    parser.add_argument('--excel', action='store_true', help='Force Excel mode (auto-detected by extension)')
+    parser.add_argument('--no-ingest', action='store_true', help='Skip database ingestion')
+    parser.add_argument('--output-dir', help='Custom output directory')
+    
+    args = parser.parse_args()
+    
+    # Determine output directory
+    output_dir = args.output_dir or f"output/{int(time())}"
+    result_path = f"{output_dir}/result.json"
+    
+    # Auto-detect file type
+    file_ext = Path(args.input_file).suffix.lower()
+    is_excel = args.excel or file_ext in ['.xlsx', '.xls', '.xlsm', '.csv']
+    
+    # Process based on file type
+    if is_excel:
+        final = process_excel(args.input_file, output_dir, result_path)
+    else:
+        final = process_pdf(args.input_file, output_dir, result_path)
+    
+    # 5: Ingest into vector store
+    if not args.no_ingest:
+        print(f"\n[5/5] Ingesting into vector store…")
+        abs_result_path = str(Path(result_path).resolve())
+        try:
+            ingest(abs_result_path)
+        except Exception as exc:
+            print(f"WARNING: Ingestion failed: {exc}")
+    
+    print(f"\nComplete! Output: {result_path}")
+    print(f"Total items: {len(final.get('items', []))}")
 
 if __name__ == "__main__":
-    if len(sys.argv) < 2:
-        print("Usage: python items_specification_extraction.py <path/to/document.pdf>")
-        sys.exit(1)
-
-    main(sys.argv[1])
+    main()
