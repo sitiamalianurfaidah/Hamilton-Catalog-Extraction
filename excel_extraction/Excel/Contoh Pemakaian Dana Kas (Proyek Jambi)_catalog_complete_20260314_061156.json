@@ -1,0 +1,2687 @@
+{
+  "total_items": 234,
+  "stats": {
+    "total_items": 234,
+    "items_with_price": 234,
+    "note_matched_items": 210,
+    "non_matched_items": 24,
+    "coverage_percent": 100.0,
+    "note_match_percent": 89.74358974358975
+  },
+  "sheets_processed": {
+    "monitoring": [
+      "Laporan Monitoring Kas Januari",
+      "Laporan Monitoring Kas Desember",
+      "Laporan Monitoring Kas November",
+      "Laporan Monitoring Kas Oktober"
+    ],
+    "nota": [
+      "Lampiran Nota Januari",
+      "Lampiran Nota Desember",
+      "Lampiran Nota November",
+      "Lampiran Nota Oktober"
+    ]
+  },
+  "items": [
+    {
+      "nama_barang": "BBM KLX",
+      "jenis_tipe_barang": "Bahan Bakar Minyak",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 27500.0,
+      "_page": 1,
+      "_note_matched": true,
+      "_note_date": "2025-01-01",
+      "_sheet_source": "Laporan Monitoring Kas Januari"
+    },
+    {
+      "nama_barang": "Canebo",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 27500.0,
+      "_page": 2,
+      "_note_matched": true,
+      "_note_date": "2025-01-01",
+      "_sheet_source": "Laporan Monitoring Kas Januari"
+    },
+    {
+      "nama_barang": "Sapu Mobil",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 27500.0,
+      "_page": 3,
+      "_note_matched": true,
+      "_note_date": "2025-01-01",
+      "_sheet_source": "Laporan Monitoring Kas Januari"
+    },
+    {
+      "nama_barang": "Tisu Mobil",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 27500.0,
+      "_page": 4,
+      "_note_matched": true,
+      "_note_date": "2025-01-01",
+      "_sheet_source": "Laporan Monitoring Kas Januari"
+    },
+    {
+      "nama_barang": "Tali Rafia",
+      "jenis_tipe_barang": "Alat dan Bahan",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 75000.0,
+      "_page": 5,
+      "_note_matched": true,
+      "_note_date": "2025-02-01",
+      "_sheet_source": "Laporan Monitoring Kas Januari"
+    },
+    {
+      "nama_barang": "Entertaint",
+      "jenis_tipe_barang": "Biaya Lain-lain",
+      "spesifikasi_detail_barang": {
+        "keterangan": "Entertaint"
+      },
+      "merk_barang": null,
+      "harga_barang": 75000.0,
+      "_page": 6,
+      "_note_matched": true,
+      "_note_date": "2025-02-01",
+      "_sheet_source": "Laporan Monitoring Kas Januari"
+    },
+    {
+      "nama_barang": "BBM KLX",
+      "jenis_tipe_barang": "Bahan Bakar Minyak",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 0.0,
+      "_page": 7,
+      "_note_matched": true,
+      "_note_date": "2024-05-01",
+      "_sheet_source": "Laporan Monitoring Kas Januari"
+    },
+    {
+      "nama_barang": "Isi Ulang",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {
+        "isi_ulang": 2
+      },
+      "merk_barang": null,
+      "harga_barang": 120000.0,
+      "_page": 8,
+      "_note_matched": true,
+      "_note_date": "2024-05-01",
+      "_sheet_source": "Laporan Monitoring Kas Januari"
+    },
+    {
+      "nama_barang": "BBM KLX",
+      "jenis_tipe_barang": "Bahan Bakar Minyak",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 46167.0,
+      "_page": 9,
+      "_note_matched": true,
+      "_note_date": "2024-05-01",
+      "_sheet_source": "Laporan Monitoring Kas Januari"
+    },
+    {
+      "nama_barang": "Materai",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 46167.0,
+      "_page": 10,
+      "_note_matched": true,
+      "_note_date": "2024-05-01",
+      "_sheet_source": "Laporan Monitoring Kas Januari"
+    },
+    {
+      "nama_barang": "Air Minum Galon",
+      "jenis_tipe_barang": "Konsumsi",
+      "spesifikasi_detail_barang": {
+        "ukuran": "galon"
+      },
+      "merk_barang": null,
+      "harga_barang": 46167.0,
+      "_page": 11,
+      "_note_matched": true,
+      "_note_date": "2024-05-01",
+      "_sheet_source": "Laporan Monitoring Kas Januari"
+    },
+    {
+      "nama_barang": "BBM mesin",
+      "jenis_tipe_barang": "Bahan Bakar Minyak",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 46167.0,
+      "_page": 12,
+      "_note_matched": true,
+      "_note_date": "2024-05-01",
+      "_sheet_source": "Laporan Monitoring Kas Januari"
+    },
+    {
+      "nama_barang": "Biaya Tarik Tunai",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 46167.0,
+      "_page": 13,
+      "_note_matched": true,
+      "_note_date": "2024-05-01",
+      "_sheet_source": "Laporan Monitoring Kas Januari"
+    },
+    {
+      "nama_barang": "Colokan Listrik",
+      "jenis_tipe_barang": "Perangkat Elektrik",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 46167.0,
+      "_page": 14,
+      "_note_matched": true,
+      "_note_date": "2024-05-01",
+      "_sheet_source": "Laporan Monitoring Kas Januari"
+    },
+    {
+      "nama_barang": "BBM Motor",
+      "jenis_tipe_barang": "Bahan Bakar Minyak",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 77500.0,
+      "_page": 15,
+      "_note_matched": true,
+      "_note_date": "2025-11-01",
+      "_sheet_source": "Laporan Monitoring Kas Januari"
+    },
+    {
+      "nama_barang": "Entertaint",
+      "jenis_tipe_barang": "Biaya Lain-lain",
+      "spesifikasi_detail_barang": {
+        "keterangan": "Entertaint"
+      },
+      "merk_barang": null,
+      "harga_barang": 77500.0,
+      "_page": 16,
+      "_note_matched": true,
+      "_note_date": "2025-11-01",
+      "_sheet_source": "Laporan Monitoring Kas Januari"
+    },
+    {
+      "nama_barang": "Colokan Listrik",
+      "jenis_tipe_barang": "Aksesoris Elektronik",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 42667.0,
+      "_page": 17,
+      "_note_matched": true,
+      "_note_date": "2025-11-01",
+      "_sheet_source": "Laporan Monitoring Kas Januari"
+    },
+    {
+      "nama_barang": "Terminal Listrik",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 42667.0,
+      "_page": 18,
+      "_note_matched": true,
+      "_note_date": "2025-11-01",
+      "_sheet_source": "Laporan Monitoring Kas Januari"
+    },
+    {
+      "nama_barang": "Spidol",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 42667.0,
+      "_page": 19,
+      "_note_matched": true,
+      "_note_date": "2025-11-01",
+      "_sheet_source": "Laporan Monitoring Kas Januari"
+    },
+    {
+      "nama_barang": "Air Minum Galon",
+      "jenis_tipe_barang": "Konsumsi",
+      "spesifikasi_detail_barang": {
+        "ukuran": "galon"
+      },
+      "merk_barang": null,
+      "harga_barang": 54000.0,
+      "_page": 20,
+      "_note_matched": true,
+      "_note_date": "2025-11-01",
+      "_sheet_source": "Laporan Monitoring Kas Januari"
+    },
+    {
+      "nama_barang": "Tarik Tunai",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 54000.0,
+      "_page": 21,
+      "_note_matched": true,
+      "_note_date": "2025-11-01",
+      "_sheet_source": "Laporan Monitoring Kas Januari"
+    },
+    {
+      "nama_barang": "Ban Dalam Motor",
+      "jenis_tipe_barang": "Sparepart",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 50000.0,
+      "_page": 22,
+      "_note_matched": true,
+      "_note_date": "2025-11-01",
+      "_sheet_source": "Laporan Monitoring Kas Januari"
+    },
+    {
+      "nama_barang": "Entertaint",
+      "jenis_tipe_barang": "Biaya Lain-lain",
+      "spesifikasi_detail_barang": {
+        "keterangan": "Entertaint"
+      },
+      "merk_barang": null,
+      "harga_barang": 39000.0,
+      "_page": 23,
+      "_note_matched": true,
+      "_note_date": "2025-11-01",
+      "_sheet_source": "Laporan Monitoring Kas Januari"
+    },
+    {
+      "nama_barang": "Air Minum Galon",
+      "jenis_tipe_barang": "Konsumsi",
+      "spesifikasi_detail_barang": {
+        "ukuran": "galon"
+      },
+      "merk_barang": null,
+      "harga_barang": 70667.0,
+      "_page": 24,
+      "_note_matched": true,
+      "_note_date": "2024-01-16",
+      "_sheet_source": "Laporan Monitoring Kas Januari"
+    },
+    {
+      "nama_barang": "Tarik Tunai",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 70667.0,
+      "_page": 25,
+      "_note_matched": true,
+      "_note_date": "2024-01-16",
+      "_sheet_source": "Laporan Monitoring Kas Januari"
+    },
+    {
+      "nama_barang": "BBM Genset",
+      "jenis_tipe_barang": "Bahan Bakar Minyak",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 70667.0,
+      "_page": 26,
+      "_note_matched": true,
+      "_note_date": "2024-01-16",
+      "_sheet_source": "Laporan Monitoring Kas Januari"
+    },
+    {
+      "nama_barang": "Air Minum Galon",
+      "jenis_tipe_barang": "Konsumsi",
+      "spesifikasi_detail_barang": {
+        "ukuran": "galon"
+      },
+      "merk_barang": null,
+      "harga_barang": 141000.0,
+      "_page": 27,
+      "_note_matched": true,
+      "_note_date": "2025-01-24",
+      "_sheet_source": "Laporan Monitoring Kas Januari"
+    },
+    {
+      "nama_barang": "BBM vixion",
+      "jenis_tipe_barang": "Bahan Bakar Minyak",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 141000.0,
+      "_page": 28,
+      "_note_matched": true,
+      "_note_date": "2025-01-24",
+      "_sheet_source": "Laporan Monitoring Kas Januari"
+    },
+    {
+      "nama_barang": "Listrik Barak Lama",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 203000.0,
+      "_page": 29,
+      "_note_matched": true,
+      "_note_date": "2025-01-24",
+      "_sheet_source": "Laporan Monitoring Kas Januari"
+    },
+    {
+      "nama_barang": "Entertaint",
+      "jenis_tipe_barang": "Biaya Lain-lain",
+      "spesifikasi_detail_barang": {
+        "keterangan": "Entertaint Inspeksi"
+      },
+      "merk_barang": null,
+      "harga_barang": 93000.0,
+      "_page": 30,
+      "_note_matched": true,
+      "_note_date": "2025-01-24",
+      "_sheet_source": "Laporan Monitoring Kas Januari"
+    },
+    {
+      "nama_barang": "Entertaint",
+      "jenis_tipe_barang": "Biaya Lain-lain",
+      "spesifikasi_detail_barang": {
+        "keterangan": "Entertaint Exa (Belum Terealisasi)"
+      },
+      "merk_barang": null,
+      "harga_barang": 68000.0,
+      "_page": 31,
+      "_note_matched": true,
+      "_note_date": "2025-01-24",
+      "_sheet_source": "Laporan Monitoring Kas Januari"
+    },
+    {
+      "nama_barang": "BBM Motor Vixion Dan Revo",
+      "jenis_tipe_barang": "Bahan Bakar Minyak",
+      "spesifikasi_detail_barang": {
+        "merek_sepeda_motor": [
+          "Vixion",
+          "Revo"
+        ]
+      },
+      "merk_barang": null,
+      "harga_barang": 96000.0,
+      "_page": 32,
+      "_note_matched": true,
+      "_note_date": "2025-01-27",
+      "_sheet_source": "Laporan Monitoring Kas Januari"
+    },
+    {
+      "nama_barang": "Entertaint",
+      "jenis_tipe_barang": "Biaya Lain-lain",
+      "spesifikasi_detail_barang": {
+        "keterangan": "Entertaint"
+      },
+      "merk_barang": null,
+      "harga_barang": 71500.0,
+      "_page": 33,
+      "_note_matched": true,
+      "_note_date": "2024-03-12",
+      "_sheet_source": "Laporan Monitoring Kas Desember"
+    },
+    {
+      "nama_barang": "Lakban",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 71500.0,
+      "_page": 34,
+      "_note_matched": true,
+      "_note_date": "2024-03-12",
+      "_sheet_source": "Laporan Monitoring Kas Desember"
+    },
+    {
+      "nama_barang": "Pengharum Mobil",
+      "jenis_tipe_barang": "Aksesoris Mobil",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 42000.0,
+      "_page": 35,
+      "_note_matched": true,
+      "_note_date": "2024-05-12",
+      "_sheet_source": "Laporan Monitoring Kas Desember"
+    },
+    {
+      "nama_barang": "BBM KLX",
+      "jenis_tipe_barang": "Bahan Bakar Minyak",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 51000.0,
+      "_page": 36,
+      "_note_matched": true,
+      "_note_date": "2024-05-12",
+      "_sheet_source": "Laporan Monitoring Kas Desember"
+    },
+    {
+      "nama_barang": "Air Minum Galon",
+      "jenis_tipe_barang": "Konsumsi",
+      "spesifikasi_detail_barang": {
+        "ukuran": "galon"
+      },
+      "merk_barang": null,
+      "harga_barang": 51000.0,
+      "_page": 37,
+      "_note_matched": true,
+      "_note_date": "2024-05-12",
+      "_sheet_source": "Laporan Monitoring Kas Desember"
+    },
+    {
+      "nama_barang": "Entertaint",
+      "jenis_tipe_barang": "Biaya Lain-lain",
+      "spesifikasi_detail_barang": {
+        "keterangan": "Entertaint"
+      },
+      "merk_barang": null,
+      "harga_barang": 51000.0,
+      "_page": 38,
+      "_note_matched": true,
+      "_note_date": "2024-05-12",
+      "_sheet_source": "Laporan Monitoring Kas Desember"
+    },
+    {
+      "nama_barang": "MuatMaterial",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 51000.0,
+      "_page": 39,
+      "_note_matched": true,
+      "_note_date": "2024-05-12",
+      "_sheet_source": "Laporan Monitoring Kas Desember"
+    },
+    {
+      "nama_barang": "Cuci Mobil Strada",
+      "jenis_tipe_barang": "Jasa Cuci Mobil",
+      "spesifikasi_detail_barang": {
+        "periode": "Mingguan"
+      },
+      "merk_barang": null,
+      "harga_barang": 55000.0,
+      "_page": 40,
+      "_note_matched": true,
+      "_note_date": "2024-05-12",
+      "_sheet_source": "Laporan Monitoring Kas Desember"
+    },
+    {
+      "nama_barang": "Kain Majun",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 16000.0,
+      "_page": 41,
+      "_note_matched": true,
+      "_note_date": "2024-07-12",
+      "_sheet_source": "Laporan Monitoring Kas Desember"
+    },
+    {
+      "nama_barang": "Tarik Tunai",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 58200.0,
+      "_page": 42,
+      "_note_matched": true,
+      "_note_date": "2024-07-12",
+      "_sheet_source": "Laporan Monitoring Kas Desember"
+    },
+    {
+      "nama_barang": "Air Minum Galon",
+      "jenis_tipe_barang": "Konsumsi",
+      "spesifikasi_detail_barang": {
+        "ukuran": "galon"
+      },
+      "merk_barang": null,
+      "harga_barang": 58200.0,
+      "_page": 43,
+      "_note_matched": true,
+      "_note_date": "2024-07-12",
+      "_sheet_source": "Laporan Monitoring Kas Desember"
+    },
+    {
+      "nama_barang": "Corong Minyak",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 58200.0,
+      "_page": 44,
+      "_note_matched": true,
+      "_note_date": "2024-07-12",
+      "_sheet_source": "Laporan Monitoring Kas Desember"
+    },
+    {
+      "nama_barang": "BBM Mesin",
+      "jenis_tipe_barang": "Bahan Bakar Minyak",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 58200.0,
+      "_page": 45,
+      "_note_matched": true,
+      "_note_date": "2024-07-12",
+      "_sheet_source": "Laporan Monitoring Kas Desember"
+    },
+    {
+      "nama_barang": "BBM KLX",
+      "jenis_tipe_barang": "Bahan Bakar Minyak",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 58200.0,
+      "_page": 46,
+      "_note_matched": true,
+      "_note_date": "2024-07-12",
+      "_sheet_source": "Laporan Monitoring Kas Desember"
+    },
+    {
+      "nama_barang": "Gula",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 34833.0,
+      "_page": 47,
+      "_note_matched": true,
+      "_note_date": "2024-10-12",
+      "_sheet_source": "Laporan Monitoring Kas Desember"
+    },
+    {
+      "nama_barang": "kopi",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 34833.0,
+      "_page": 48,
+      "_note_matched": true,
+      "_note_date": "2024-10-12",
+      "_sheet_source": "Laporan Monitoring Kas Desember"
+    },
+    {
+      "nama_barang": "Aqua",
+      "jenis_tipe_barang": "Minuman",
+      "spesifikasi_detail_barang": {
+        "kemasan": "Botol"
+      },
+      "merk_barang": "Aqua",
+      "harga_barang": 34833.0,
+      "_page": 49,
+      "_note_matched": true,
+      "_note_date": "2024-10-12",
+      "_sheet_source": "Laporan Monitoring Kas Desember"
+    },
+    {
+      "nama_barang": "Stop Kontak",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 34833.0,
+      "_page": 50,
+      "_note_matched": true,
+      "_note_date": "2024-10-12",
+      "_sheet_source": "Laporan Monitoring Kas Desember"
+    },
+    {
+      "nama_barang": "BBM KLX",
+      "jenis_tipe_barang": "Bahan Bakar Minyak",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 34833.0,
+      "_page": 51,
+      "_note_matched": true,
+      "_note_date": "2024-10-12",
+      "_sheet_source": "Laporan Monitoring Kas Desember"
+    },
+    {
+      "nama_barang": "Entertaint",
+      "jenis_tipe_barang": "Biaya Lain-lain",
+      "spesifikasi_detail_barang": {
+        "keterangan": "Entertaint"
+      },
+      "merk_barang": null,
+      "harga_barang": 34833.0,
+      "_page": 52,
+      "_note_matched": true,
+      "_note_date": "2024-10-12",
+      "_sheet_source": "Laporan Monitoring Kas Desember"
+    },
+    {
+      "nama_barang": "Paket Bandara",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 46000.0,
+      "_page": 53,
+      "_note_matched": true,
+      "_note_date": "2024-10-12",
+      "_sheet_source": "Laporan Monitoring Kas Desember"
+    },
+    {
+      "nama_barang": "Uang Masuk Bandara",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 19000.0,
+      "_page": 54,
+      "_note_matched": true,
+      "_note_date": "2024-10-12",
+      "_sheet_source": "Laporan Monitoring Kas Desember"
+    },
+    {
+      "nama_barang": "mobil dan motor",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 19000.0,
+      "_page": 55,
+      "_note_matched": true,
+      "_note_date": "2024-10-12",
+      "_sheet_source": "Laporan Monitoring Kas Desember"
+    },
+    {
+      "nama_barang": "BBM KLX",
+      "jenis_tipe_barang": "Bahan Bakar Minyak",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 44000.0,
+      "_page": 56,
+      "_note_matched": true,
+      "_note_date": "2024-10-12",
+      "_sheet_source": "Laporan Monitoring Kas Desember"
+    },
+    {
+      "nama_barang": "Air Minum Galon",
+      "jenis_tipe_barang": "Konsumsi",
+      "spesifikasi_detail_barang": {
+        "ukuran": "galon"
+      },
+      "merk_barang": null,
+      "harga_barang": 44000.0,
+      "_page": 57,
+      "_note_matched": true,
+      "_note_date": "2024-10-12",
+      "_sheet_source": "Laporan Monitoring Kas Desember"
+    },
+    {
+      "nama_barang": "Entertaint",
+      "jenis_tipe_barang": "Biaya Lain-lain",
+      "spesifikasi_detail_barang": {
+        "keterangan": "Entertaint"
+      },
+      "merk_barang": null,
+      "harga_barang": 53500.0,
+      "_page": 58,
+      "_note_matched": true,
+      "_note_date": "2024-12-14",
+      "_sheet_source": "Laporan Monitoring Kas Desember"
+    },
+    {
+      "nama_barang": "Amplas Seribu",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 53500.0,
+      "_page": 59,
+      "_note_matched": true,
+      "_note_date": "2024-12-14",
+      "_sheet_source": "Laporan Monitoring Kas Desember"
+    },
+    {
+      "nama_barang": "BBM KLX",
+      "jenis_tipe_barang": "Bahan Bakar Minyak",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 53500.0,
+      "_page": 60,
+      "_note_matched": true,
+      "_note_date": "2024-12-14",
+      "_sheet_source": "Laporan Monitoring Kas Desember"
+    },
+    {
+      "nama_barang": "BBM Mesin",
+      "jenis_tipe_barang": "Bahan Bakar Minyak",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 53500.0,
+      "_page": 61,
+      "_note_matched": true,
+      "_note_date": "2024-12-14",
+      "_sheet_source": "Laporan Monitoring Kas Desember"
+    },
+    {
+      "nama_barang": "Biaya Tarik Tunai",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 32667.0,
+      "_page": 62,
+      "_note_matched": true,
+      "_note_date": "2024-12-20",
+      "_sheet_source": "Laporan Monitoring Kas Desember"
+    },
+    {
+      "nama_barang": "Pembersihan Carbu dan filter",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 32667.0,
+      "_page": 63,
+      "_note_matched": true,
+      "_note_date": "2024-12-20",
+      "_sheet_source": "Laporan Monitoring Kas Desember"
+    },
+    {
+      "nama_barang": "Tali Rafia",
+      "jenis_tipe_barang": "Alat dan Bahan",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 32667.0,
+      "_page": 64,
+      "_note_matched": true,
+      "_note_date": "2024-12-20",
+      "_sheet_source": "Laporan Monitoring Kas Desember"
+    },
+    {
+      "nama_barang": "BBM Alkon",
+      "jenis_tipe_barang": "Bahan Bakar Minyak",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 32667.0,
+      "_page": 65,
+      "_note_matched": true,
+      "_note_date": "2024-12-20",
+      "_sheet_source": "Laporan Monitoring Kas Desember"
+    },
+    {
+      "nama_barang": "Genset",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 32667.0,
+      "_page": 66,
+      "_note_matched": true,
+      "_note_date": "2024-12-20",
+      "_sheet_source": "Laporan Monitoring Kas Desember"
+    },
+    {
+      "nama_barang": "BBM KLX",
+      "jenis_tipe_barang": "Bahan Bakar Minyak",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 32667.0,
+      "_page": 67,
+      "_note_matched": true,
+      "_note_date": "2024-12-20",
+      "_sheet_source": "Laporan Monitoring Kas Desember"
+    },
+    {
+      "nama_barang": "Stempel",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 70000.0,
+      "_page": 68,
+      "_note_matched": true,
+      "_note_date": "2024-12-20",
+      "_sheet_source": "Laporan Monitoring Kas Desember"
+    },
+    {
+      "nama_barang": "BBM Mesin",
+      "jenis_tipe_barang": "Bahan Bakar Minyak",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 52750.0,
+      "_page": 69,
+      "_note_matched": true,
+      "_note_date": "2024-12-20",
+      "_sheet_source": "Laporan Monitoring Kas Desember"
+    },
+    {
+      "nama_barang": "BBM KLX",
+      "jenis_tipe_barang": "Bahan Bakar Minyak",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 52750.0,
+      "_page": 70,
+      "_note_matched": true,
+      "_note_date": "2024-12-20",
+      "_sheet_source": "Laporan Monitoring Kas Desember"
+    },
+    {
+      "nama_barang": "Tali Plastik Rafia",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 52750.0,
+      "_page": 71,
+      "_note_matched": true,
+      "_note_date": "2024-12-20",
+      "_sheet_source": "Laporan Monitoring Kas Desember"
+    },
+    {
+      "nama_barang": "Map dan Klip",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 52750.0,
+      "_page": 72,
+      "_note_matched": true,
+      "_note_date": "2024-12-20",
+      "_sheet_source": "Laporan Monitoring Kas Desember"
+    },
+    {
+      "nama_barang": "Pembayaran Listrik",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 203000.0,
+      "_page": 73,
+      "_note_matched": true,
+      "_note_date": "2024-12-20",
+      "_sheet_source": "Laporan Monitoring Kas Desember"
+    },
+    {
+      "nama_barang": "Tali Rafia",
+      "jenis_tipe_barang": "Alat dan Bahan",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 39500.0,
+      "_page": 74,
+      "_note_matched": true,
+      "_note_date": "2024-12-26",
+      "_sheet_source": "Laporan Monitoring Kas Desember"
+    },
+    {
+      "nama_barang": "BBM KLX",
+      "jenis_tipe_barang": "Bahan Bakar Minyak",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 39500.0,
+      "_page": 75,
+      "_note_matched": true,
+      "_note_date": "2024-12-26",
+      "_sheet_source": "Laporan Monitoring Kas Desember"
+    },
+    {
+      "nama_barang": "Surat Sehat",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 39500.0,
+      "_page": 76,
+      "_note_matched": true,
+      "_note_date": "2024-12-26",
+      "_sheet_source": "Laporan Monitoring Kas Desember"
+    },
+    {
+      "nama_barang": "galon",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 39500.0,
+      "_page": 77,
+      "_note_matched": true,
+      "_note_date": "2024-12-26",
+      "_sheet_source": "Laporan Monitoring Kas Desember"
+    },
+    {
+      "nama_barang": "BBM Terios",
+      "jenis_tipe_barang": "Bahan Bakar Minyak",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 217000.0,
+      "_page": 78,
+      "_note_matched": true,
+      "_note_date": "2024-12-26",
+      "_sheet_source": "Laporan Monitoring Kas Desember"
+    },
+    {
+      "nama_barang": "Entertaint",
+      "jenis_tipe_barang": "Biaya Lain-lain",
+      "spesifikasi_detail_barang": {
+        "keterangan": "Entertaint"
+      },
+      "merk_barang": null,
+      "harga_barang": 29000.0,
+      "_page": 79,
+      "_note_matched": true,
+      "_note_date": "2024-12-28",
+      "_sheet_source": "Laporan Monitoring Kas Desember"
+    },
+    {
+      "nama_barang": "Tarik Tunai",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 29000.0,
+      "_page": 80,
+      "_note_matched": true,
+      "_note_date": "2024-12-28",
+      "_sheet_source": "Laporan Monitoring Kas Desember"
+    },
+    {
+      "nama_barang": "Entertaint",
+      "jenis_tipe_barang": "Biaya Lain-lain",
+      "spesifikasi_detail_barang": {
+        "keterangan": "Entertaint Tim Survey"
+      },
+      "merk_barang": null,
+      "harga_barang": 300000.0,
+      "_page": 81,
+      "_note_matched": true,
+      "_note_date": "2024-12-31",
+      "_sheet_source": "Laporan Monitoring Kas Desember"
+    },
+    {
+      "nama_barang": "Tambal Ban KLX",
+      "jenis_tipe_barang": "Jasa Perbaikan",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 25000.0,
+      "_page": 82,
+      "_note_matched": true,
+      "_note_date": "2024-12-31",
+      "_sheet_source": "Laporan Monitoring Kas Desember"
+    },
+    {
+      "nama_barang": "BBM KLX",
+      "jenis_tipe_barang": "Bahan Bakar Minyak",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 32000.0,
+      "_page": 83,
+      "_note_matched": true,
+      "_note_date": "2024-02-11",
+      "_sheet_source": "Laporan Monitoring Kas November"
+    },
+    {
+      "nama_barang": "Alkon",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 32000.0,
+      "_page": 84,
+      "_note_matched": true,
+      "_note_date": "2024-02-11",
+      "_sheet_source": "Laporan Monitoring Kas November"
+    },
+    {
+      "nama_barang": "Genset",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 32000.0,
+      "_page": 85,
+      "_note_matched": true,
+      "_note_date": "2024-02-11",
+      "_sheet_source": "Laporan Monitoring Kas November"
+    },
+    {
+      "nama_barang": "BBM KLX",
+      "jenis_tipe_barang": "Bahan Bakar Minyak",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 39000.0,
+      "_page": 86,
+      "_note_matched": true,
+      "_note_date": "2024-03-11",
+      "_sheet_source": "Laporan Monitoring Kas November"
+    },
+    {
+      "nama_barang": "Air minum galon",
+      "jenis_tipe_barang": "Minuman",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 39000.0,
+      "_page": 87,
+      "_note_matched": true,
+      "_note_date": "2024-03-11",
+      "_sheet_source": "Laporan Monitoring Kas November"
+    },
+    {
+      "nama_barang": "Bensin",
+      "jenis_tipe_barang": "Bahan Bakar Minyak",
+      "spesifikasi_detail_barang": {
+        "volume": "10 Liter"
+      },
+      "merk_barang": null,
+      "harga_barang": 120000.0,
+      "_page": 88,
+      "_note_matched": true,
+      "_note_date": "2024-03-11",
+      "_sheet_source": "Laporan Monitoring Kas November"
+    },
+    {
+      "nama_barang": "Drigen",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {
+        "volume": "5 Liter",
+        "quantity": 2
+      },
+      "merk_barang": null,
+      "harga_barang": 24000.0,
+      "_page": 89,
+      "_note_matched": true,
+      "_note_date": "2024-03-11",
+      "_sheet_source": "Laporan Monitoring Kas November"
+    },
+    {
+      "nama_barang": "BBM KLX",
+      "jenis_tipe_barang": "Bahan Bakar Minyak",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 53750.0,
+      "_page": 90,
+      "_note_matched": true,
+      "_note_date": "2024-07-11",
+      "_sheet_source": "Laporan Monitoring Kas November"
+    },
+    {
+      "nama_barang": "Air Minum Galon",
+      "jenis_tipe_barang": "Konsumsi",
+      "spesifikasi_detail_barang": {
+        "ukuran": "galon"
+      },
+      "merk_barang": null,
+      "harga_barang": 53750.0,
+      "_page": 91,
+      "_note_matched": true,
+      "_note_date": "2024-07-11",
+      "_sheet_source": "Laporan Monitoring Kas November"
+    },
+    {
+      "nama_barang": "Tarik mobil",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 53750.0,
+      "_page": 92,
+      "_note_matched": true,
+      "_note_date": "2024-07-11",
+      "_sheet_source": "Laporan Monitoring Kas November"
+    },
+    {
+      "nama_barang": "Tarik Tunai",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 53750.0,
+      "_page": 93,
+      "_note_matched": true,
+      "_note_date": "2024-07-11",
+      "_sheet_source": "Laporan Monitoring Kas November"
+    },
+    {
+      "nama_barang": "Carbon Brush",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 40000.0,
+      "_page": 94,
+      "_note_matched": true,
+      "_note_date": "2024-07-11",
+      "_sheet_source": "Laporan Monitoring Kas November"
+    },
+    {
+      "nama_barang": "BBM Alkon",
+      "jenis_tipe_barang": "Bahan Bakar Minyak",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 46000.0,
+      "_page": 95,
+      "_note_matched": true,
+      "_note_date": "2024-08-11",
+      "_sheet_source": "Laporan Monitoring Kas November"
+    },
+    {
+      "nama_barang": "Genset",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 46000.0,
+      "_page": 96,
+      "_note_matched": true,
+      "_note_date": "2024-08-11",
+      "_sheet_source": "Laporan Monitoring Kas November"
+    },
+    {
+      "nama_barang": "Klx",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 46000.0,
+      "_page": 97,
+      "_note_matched": true,
+      "_note_date": "2024-08-11",
+      "_sheet_source": "Laporan Monitoring Kas November"
+    },
+    {
+      "nama_barang": "Sapu Lantai",
+      "jenis_tipe_barang": "Alat Kebersihan",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 46000.0,
+      "_page": 98,
+      "_note_matched": true,
+      "_note_date": "2024-08-11",
+      "_sheet_source": "Laporan Monitoring Kas November"
+    },
+    {
+      "nama_barang": "Entertaint",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 46000.0,
+      "_page": 99,
+      "_note_matched": true,
+      "_note_date": "2024-08-11",
+      "_sheet_source": "Laporan Monitoring Kas November"
+    },
+    {
+      "nama_barang": "Tarik tunai",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 46000.0,
+      "_page": 100,
+      "_note_matched": true,
+      "_note_date": "2024-08-11",
+      "_sheet_source": "Laporan Monitoring Kas November"
+    },
+    {
+      "nama_barang": "Perbaikan Mobil Truk",
+      "jenis_tipe_barang": "Jasa Perbaikan",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 250000.0,
+      "_page": 101,
+      "_note_matched": true,
+      "_note_date": "2024-09-11",
+      "_sheet_source": "Laporan Monitoring Kas November"
+    },
+    {
+      "nama_barang": "Tambal Ban Motor",
+      "jenis_tipe_barang": "Jasa Perbaikan",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 25000.0,
+      "_page": 102,
+      "_note_matched": true,
+      "_note_date": "2024-09-11",
+      "_sheet_source": "Laporan Monitoring Kas November"
+    },
+    {
+      "nama_barang": "BBM KLX",
+      "jenis_tipe_barang": "Bahan Bakar Minyak",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 97333.0,
+      "_page": 103,
+      "_note_matched": true,
+      "_note_date": "2024-09-11",
+      "_sheet_source": "Laporan Monitoring Kas November"
+    },
+    {
+      "nama_barang": "Angin Ban truk",
+      "jenis_tipe_barang": "Layanan Pemeliharaan Kendaraan",
+      "spesifikasi_detail_barang": {
+        "tipe_layanan": "Pengisian Angin"
+      },
+      "merk_barang": null,
+      "harga_barang": 97333.0,
+      "_page": 104,
+      "_note_matched": true,
+      "_note_date": "2024-09-11",
+      "_sheet_source": "Laporan Monitoring Kas November"
+    },
+    {
+      "nama_barang": "Entertaint",
+      "jenis_tipe_barang": "Biaya Lain-lain",
+      "spesifikasi_detail_barang": {
+        "keterangan": "Entertaint"
+      },
+      "merk_barang": null,
+      "harga_barang": 97333.0,
+      "_page": 105,
+      "_note_matched": true,
+      "_note_date": "2024-09-11",
+      "_sheet_source": "Laporan Monitoring Kas November"
+    },
+    {
+      "nama_barang": "Kunjungan Babin",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 23333.0,
+      "_page": 106,
+      "_note_matched": true,
+      "_note_date": "2024-12-11",
+      "_sheet_source": "Laporan Monitoring Kas November"
+    },
+    {
+      "nama_barang": "Air Minum Galon",
+      "jenis_tipe_barang": "Konsumsi",
+      "spesifikasi_detail_barang": {
+        "ukuran": "galon"
+      },
+      "merk_barang": null,
+      "harga_barang": 23333.0,
+      "_page": 107,
+      "_note_matched": true,
+      "_note_date": "2024-12-11",
+      "_sheet_source": "Laporan Monitoring Kas November"
+    },
+    {
+      "nama_barang": "Biaya Tungu",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 23333.0,
+      "_page": 108,
+      "_note_matched": true,
+      "_note_date": "2024-12-11",
+      "_sheet_source": "Laporan Monitoring Kas November"
+    },
+    {
+      "nama_barang": "BBM KLX",
+      "jenis_tipe_barang": "Bahan Bakar Minyak",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 63333.0,
+      "_page": 109,
+      "_note_matched": true,
+      "_note_date": "2024-11-13",
+      "_sheet_source": "Laporan Monitoring Kas November"
+    },
+    {
+      "nama_barang": "Gunting",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 63333.0,
+      "_page": 110,
+      "_note_matched": true,
+      "_note_date": "2024-11-13",
+      "_sheet_source": "Laporan Monitoring Kas November"
+    },
+    {
+      "nama_barang": "BBM Alat",
+      "jenis_tipe_barang": "Bahan Bakar Minyak",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 63333.0,
+      "_page": 111,
+      "_note_matched": true,
+      "_note_date": "2024-11-13",
+      "_sheet_source": "Laporan Monitoring Kas November"
+    },
+    {
+      "nama_barang": "Baut baja",
+      "jenis_tipe_barang": "Spare part",
+      "spesifikasi_detail_barang": {
+        "additional_item": "Ring"
+      },
+      "merk_barang": null,
+      "harga_barang": 24000.0,
+      "_page": 112,
+      "_note_matched": true,
+      "_note_date": "2024-11-16",
+      "_sheet_source": "Laporan Monitoring Kas November"
+    },
+    {
+      "nama_barang": "Tambal Ban Truk",
+      "jenis_tipe_barang": "Jasa Perbaikan",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 30000.0,
+      "_page": 113,
+      "_note_matched": true,
+      "_note_date": "2024-11-16",
+      "_sheet_source": "Laporan Monitoring Kas November"
+    },
+    {
+      "nama_barang": "Biaya tarik tunai",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 21000.0,
+      "_page": 114,
+      "_note_matched": true,
+      "_note_date": "2024-11-16",
+      "_sheet_source": "Laporan Monitoring Kas November"
+    },
+    {
+      "nama_barang": "Air Minum Galon",
+      "jenis_tipe_barang": "Konsumsi",
+      "spesifikasi_detail_barang": {
+        "ukuran": "galon"
+      },
+      "merk_barang": null,
+      "harga_barang": 21000.0,
+      "_page": 115,
+      "_note_matched": true,
+      "_note_date": "2024-11-16",
+      "_sheet_source": "Laporan Monitoring Kas November"
+    },
+    {
+      "nama_barang": "BBM KLX",
+      "jenis_tipe_barang": "Bahan Bakar Minyak",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 64000.0,
+      "_page": 116,
+      "_note_matched": true,
+      "_note_date": "2024-11-18",
+      "_sheet_source": "Laporan Monitoring Kas November"
+    },
+    {
+      "nama_barang": "Genset",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 64000.0,
+      "_page": 117,
+      "_note_matched": true,
+      "_note_date": "2024-11-18",
+      "_sheet_source": "Laporan Monitoring Kas November"
+    },
+    {
+      "nama_barang": "Tarik Tunai",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 64000.0,
+      "_page": 118,
+      "_note_matched": true,
+      "_note_date": "2024-11-18",
+      "_sheet_source": "Laporan Monitoring Kas November"
+    },
+    {
+      "nama_barang": "Pulsa Listrik",
+      "jenis_tipe_barang": "Pembayaran Tagihan",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 203000.0,
+      "_page": 119,
+      "_note_matched": true,
+      "_note_date": "2024-11-20",
+      "_sheet_source": "Laporan Monitoring Kas November"
+    },
+    {
+      "nama_barang": "Entertaint",
+      "jenis_tipe_barang": "Biaya Lain-lain",
+      "spesifikasi_detail_barang": {
+        "keterangan": "Entertaint Tim Survey"
+      },
+      "merk_barang": null,
+      "harga_barang": 195000.0,
+      "_page": 120,
+      "_note_matched": true,
+      "_note_date": "2024-11-20",
+      "_sheet_source": "Laporan Monitoring Kas November"
+    },
+    {
+      "nama_barang": "Baut baja",
+      "jenis_tipe_barang": "Spare part",
+      "spesifikasi_detail_barang": {
+        "additional_item": "Ring"
+      },
+      "merk_barang": null,
+      "harga_barang": 40000.0,
+      "_page": 121,
+      "_note_matched": true,
+      "_note_date": "2024-11-20",
+      "_sheet_source": "Laporan Monitoring Kas November"
+    },
+    {
+      "nama_barang": "Materai",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 32667.0,
+      "_page": 122,
+      "_note_matched": true,
+      "_note_date": "2024-11-20",
+      "_sheet_source": "Laporan Monitoring Kas November"
+    },
+    {
+      "nama_barang": "Air Minum Galon",
+      "jenis_tipe_barang": "Konsumsi",
+      "spesifikasi_detail_barang": {
+        "ukuran": "galon"
+      },
+      "merk_barang": null,
+      "harga_barang": 32667.0,
+      "_page": 123,
+      "_note_matched": true,
+      "_note_date": "2024-11-20",
+      "_sheet_source": "Laporan Monitoring Kas November"
+    },
+    {
+      "nama_barang": "Sapu Mobil",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 32667.0,
+      "_page": 124,
+      "_note_matched": true,
+      "_note_date": "2024-11-20",
+      "_sheet_source": "Laporan Monitoring Kas November"
+    },
+    {
+      "nama_barang": "BBM KLX",
+      "jenis_tipe_barang": "Bahan Bakar Minyak",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 32667.0,
+      "_page": 125,
+      "_note_matched": true,
+      "_note_date": "2024-11-20",
+      "_sheet_source": "Laporan Monitoring Kas November"
+    },
+    {
+      "nama_barang": "Canebo",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 32667.0,
+      "_page": 126,
+      "_note_matched": true,
+      "_note_date": "2024-11-20",
+      "_sheet_source": "Laporan Monitoring Kas November"
+    },
+    {
+      "nama_barang": "Biaya Tarik Tunai",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 32667.0,
+      "_page": 127,
+      "_note_matched": true,
+      "_note_date": "2024-11-20",
+      "_sheet_source": "Laporan Monitoring Kas November"
+    },
+    {
+      "nama_barang": "BBM Mesin",
+      "jenis_tipe_barang": "Bahan Bakar Minyak",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 77500.0,
+      "_page": 128,
+      "_note_matched": true,
+      "_note_date": "2024-11-25",
+      "_sheet_source": "Laporan Monitoring Kas November"
+    },
+    {
+      "nama_barang": "Dompet Gantungan Truk",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 77500.0,
+      "_page": 129,
+      "_note_matched": true,
+      "_note_date": "2024-11-25",
+      "_sheet_source": "Laporan Monitoring Kas November"
+    },
+    {
+      "nama_barang": "Vixal",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 56833.0,
+      "_page": 130,
+      "_note_matched": true,
+      "_note_date": "2024-11-28",
+      "_sheet_source": "Laporan Monitoring Kas November"
+    },
+    {
+      "nama_barang": "gembok",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 56833.0,
+      "_page": 131,
+      "_note_matched": true,
+      "_note_date": "2024-11-28",
+      "_sheet_source": "Laporan Monitoring Kas November"
+    },
+    {
+      "nama_barang": "kabbel tis",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 56833.0,
+      "_page": 132,
+      "_note_matched": true,
+      "_note_date": "2024-11-28",
+      "_sheet_source": "Laporan Monitoring Kas November"
+    },
+    {
+      "nama_barang": "Tarik Tunai",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 56833.0,
+      "_page": 133,
+      "_note_matched": true,
+      "_note_date": "2024-11-28",
+      "_sheet_source": "Laporan Monitoring Kas November"
+    },
+    {
+      "nama_barang": "entertaint",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 56833.0,
+      "_page": 134,
+      "_note_matched": true,
+      "_note_date": "2024-11-28",
+      "_sheet_source": "Laporan Monitoring Kas November"
+    },
+    {
+      "nama_barang": "BBM KLX",
+      "jenis_tipe_barang": "Bahan Bakar Minyak",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 56833.0,
+      "_page": 135,
+      "_note_matched": true,
+      "_note_date": "2024-11-28",
+      "_sheet_source": "Laporan Monitoring Kas November"
+    },
+    {
+      "nama_barang": "Corong Minyak",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 12667.0,
+      "_page": 136,
+      "_note_matched": true,
+      "_note_date": "2024-11-29",
+      "_sheet_source": "Laporan Monitoring Kas November"
+    },
+    {
+      "nama_barang": "Isolatip",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 12667.0,
+      "_page": 137,
+      "_note_matched": true,
+      "_note_date": "2024-11-29",
+      "_sheet_source": "Laporan Monitoring Kas November"
+    },
+    {
+      "nama_barang": "Saringan",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 12667.0,
+      "_page": 138,
+      "_note_matched": true,
+      "_note_date": "2024-11-29",
+      "_sheet_source": "Laporan Monitoring Kas November"
+    },
+    {
+      "nama_barang": "Kunci ring pas 24",
+      "jenis_tipe_barang": "Alat Pertukangan",
+      "spesifikasi_detail_barang": {
+        "ukuran": 24
+      },
+      "merk_barang": null,
+      "harga_barang": 35000.0,
+      "_page": 139,
+      "_note_matched": true,
+      "_note_date": "2024-11-29",
+      "_sheet_source": "Laporan Monitoring Kas November"
+    },
+    {
+      "nama_barang": "Air Minum Galon",
+      "jenis_tipe_barang": "Konsumsi",
+      "spesifikasi_detail_barang": {
+        "ukuran": "galon"
+      },
+      "merk_barang": null,
+      "harga_barang": 55000.0,
+      "_page": 140,
+      "_note_matched": true,
+      "_note_date": "2024-11-29",
+      "_sheet_source": "Laporan Monitoring Kas November"
+    },
+    {
+      "nama_barang": "Aqua Botol",
+      "jenis_tipe_barang": "Minuman",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": "Aqua",
+      "harga_barang": 55000.0,
+      "_page": 141,
+      "_note_matched": true,
+      "_note_date": "2024-11-29",
+      "_sheet_source": "Laporan Monitoring Kas November"
+    },
+    {
+      "nama_barang": "BBM Alkon",
+      "jenis_tipe_barang": "Bahan Bakar Minyak",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 55000.0,
+      "_page": 142,
+      "_note_matched": true,
+      "_note_date": "2024-11-29",
+      "_sheet_source": "Laporan Monitoring Kas November"
+    },
+    {
+      "nama_barang": "Genset",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 55000.0,
+      "_page": 143,
+      "_note_matched": true,
+      "_note_date": "2024-11-29",
+      "_sheet_source": "Laporan Monitoring Kas November"
+    },
+    {
+      "nama_barang": "Vibrator",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 55000.0,
+      "_page": 144,
+      "_note_matched": true,
+      "_note_date": "2024-11-29",
+      "_sheet_source": "Laporan Monitoring Kas November"
+    },
+    {
+      "nama_barang": "BBM Alkon",
+      "jenis_tipe_barang": "Bahan Bakar Minyak",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 18000.0,
+      "_page": 145,
+      "_note_matched": true,
+      "_note_date": "2024-01-10",
+      "_sheet_source": "Laporan Monitoring Kas Oktober"
+    },
+    {
+      "nama_barang": "BBM KLX",
+      "jenis_tipe_barang": "Bahan Bakar Minyak",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 38000.0,
+      "_page": 146,
+      "_note_matched": true,
+      "_note_date": "2024-01-10",
+      "_sheet_source": "Laporan Monitoring Kas Oktober"
+    },
+    {
+      "nama_barang": "Air Minum Galon",
+      "jenis_tipe_barang": "Konsumsi",
+      "spesifikasi_detail_barang": {
+        "ukuran": "galon"
+      },
+      "merk_barang": null,
+      "harga_barang": 38000.0,
+      "_page": 147,
+      "_note_matched": true,
+      "_note_date": "2024-01-10",
+      "_sheet_source": "Laporan Monitoring Kas Oktober"
+    },
+    {
+      "nama_barang": "BBM TRUK",
+      "jenis_tipe_barang": "Bahan Bakar Minyak",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 500000.0,
+      "_page": 148,
+      "_note_matched": true,
+      "_note_date": "2024-03-10",
+      "_sheet_source": "Laporan Monitoring Kas Oktober"
+    },
+    {
+      "nama_barang": "Busi KLX Besar",
+      "jenis_tipe_barang": "Suku Cadang Motor",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": "KLX",
+      "harga_barang": 25000.0,
+      "_page": 149,
+      "_note_matched": true,
+      "_note_date": "2024-03-10",
+      "_sheet_source": "Laporan Monitoring Kas Oktober"
+    },
+    {
+      "nama_barang": "Entertain Cek Area",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 292000.0,
+      "_page": 150,
+      "_note_matched": true,
+      "_note_date": "2024-03-10",
+      "_sheet_source": "Laporan Monitoring Kas Oktober"
+    },
+    {
+      "nama_barang": "BBM Alkon",
+      "jenis_tipe_barang": "Bahan Bakar Minyak",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 18000.0,
+      "_page": 151,
+      "_note_matched": true,
+      "_note_date": "2024-05-10",
+      "_sheet_source": "Laporan Monitoring Kas Oktober"
+    },
+    {
+      "nama_barang": "Air Pam",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 75000.0,
+      "_page": 152,
+      "_note_matched": true,
+      "_note_date": "2024-06-10",
+      "_sheet_source": "Laporan Monitoring Kas Oktober"
+    },
+    {
+      "nama_barang": "BBM Alkon",
+      "jenis_tipe_barang": "Bahan Bakar Minyak",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 18000.0,
+      "_page": 153,
+      "_note_matched": true,
+      "_note_date": "2024-06-10",
+      "_sheet_source": "Laporan Monitoring Kas Oktober"
+    },
+    {
+      "nama_barang": "Lem Stel",
+      "jenis_tipe_barang": "Perekat",
+      "spesifikasi_detail_barang": {
+        "varian": "Dextone"
+      },
+      "merk_barang": null,
+      "harga_barang": 18000.0,
+      "_page": 154,
+      "_note_matched": true,
+      "_note_date": "2024-06-10",
+      "_sheet_source": "Laporan Monitoring Kas Oktober"
+    },
+    {
+      "nama_barang": "BBM KLX",
+      "jenis_tipe_barang": "Bahan Bakar Minyak",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 36000.0,
+      "_page": 155,
+      "_note_matched": true,
+      "_note_date": "2024-06-10",
+      "_sheet_source": "Laporan Monitoring Kas Oktober"
+    },
+    {
+      "nama_barang": "BBM KLX",
+      "jenis_tipe_barang": "Bahan Bakar Minyak",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 48167.0,
+      "_page": 156,
+      "_note_matched": true,
+      "_note_date": "2024-06-10",
+      "_sheet_source": "Laporan Monitoring Kas Oktober"
+    },
+    {
+      "nama_barang": "Tarik Tunai",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 48167.0,
+      "_page": 157,
+      "_note_matched": true,
+      "_note_date": "2024-06-10",
+      "_sheet_source": "Laporan Monitoring Kas Oktober"
+    },
+    {
+      "nama_barang": "Ampera",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 48167.0,
+      "_page": 158,
+      "_note_matched": true,
+      "_note_date": "2024-06-10",
+      "_sheet_source": "Laporan Monitoring Kas Oktober"
+    },
+    {
+      "nama_barang": "Kuitansi Dan Nota",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 8000.0,
+      "_page": 159,
+      "_note_matched": true,
+      "_note_date": "2024-06-10",
+      "_sheet_source": "Laporan Monitoring Kas Oktober"
+    },
+    {
+      "nama_barang": "Ampera",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 23750.0,
+      "_page": 160,
+      "_note_matched": true,
+      "_note_date": "2024-10-10",
+      "_sheet_source": "Laporan Monitoring Kas Oktober"
+    },
+    {
+      "nama_barang": "Biaya Tarik",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 23750.0,
+      "_page": 161,
+      "_note_matched": true,
+      "_note_date": "2024-10-10",
+      "_sheet_source": "Laporan Monitoring Kas Oktober"
+    },
+    {
+      "nama_barang": "BBM Klx Mini",
+      "jenis_tipe_barang": "Bahan Bakar Minyak",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 23750.0,
+      "_page": 162,
+      "_note_matched": true,
+      "_note_date": "2024-10-10",
+      "_sheet_source": "Laporan Monitoring Kas Oktober"
+    },
+    {
+      "nama_barang": "BBM Alkon",
+      "jenis_tipe_barang": "Bahan Bakar Minyak",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 23750.0,
+      "_page": 163,
+      "_note_matched": true,
+      "_note_date": "2024-10-10",
+      "_sheet_source": "Laporan Monitoring Kas Oktober"
+    },
+    {
+      "nama_barang": "Entertaint",
+      "jenis_tipe_barang": "Biaya Lain-lain",
+      "spesifikasi_detail_barang": {
+        "keterangan": "Entertaint"
+      },
+      "merk_barang": null,
+      "harga_barang": 55000.0,
+      "_page": 164,
+      "_note_matched": true,
+      "_note_date": "2024-11-10",
+      "_sheet_source": "Laporan Monitoring Kas Oktober"
+    },
+    {
+      "nama_barang": "BBM KLX",
+      "jenis_tipe_barang": "Bahan Bakar Minyak",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 55000.0,
+      "_page": 165,
+      "_note_matched": true,
+      "_note_date": "2024-11-10",
+      "_sheet_source": "Laporan Monitoring Kas Oktober"
+    },
+    {
+      "nama_barang": "Air Minum Galon",
+      "jenis_tipe_barang": "Konsumsi",
+      "spesifikasi_detail_barang": {
+        "ukuran": "galon"
+      },
+      "merk_barang": null,
+      "harga_barang": 55000.0,
+      "_page": 166,
+      "_note_matched": true,
+      "_note_date": "2024-11-10",
+      "_sheet_source": "Laporan Monitoring Kas Oktober"
+    },
+    {
+      "nama_barang": "BBM KLX",
+      "jenis_tipe_barang": "Bahan Bakar Minyak",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 36667.0,
+      "_page": 167,
+      "_note_matched": true,
+      "_note_date": "2024-12-10",
+      "_sheet_source": "Laporan Monitoring Kas Oktober"
+    },
+    {
+      "nama_barang": "KLX Kecil",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 36667.0,
+      "_page": 168,
+      "_note_matched": true,
+      "_note_date": "2024-12-10",
+      "_sheet_source": "Laporan Monitoring Kas Oktober"
+    },
+    {
+      "nama_barang": "Ampera Material",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 36667.0,
+      "_page": 169,
+      "_note_matched": true,
+      "_note_date": "2024-12-10",
+      "_sheet_source": "Laporan Monitoring Kas Oktober"
+    },
+    {
+      "nama_barang": "Aqua Botol",
+      "jenis_tipe_barang": "Minuman",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": "Aqua",
+      "harga_barang": 44000.0,
+      "_page": 170,
+      "_note_matched": true,
+      "_note_date": "2024-10-13",
+      "_sheet_source": "Laporan Monitoring Kas Oktober"
+    },
+    {
+      "nama_barang": "BBM KLX",
+      "jenis_tipe_barang": "Bahan Bakar Minyak",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 18500.0,
+      "_page": 171,
+      "_note_matched": true,
+      "_note_date": "2024-10-13",
+      "_sheet_source": "Laporan Monitoring Kas Oktober"
+    },
+    {
+      "nama_barang": "KLX Kecil",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 18500.0,
+      "_page": 172,
+      "_note_matched": true,
+      "_note_date": "2024-10-13",
+      "_sheet_source": "Laporan Monitoring Kas Oktober"
+    },
+    {
+      "nama_barang": "Air Minum Galon",
+      "jenis_tipe_barang": "Konsumsi",
+      "spesifikasi_detail_barang": {
+        "ukuran": "galon"
+      },
+      "merk_barang": null,
+      "harga_barang": 18500.0,
+      "_page": 173,
+      "_note_matched": true,
+      "_note_date": "2024-10-13",
+      "_sheet_source": "Laporan Monitoring Kas Oktober"
+    },
+    {
+      "nama_barang": "Tarik Tunai",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 18500.0,
+      "_page": 174,
+      "_note_matched": true,
+      "_note_date": "2024-10-13",
+      "_sheet_source": "Laporan Monitoring Kas Oktober"
+    },
+    {
+      "nama_barang": "BBM KLX",
+      "jenis_tipe_barang": "Bahan Bakar Minyak",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 8333.0,
+      "_page": 175,
+      "_note_matched": true,
+      "_note_date": "2024-10-13",
+      "_sheet_source": "Laporan Monitoring Kas Oktober"
+    },
+    {
+      "nama_barang": "KLX Kecil",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 8333.0,
+      "_page": 176,
+      "_note_matched": true,
+      "_note_date": "2024-10-13",
+      "_sheet_source": "Laporan Monitoring Kas Oktober"
+    },
+    {
+      "nama_barang": "Air Minum Galon",
+      "jenis_tipe_barang": "Konsumsi",
+      "spesifikasi_detail_barang": {
+        "ukuran": "galon"
+      },
+      "merk_barang": null,
+      "harga_barang": 8333.0,
+      "_page": 177,
+      "_note_matched": true,
+      "_note_date": "2024-10-13",
+      "_sheet_source": "Laporan Monitoring Kas Oktober"
+    },
+    {
+      "nama_barang": "Entertain",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 140000.0,
+      "_page": 178,
+      "_note_matched": true,
+      "_note_date": "2024-10-13",
+      "_sheet_source": "Laporan Monitoring Kas Oktober"
+    },
+    {
+      "nama_barang": "BBM KLX",
+      "jenis_tipe_barang": "Bahan Bakar Minyak",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 140000.0,
+      "_page": 179,
+      "_note_matched": true,
+      "_note_date": "2024-10-13",
+      "_sheet_source": "Laporan Monitoring Kas Oktober"
+    },
+    {
+      "nama_barang": "Tarik Tunai",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 140000.0,
+      "_page": 180,
+      "_note_matched": true,
+      "_note_date": "2024-10-13",
+      "_sheet_source": "Laporan Monitoring Kas Oktober"
+    },
+    {
+      "nama_barang": "Pulsa Listrik",
+      "jenis_tipe_barang": "Pembayaran Tagihan",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 103000.0,
+      "_page": 181,
+      "_note_matched": true,
+      "_note_date": "2024-10-16",
+      "_sheet_source": "Laporan Monitoring Kas Oktober"
+    },
+    {
+      "nama_barang": "BBM KLX",
+      "jenis_tipe_barang": "Bahan Bakar Minyak",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 20000.0,
+      "_page": 182,
+      "_note_matched": true,
+      "_note_date": "2024-10-16",
+      "_sheet_source": "Laporan Monitoring Kas Oktober"
+    },
+    {
+      "nama_barang": "Tarik Tunai",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 20000.0,
+      "_page": 183,
+      "_note_matched": true,
+      "_note_date": "2024-10-16",
+      "_sheet_source": "Laporan Monitoring Kas Oktober"
+    },
+    {
+      "nama_barang": "BBM KLX",
+      "jenis_tipe_barang": "Bahan Bakar Minyak",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 27000.0,
+      "_page": 184,
+      "_note_matched": true,
+      "_note_date": "2024-10-18",
+      "_sheet_source": "Laporan Monitoring Kas Oktober"
+    },
+    {
+      "nama_barang": "Air Minum Galon",
+      "jenis_tipe_barang": "Konsumsi",
+      "spesifikasi_detail_barang": {
+        "ukuran": "galon"
+      },
+      "merk_barang": null,
+      "harga_barang": 27000.0,
+      "_page": 185,
+      "_note_matched": true,
+      "_note_date": "2024-10-18",
+      "_sheet_source": "Laporan Monitoring Kas Oktober"
+    },
+    {
+      "nama_barang": "BBM KLX",
+      "jenis_tipe_barang": "Bahan Bakar Minyak",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 36000.0,
+      "_page": 186,
+      "_note_matched": true,
+      "_note_date": "2024-10-19",
+      "_sheet_source": "Laporan Monitoring Kas Oktober"
+    },
+    {
+      "nama_barang": "BBM KLX",
+      "jenis_tipe_barang": "Bahan Bakar Minyak",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 20000.0,
+      "_page": 187,
+      "_note_matched": true,
+      "_note_date": "2024-10-20",
+      "_sheet_source": "Laporan Monitoring Kas Oktober"
+    },
+    {
+      "nama_barang": "KLX Kecil",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 20000.0,
+      "_page": 188,
+      "_note_matched": true,
+      "_note_date": "2024-10-20",
+      "_sheet_source": "Laporan Monitoring Kas Oktober"
+    },
+    {
+      "nama_barang": "Air Minum Galon",
+      "jenis_tipe_barang": "Konsumsi",
+      "spesifikasi_detail_barang": {
+        "ukuran": "galon"
+      },
+      "merk_barang": null,
+      "harga_barang": 20000.0,
+      "_page": 189,
+      "_note_matched": true,
+      "_note_date": "2024-10-20",
+      "_sheet_source": "Laporan Monitoring Kas Oktober"
+    },
+    {
+      "nama_barang": "Air Minum Galon",
+      "jenis_tipe_barang": "Konsumsi",
+      "spesifikasi_detail_barang": {
+        "ukuran": "galon"
+      },
+      "merk_barang": null,
+      "harga_barang": 22000.0,
+      "_page": 190,
+      "_note_matched": true,
+      "_note_date": "2024-10-22",
+      "_sheet_source": "Laporan Monitoring Kas Oktober"
+    },
+    {
+      "nama_barang": "BBM KLX",
+      "jenis_tipe_barang": "Bahan Bakar Minyak",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 22000.0,
+      "_page": 191,
+      "_note_matched": true,
+      "_note_date": "2024-10-22",
+      "_sheet_source": "Laporan Monitoring Kas Oktober"
+    },
+    {
+      "nama_barang": "BBM KLX",
+      "jenis_tipe_barang": "Bahan Bakar Minyak",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 22000.0,
+      "_page": 192,
+      "_note_matched": true,
+      "_note_date": "2024-10-22",
+      "_sheet_source": "Laporan Monitoring Kas Oktober"
+    },
+    {
+      "nama_barang": "BBM KLX",
+      "jenis_tipe_barang": "Bahan Bakar Minyak",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 25000.0,
+      "_page": 193,
+      "_note_matched": true,
+      "_note_date": "2024-10-23",
+      "_sheet_source": "Laporan Monitoring Kas Oktober"
+    },
+    {
+      "nama_barang": "entertaint",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 25000.0,
+      "_page": 194,
+      "_note_matched": true,
+      "_note_date": "2024-10-23",
+      "_sheet_source": "Laporan Monitoring Kas Oktober"
+    },
+    {
+      "nama_barang": "Pulsa Listrik",
+      "jenis_tipe_barang": "Pembayaran Tagihan",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 203000.0,
+      "_page": 195,
+      "_note_matched": true,
+      "_note_date": "2024-10-24",
+      "_sheet_source": "Laporan Monitoring Kas Oktober"
+    },
+    {
+      "nama_barang": "BBM KLX",
+      "jenis_tipe_barang": "Bahan Bakar Minyak",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 69000.0,
+      "_page": 196,
+      "_note_matched": true,
+      "_note_date": "2024-10-24",
+      "_sheet_source": "Laporan Monitoring Kas Oktober"
+    },
+    {
+      "nama_barang": "Entertaint",
+      "jenis_tipe_barang": "Biaya Lain-lain",
+      "spesifikasi_detail_barang": {
+        "keterangan": "Entertaint"
+      },
+      "merk_barang": null,
+      "harga_barang": 69000.0,
+      "_page": 197,
+      "_note_matched": true,
+      "_note_date": "2024-10-24",
+      "_sheet_source": "Laporan Monitoring Kas Oktober"
+    },
+    {
+      "nama_barang": "Entertaint",
+      "jenis_tipe_barang": "Biaya Lain-lain",
+      "spesifikasi_detail_barang": {
+        "keterangan": "Entertaint"
+      },
+      "merk_barang": null,
+      "harga_barang": 40500.0,
+      "_page": 198,
+      "_note_matched": true,
+      "_note_date": "2024-10-25",
+      "_sheet_source": "Laporan Monitoring Kas Oktober"
+    },
+    {
+      "nama_barang": "Air Minum Galon",
+      "jenis_tipe_barang": "Konsumsi",
+      "spesifikasi_detail_barang": {
+        "ukuran": "galon"
+      },
+      "merk_barang": null,
+      "harga_barang": 40500.0,
+      "_page": 199,
+      "_note_matched": true,
+      "_note_date": "2024-10-25",
+      "_sheet_source": "Laporan Monitoring Kas Oktober"
+    },
+    {
+      "nama_barang": "BBM KLX",
+      "jenis_tipe_barang": "Bahan Bakar Minyak",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 48000.0,
+      "_page": 200,
+      "_note_matched": true,
+      "_note_date": "2024-10-25",
+      "_sheet_source": "Laporan Monitoring Kas Oktober"
+    },
+    {
+      "nama_barang": "KLX Besar",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 48000.0,
+      "_page": 201,
+      "_note_matched": true,
+      "_note_date": "2024-10-25",
+      "_sheet_source": "Laporan Monitoring Kas Oktober"
+    },
+    {
+      "nama_barang": "BBM Alkon",
+      "jenis_tipe_barang": "Bahan Bakar Minyak",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 28333.0,
+      "_page": 202,
+      "_note_matched": true,
+      "_note_date": "2024-10-27",
+      "_sheet_source": "Laporan Monitoring Kas Oktober"
+    },
+    {
+      "nama_barang": "Vibrator",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 28333.0,
+      "_page": 203,
+      "_note_matched": true,
+      "_note_date": "2024-10-27",
+      "_sheet_source": "Laporan Monitoring Kas Oktober"
+    },
+    {
+      "nama_barang": "Genset",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 28333.0,
+      "_page": 204,
+      "_note_matched": true,
+      "_note_date": "2024-10-27",
+      "_sheet_source": "Laporan Monitoring Kas Oktober"
+    },
+    {
+      "nama_barang": "Impeler Alkon",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 78000.0,
+      "_page": 205,
+      "_note_matched": true,
+      "_note_date": "2024-10-27",
+      "_sheet_source": "Laporan Monitoring Kas Oktober"
+    },
+    {
+      "nama_barang": "BBM KLX",
+      "jenis_tipe_barang": "Bahan Bakar Minyak",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 50500.0,
+      "_page": 206,
+      "_note_matched": true,
+      "_note_date": "2024-10-28",
+      "_sheet_source": "Laporan Monitoring Kas Oktober"
+    },
+    {
+      "nama_barang": "Peralatan Cuci Motor",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 50500.0,
+      "_page": 207,
+      "_note_matched": true,
+      "_note_date": "2024-10-28",
+      "_sheet_source": "Laporan Monitoring Kas Oktober"
+    },
+    {
+      "nama_barang": "BBM KLX",
+      "jenis_tipe_barang": "Bahan Bakar Minyak",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 34000.0,
+      "_page": 208,
+      "_note_matched": true,
+      "_note_date": "2024-10-29",
+      "_sheet_source": "Laporan Monitoring Kas Oktober"
+    },
+    {
+      "nama_barang": "Vibrator",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 34000.0,
+      "_page": 209,
+      "_note_matched": true,
+      "_note_date": "2024-10-29",
+      "_sheet_source": "Laporan Monitoring Kas Oktober"
+    },
+    {
+      "nama_barang": "Air Minum Galon",
+      "jenis_tipe_barang": "Konsumsi",
+      "spesifikasi_detail_barang": {
+        "ukuran": "galon"
+      },
+      "merk_barang": null,
+      "harga_barang": 34000.0,
+      "_page": 210,
+      "_note_matched": true,
+      "_note_date": "2024-10-29",
+      "_sheet_source": "Laporan Monitoring Kas Oktober"
+    },
+    {
+      "nama_barang": "Air Minum Galon",
+      "jenis_tipe_barang": "Konsumsi",
+      "spesifikasi_detail_barang": {
+        "ukuran": "galon"
+      },
+      "merk_barang": null,
+      "harga_barang": 299000.0,
+      "_page": 211,
+      "_note_matched": false,
+      "_sheet_source": "Laporan Monitoring Kas Januari"
+    },
+    {
+      "nama_barang": "BBM Mesin",
+      "jenis_tipe_barang": "Bahan Bakar Minyak",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 299000.0,
+      "_page": 212,
+      "_note_matched": false,
+      "_sheet_source": "Laporan Monitoring Kas Januari"
+    },
+    {
+      "nama_barang": "Galian",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 299000.0,
+      "_page": 213,
+      "_note_matched": false,
+      "_sheet_source": "Laporan Monitoring Kas Januari"
+    },
+    {
+      "nama_barang": "Biaya tarik Tunai",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 299000.0,
+      "_page": 214,
+      "_note_matched": false,
+      "_sheet_source": "Laporan Monitoring Kas Januari"
+    },
+    {
+      "nama_barang": "Entertaint",
+      "jenis_tipe_barang": "Biaya Lain-lain",
+      "spesifikasi_detail_barang": {
+        "keterangan": "Entertaint Koordinasi Uji Sampel"
+      },
+      "merk_barang": null,
+      "harga_barang": 133000.0,
+      "_page": 215,
+      "_note_matched": false,
+      "_sheet_source": "Laporan Monitoring Kas Januari"
+    },
+    {
+      "nama_barang": "BBM Kendaraan",
+      "jenis_tipe_barang": "Bahan Bakar Minyak",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 262000.0,
+      "_page": 216,
+      "_note_matched": false,
+      "_sheet_source": "Laporan Monitoring Kas Januari"
+    },
+    {
+      "nama_barang": "Drigen",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 262000.0,
+      "_page": 217,
+      "_note_matched": false,
+      "_sheet_source": "Laporan Monitoring Kas Januari"
+    },
+    {
+      "nama_barang": "Air Pam",
+      "jenis_tipe_barang": "Air",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 180000.0,
+      "_page": 218,
+      "_note_matched": false,
+      "_sheet_source": "Laporan Monitoring Kas Desember"
+    },
+    {
+      "nama_barang": "Entertaint",
+      "jenis_tipe_barang": "Biaya Lain-lain",
+      "spesifikasi_detail_barang": {
+        "keterangan": "Entertaint"
+      },
+      "merk_barang": null,
+      "harga_barang": 132000.0,
+      "_page": 219,
+      "_note_matched": false,
+      "_sheet_source": "Laporan Monitoring Kas Desember"
+    },
+    {
+      "nama_barang": "Aqua Gelas",
+      "jenis_tipe_barang": "Minuman",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": "Aqua",
+      "harga_barang": 132000.0,
+      "_page": 220,
+      "_note_matched": false,
+      "_sheet_source": "Laporan Monitoring Kas Desember"
+    },
+    {
+      "nama_barang": "Tarik Tunai",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 132000.0,
+      "_page": 221,
+      "_note_matched": false,
+      "_sheet_source": "Laporan Monitoring Kas Desember"
+    },
+    {
+      "nama_barang": "Sapu Lidi Pembersih Rigid Galian",
+      "jenis_tipe_barang": "Alat Pembersih",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 20000.0,
+      "_page": 222,
+      "_note_matched": false,
+      "_sheet_source": "Laporan Monitoring Kas Desember"
+    },
+    {
+      "nama_barang": "BBM Mesin",
+      "jenis_tipe_barang": "Bahan Bakar Minyak",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 162000.0,
+      "_page": 223,
+      "_note_matched": false,
+      "_sheet_source": "Laporan Monitoring Kas Desember"
+    },
+    {
+      "nama_barang": "Air Minum Galon",
+      "jenis_tipe_barang": "Konsumsi",
+      "spesifikasi_detail_barang": {
+        "ukuran": "galon"
+      },
+      "merk_barang": null,
+      "harga_barang": 162000.0,
+      "_page": 224,
+      "_note_matched": false,
+      "_sheet_source": "Laporan Monitoring Kas Desember"
+    },
+    {
+      "nama_barang": "Tarik Tunai",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 162000.0,
+      "_page": 225,
+      "_note_matched": false,
+      "_sheet_source": "Laporan Monitoring Kas Desember"
+    },
+    {
+      "nama_barang": "BBM Mesin",
+      "jenis_tipe_barang": "Bahan Bakar Minyak",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 135000.0,
+      "_page": 226,
+      "_note_matched": false,
+      "_sheet_source": "Laporan Monitoring Kas Desember"
+    },
+    {
+      "nama_barang": "Cuci Alat Exa",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 135000.0,
+      "_page": 227,
+      "_note_matched": false,
+      "_sheet_source": "Laporan Monitoring Kas Desember"
+    },
+    {
+      "nama_barang": "Biaya Ambil Paket",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 56000.0,
+      "_page": 228,
+      "_note_matched": false,
+      "_sheet_source": "Laporan Monitoring Kas Desember"
+    },
+    {
+      "nama_barang": "Entertaint",
+      "jenis_tipe_barang": "Biaya Lain-lain",
+      "spesifikasi_detail_barang": {
+        "keterangan": "Entertaint"
+      },
+      "merk_barang": null,
+      "harga_barang": 222000.0,
+      "_page": 229,
+      "_note_matched": false,
+      "_sheet_source": "Laporan Monitoring Kas November"
+    },
+    {
+      "nama_barang": "Print Safety Induction",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 222000.0,
+      "_page": 230,
+      "_note_matched": false,
+      "_sheet_source": "Laporan Monitoring Kas November"
+    },
+    {
+      "nama_barang": "Ban Truk",
+      "jenis_tipe_barang": "Suku Cadang Kendaraan",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 300000.0,
+      "_page": 231,
+      "_note_matched": false,
+      "_sheet_source": "Laporan Monitoring Kas Oktober"
+    },
+    {
+      "nama_barang": "Baut Roofing",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {},
+      "merk_barang": null,
+      "harga_barang": 50000.0,
+      "_page": 232,
+      "_note_matched": false,
+      "_sheet_source": "Laporan Monitoring Kas Oktober"
+    },
+    {
+      "nama_barang": "Ban Dalam Swallow",
+      "jenis_tipe_barang": "Ban Dalam",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": "Swallow",
+      "harga_barang": 25000.0,
+      "_page": 233,
+      "_note_matched": false,
+      "_sheet_source": "Laporan Monitoring Kas Oktober"
+    },
+    {
+      "nama_barang": "Lem Aicha Aibon",
+      "jenis_tipe_barang": "Lem",
+      "spesifikasi_detail_barang": {},
+      "merk_barang": "Aicha",
+      "harga_barang": 17000.0,
+      "_page": 234,
+      "_note_matched": false,
+      "_sheet_source": "Laporan Monitoring Kas Oktober"
+    }
+  ]
+}

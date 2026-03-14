@@ -1,0 +1,1728 @@
+{
+  "total_items": 114,
+  "stats": {
+    "total_items": 114,
+    "items_with_price": 110,
+    "items_from_receipt": 42,
+    "coverage_percent": 96.49122807017544,
+    "receipt_match_rate": 36.84210526315789
+  },
+  "sheets_processed": {
+    "monitoring": [
+      "Laporan Monitoring Kas Januari",
+      "Laporan Monitoring Kas Desember",
+      "Laporan Monitoring Kas November",
+      "Laporan Monitoring Kas Oktober"
+    ],
+    "lampiran": [
+      "Lampiran Nota Januari",
+      "Lampiran Nota Desember",
+      "Lampiran Nota November",
+      "Lampiran Nota Oktober"
+    ]
+  },
+  "receipts_processed": 60,
+  "items": [
+    {
+      "nama_barang": "Tisu mobil",
+      "jenis_tipe_barang": "Lain-lain",
+      "spesifikasi_detail_barang": {
+        "quantity": 1,
+        "original_keterangan": "BBM KLX, Canebo, Sapu Mobil, Tisu Mobil",
+        "matched_keywords": [
+          "word:'mobil'",
+          "kw:'mobil'",
+          "exact:'tisu mobil'",
+          "word:'mobil'",
+          "word:'tisu'"
+        ]
+      },
+      "merk_barang": null,
+      "harga_barang": 10000,
+      "_page": 2,
+      "_date": "2025-01-01",
+      "_matched_with_receipt": true,
+      "_match_score": 40
+    },
+    {
+      "nama_barang": "Tali Rafia",
+      "jenis_tipe_barang": "Alat Tulis",
+      "spesifikasi_detail_barang": {
+        "detail": ""
+      },
+      "merk_barang": "",
+      "harga_barang": 150000.0,
+      "_page": 3,
+      "_matched_with_receipt": false,
+      "_source": "transaction_only",
+      "_date": "2025-02-01"
+    },
+    {
+      "nama_barang": "BBM KLX, 2 Kali Isi",
+      "jenis_tipe_barang": "BBM",
+      "spesifikasi_detail_barang": {
+        "detail": "2 Kali Isi"
+      },
+      "merk_barang": "KLX",
+      "harga_barang": 120000.0,
+      "_page": 4,
+      "_matched_with_receipt": false,
+      "_source": "transaction_only",
+      "_date": "2024-05-01"
+    },
+    {
+      "nama_barang": "BBM KLX, Materai, Galon, BBM mesin, Biaya Tarik Tunai, Colokan Listrik",
+      "jenis_tipe_barang": "Mixed (BBM, Alat Tulis, Konsumsi, Elektronik, Jasa)",
+      "spesifikasi_detail_barang": {
+        "detail": ""
+      },
+      "merk_barang": "",
+      "harga_barang": 277000.0,
+      "_page": 5,
+      "_matched_with_receipt": false,
+      "_source": "transaction_only",
+      "_date": "2025-08-01"
+    },
+    {
+      "nama_barang": "BBM Motor",
+      "jenis_tipe_barang": "BBM",
+      "spesifikasi_detail_barang": {
+        "detail": ""
+      },
+      "merk_barang": "",
+      "harga_barang": 155000.0,
+      "_page": 6,
+      "_matched_with_receipt": false,
+      "_source": "transaction_only",
+      "_date": "2025-11-01"
+    },
+    {
+      "nama_barang": "",
+      "jenis_tipe_barang": "",
+      "spesifikasi_detail_barang": {
+        "detail": ""
+      },
+      "merk_barang": "",
+      "harga_barang": null,
+      "_page": 7,
+      "_matched_with_receipt": false,
+      "_source": "transaction_only",
+      "_date": "2024-01-13"
+    },
+    {
+      "nama_barang": "Colokan Listrik, Terminal Listrik, Spidol",
+      "jenis_tipe_barang": "Alat Elektrik, Alat Tulis",
+      "spesifikasi_detail_barang": {
+        "detail": ""
+      },
+      "merk_barang": "",
+      "harga_barang": 128000.0,
+      "_page": 7,
+      "_matched_with_receipt": false,
+      "_source": "transaction_only",
+      "_date": "2024-01-13"
+    },
+    {
+      "nama_barang": "Isi Ulang Air Minum Galon",
+      "jenis_tipe_barang": "Konsumsi",
+      "spesifikasi_detail_barang": {
+        "detail": ""
+      },
+      "merk_barang": "",
+      "harga_barang": 108000.0,
+      "_page": 7,
+      "_matched_with_receipt": false,
+      "_source": "transaction_only",
+      "_date": "2024-01-13"
+    },
+    {
+      "nama_barang": "Ban Dalam Motor",
+      "jenis_tipe_barang": "Sparepart",
+      "spesifikasi_detail_barang": {
+        "detail": ""
+      },
+      "merk_barang": "",
+      "harga_barang": 50000.0,
+      "_page": 7,
+      "_matched_with_receipt": false,
+      "_source": "transaction_only",
+      "_date": "2024-01-13"
+    },
+    {
+      "nama_barang": "Entertaint",
+      "jenis_tipe_barang": "Konsumsi",
+      "spesifikasi_detail_barang": {
+        "detail": ""
+      },
+      "merk_barang": "",
+      "harga_barang": 39000.0,
+      "_page": 7,
+      "_matched_with_receipt": false,
+      "_source": "transaction_only",
+      "_date": "2024-01-13"
+    },
+    {
+      "nama_barang": "Isi Ulang Air Minum Galon, Biaya Tarik Tunai, BBM Genset",
+      "jenis_tipe_barang": "Konsumsi, Jasa, BBM",
+      "spesifikasi_detail_barang": {
+        "detail": ""
+      },
+      "merk_barang": "",
+      "harga_barang": 212000.0,
+      "_page": 8,
+      "_matched_with_receipt": false,
+      "_source": "transaction_only",
+      "_date": "2024-01-16"
+    },
+    {
+      "nama_barang": "Galon, BBM Mesin, Biaya Galian, Biaya tarik Tunai",
+      "jenis_tipe_barang": "BBM, Jasa",
+      "spesifikasi_detail_barang": {
+        "detail": ""
+      },
+      "merk_barang": "",
+      "harga_barang": 299000.0,
+      "_page": 9,
+      "_matched_with_receipt": false,
+      "_source": "transaction_only",
+      "_date": "2024-01-20"
+    },
+    {
+      "nama_barang": "Uji Sampel",
+      "jenis_tipe_barang": "Jasa",
+      "spesifikasi_detail_barang": {
+        "detail": ""
+      },
+      "merk_barang": "",
+      "harga_barang": 133000.0,
+      "_page": 9,
+      "_matched_with_receipt": false,
+      "_source": "transaction_only",
+      "_date": "2024-01-20"
+    },
+    {
+      "nama_barang": "Isi Ulang Air Minum Galon, BBM vixion",
+      "jenis_tipe_barang": "Konsumsi, BBM",
+      "spesifikasi_detail_barang": {
+        "detail": ""
+      },
+      "merk_barang": "",
+      "harga_barang": 282000.0,
+      "_page": 10,
+      "_matched_with_receipt": false,
+      "_source": "transaction_only",
+      "_date": "2025-01-24"
+    },
+    {
+      "nama_barang": "Listrik Barak Lama",
+      "jenis_tipe_barang": "Layanan",
+      "spesifikasi_detail_barang": {
+        "detail": ""
+      },
+      "merk_barang": "",
+      "harga_barang": 203000.0,
+      "_page": 10,
+      "_matched_with_receipt": false,
+      "_source": "transaction_only",
+      "_date": "2025-01-24"
+    },
+    {
+      "nama_barang": "Entertaint Inspeksi",
+      "jenis_tipe_barang": "Unknown",
+      "spesifikasi_detail_barang": {
+        "detail": ""
+      },
+      "merk_barang": "",
+      "harga_barang": 93000.0,
+      "_page": 10,
+      "_matched_with_receipt": false,
+      "_source": "transaction_only",
+      "_date": "2025-01-24"
+    },
+    {
+      "nama_barang": "Entertaint Exa",
+      "jenis_tipe_barang": "Unknown",
+      "spesifikasi_detail_barang": {
+        "detail": ""
+      },
+      "merk_barang": "",
+      "harga_barang": 68000.0,
+      "_page": 10,
+      "_matched_with_receipt": false,
+      "_source": "transaction_only",
+      "_date": "2025-01-24"
+    },
+    {
+      "nama_barang": "Drigen",
+      "jenis_tipe_barang": "BBM",
+      "spesifikasi_detail_barang": {
+        "detail": ""
+      },
+      "merk_barang": "",
+      "harga_barang": 262000.0,
+      "_page": 11,
+      "_matched_with_receipt": false,
+      "_source": "transaction_only",
+      "_date": "2025-01-25"
+    },
+    {
+      "nama_barang": "minyak Revo",
+      "jenis_tipe_barang": "Lain-lain",
+      "spesifikasi_detail_barang": {
+        "quantity": 2,
+        "original_keterangan": "BBM Motor Vixion Dan Revo",
+        "matched_keywords": [
+          "partial:'revo'",
+          "word:'revo'",
+          "kw:'revo'"
+        ]
+      },
+      "merk_barang": null,
+      "harga_barang": 12000,
+      "_page": 12,
+      "_date": "2025-01-27",
+      "_matched_with_receipt": true,
+      "_match_score": 18
+    },
+    {
+      "nama_barang": "Pembayaran Air Pam",
+      "jenis_tipe_barang": "Konsumsi",
+      "spesifikasi_detail_barang": {
+        "detail": ""
+      },
+      "merk_barang": "",
+      "harga_barang": 180000.0,
+      "_page": 2,
+      "_matched_with_receipt": false,
+      "_source": "transaction_only",
+      "_date": "2024-01-12"
+    },
+    {
+      "nama_barang": "Aqua Gelas",
+      "jenis_tipe_barang": "Konsumsi",
+      "spesifikasi_detail_barang": {
+        "detail": ""
+      },
+      "merk_barang": "Aqua",
+      "harga_barang": 132000.0,
+      "_page": 2,
+      "_matched_with_receipt": false,
+      "_source": "transaction_only",
+      "_date": "2024-01-12"
+    },
+    {
+      "nama_barang": "Sapu Lidi Pembersih Rigid Galian",
+      "jenis_tipe_barang": "Alat Kebersihan",
+      "spesifikasi_detail_barang": {
+        "detail": ""
+      },
+      "merk_barang": "",
+      "harga_barang": 20000.0,
+      "_page": 2,
+      "_matched_with_receipt": false,
+      "_source": "transaction_only",
+      "_date": "2024-01-12"
+    },
+    {
+      "nama_barang": "BBM Mesin, Galon",
+      "jenis_tipe_barang": "BBM",
+      "spesifikasi_detail_barang": {
+        "detail": ""
+      },
+      "merk_barang": "",
+      "harga_barang": 162000.0,
+      "_page": 3,
+      "_matched_with_receipt": false,
+      "_source": "transaction_only",
+      "_date": "2024-02-12"
+    },
+    {
+      "nama_barang": "Lakban",
+      "jenis_tipe_barang": "Alat Tulis",
+      "spesifikasi_detail_barang": {
+        "detail": ""
+      },
+      "merk_barang": "",
+      "harga_barang": 143000.0,
+      "_page": 4,
+      "_matched_with_receipt": false,
+      "_source": "transaction_only",
+      "_date": "2024-03-12"
+    },
+    {
+      "nama_barang": "Pengharum Mobil",
+      "jenis_tipe_barang": "Konsumsi",
+      "spesifikasi_detail_barang": {
+        "detail": ""
+      },
+      "merk_barang": "",
+      "harga_barang": 42000.0,
+      "_page": 5,
+      "_matched_with_receipt": false,
+      "_source": "transaction_only",
+      "_date": "2024-05-12"
+    },
+    {
+      "nama_barang": "KLX, Galon, Entertaint, MuatMaterial",
+      "jenis_tipe_barang": "BBM, Konsumsi, Lainnya",
+      "spesifikasi_detail_barang": {
+        "detail": ""
+      },
+      "merk_barang": "",
+      "harga_barang": 204000.0,
+      "_page": 5,
+      "_matched_with_receipt": false,
+      "_source": "transaction_only",
+      "_date": "2024-05-12"
+    },
+    {
+      "nama_barang": "Cuci Mobil Strada Mingguan",
+      "jenis_tipe_barang": "Jasa",
+      "spesifikasi_detail_barang": {
+        "detail": "Pelayanan cuci mobil mingguan untuk model Strada"
+      },
+      "merk_barang": "",
+      "harga_barang": 55000.0,
+      "_page": 5,
+      "_matched_with_receipt": false,
+      "_source": "transaction_only",
+      "_date": "2024-05-12"
+    },
+    {
+      "nama_barang": "Kain Majun",
+      "jenis_tipe_barang": "Konsumsi",
+      "spesifikasi_detail_barang": {
+        "detail": ""
+      },
+      "merk_barang": "",
+      "harga_barang": 16000.0,
+      "_page": 6,
+      "_matched_with_receipt": false,
+      "_source": "transaction_only",
+      "_date": "2024-07-12"
+    },
+    {
+      "nama_barang": "Tarik Tunai, Galon, Corong Minyak, BBM Mesin, BBM KLX",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {
+        "deskripsi": "Tarik Tunai, Galon, Corong Minyak, BBM Mesin, BBM KLX"
+      },
+      "merk_barang": null,
+      "harga_barang": 291000.0,
+      "_page": 6,
+      "_matched_with_receipt": false,
+      "_source": "transaction_only",
+      "_date": "2024-07-12"
+    },
+    {
+      "nama_barang": "BBM KLX besar",
+      "jenis_tipe_barang": "Bahan Bakar Minyak",
+      "spesifikasi_detail_barang": {
+        "quantity": 2,
+        "original_keterangan": "Gula,kopi, Aqua Botol, Stop Kontak, BBM klx, Entertaint",
+        "matched_keywords": [
+          "partial:'bbm klx'",
+          "word:'bbm'",
+          "word:'klx'",
+          "bbm_match",
+          "kw:'klx'"
+        ]
+      },
+      "merk_barang": null,
+      "harga_barang": 14500,
+      "_page": 7,
+      "_date": "2024-10-12",
+      "_matched_with_receipt": true,
+      "_match_score": 36
+    },
+    {
+      "nama_barang": "ampuca bangkar material",
+      "jenis_tipe_barang": "Suku Cadang",
+      "spesifikasi_detail_barang": {
+        "quantity": 1,
+        "original_keterangan": "Kasir Paket Bandara",
+        "matched_keywords": [
+          "kw:'ban'"
+        ]
+      },
+      "merk_barang": null,
+      "harga_barang": 60000,
+      "_page": 7,
+      "_date": "2024-10-12",
+      "_matched_with_receipt": true,
+      "_match_score": 8
+    },
+    {
+      "nama_barang": "BBM KLX kecil",
+      "jenis_tipe_barang": "Bahan Bakar Minyak",
+      "spesifikasi_detail_barang": {
+        "quantity": 2,
+        "original_keterangan": "uang masuk bandara, mobil dan motor"
+      },
+      "merk_barang": null,
+      "harga_barang": 13000,
+      "_page": 7,
+      "_date": "2024-10-12",
+      "_matched_with_receipt": true,
+      "_assignment": "forced"
+    },
+    {
+      "nama_barang": "Galon",
+      "jenis_tipe_barang": "Air Minum",
+      "spesifikasi_detail_barang": {
+        "quantity": 2,
+        "original_keterangan": "BBM KLX, Galon",
+        "matched_keywords": [
+          "exact:'galon'",
+          "word:'galon'",
+          "kw:'galon'"
+        ]
+      },
+      "merk_barang": null,
+      "harga_barang": 6000,
+      "_page": 8,
+      "_date": "2024-12-12",
+      "_matched_with_receipt": true,
+      "_match_score": 31
+    },
+    {
+      "nama_barang": "BBM KLX, BBM Mesin",
+      "jenis_tipe_barang": "BBM",
+      "spesifikasi_detail_barang": {
+        "detail": ""
+      },
+      "merk_barang": "",
+      "harga_barang": 214000.0,
+      "_page": 9,
+      "_matched_with_receipt": false,
+      "_source": "transaction_only",
+      "_date": "2024-12-14"
+    },
+    {
+      "nama_barang": "Mesin Cuci Alat",
+      "jenis_tipe_barang": "Alat",
+      "spesifikasi_detail_barang": {
+        "detail": ""
+      },
+      "merk_barang": "Exa",
+      "harga_barang": 135000.0,
+      "_page": 10,
+      "_matched_with_receipt": false,
+      "_source": "transaction_only",
+      "_date": "2024-12-18"
+    },
+    {
+      "nama_barang": "Biaya Ambil Paket",
+      "jenis_tipe_barang": "Jasa",
+      "spesifikasi_detail_barang": {
+        "detail": ""
+      },
+      "merk_barang": "",
+      "harga_barang": 56000.0,
+      "_page": 10,
+      "_matched_with_receipt": false,
+      "_source": "transaction_only",
+      "_date": "2024-12-18"
+    },
+    {
+      "nama_barang": "BBM alkon + Genset + BBM KLX",
+      "jenis_tipe_barang": "Bahan Bakar Minyak",
+      "spesifikasi_detail_barang": {
+        "quantity": 10,
+        "original_keterangan": "Biaya Tarik Tunai, Pembersihan Carbu dan filter, Tali Rafia, BBM Alkon, Genset, BBM KLX, ",
+        "matched_keywords": [
+          "partial:'bbm alkon'",
+          "word:'alkon'",
+          "word:'bbm'",
+          "bbm_match",
+          "partial:'genset'"
+        ]
+      },
+      "merk_barang": null,
+      "harga_barang": 10000,
+      "_page": 11,
+      "_date": "2024-12-20",
+      "_matched_with_receipt": true,
+      "_match_score": 80
+    },
+    {
+      "nama_barang": "Biaya tarik tunai",
+      "jenis_tipe_barang": "Jasa",
+      "spesifikasi_detail_barang": {
+        "quantity": 2,
+        "original_keterangan": "Pembuatan Stempel",
+        "matched_keywords": [
+          "price_close:70000.0"
+        ]
+      },
+      "merk_barang": null,
+      "harga_barang": 77000,
+      "_page": 11,
+      "_date": "2024-12-20",
+      "_matched_with_receipt": true,
+      "_match_score": 10
+    },
+    {
+      "nama_barang": "Tali rafia",
+      "jenis_tipe_barang": "Alat dan Bahan",
+      "spesifikasi_detail_barang": {
+        "quantity": 2,
+        "original_keterangan": "BBM Mesin, BBM KLX, Tali Plastik Rafia, Map dan Klip",
+        "matched_keywords": [
+          "word:'tali'",
+          "word:'rafia'",
+          "kw:'tali'",
+          "kw:'rafia'"
+        ]
+      },
+      "merk_barang": null,
+      "harga_barang": 3000,
+      "_page": 11,
+      "_date": "2024-12-20",
+      "_matched_with_receipt": true,
+      "_match_score": 20
+    },
+    {
+      "nama_barang": "Galon",
+      "jenis_tipe_barang": "Air Minum",
+      "spesifikasi_detail_barang": {
+        "quantity": 3,
+        "original_keterangan": "23 -12 -2024"
+      },
+      "merk_barang": null,
+      "harga_barang": 6000,
+      "_page": 11,
+      "_date": "2024-12-20",
+      "_matched_with_receipt": true,
+      "_assignment": "forced"
+    },
+    {
+      "nama_barang": "Pembersihan Gantu, filter udara",
+      "jenis_tipe_barang": "Lain-lain",
+      "spesifikasi_detail_barang": {
+        "quantity": 1,
+        "original_keterangan": "Pembayaran Listrik"
+      },
+      "merk_barang": null,
+      "harga_barang": 10000,
+      "_page": 11,
+      "_date": "2024-12-20",
+      "_matched_with_receipt": true,
+      "_assignment": "forced"
+    },
+    {
+      "nama_barang": "",
+      "jenis_tipe_barang": "",
+      "spesifikasi_detail_barang": {
+        "detail": ""
+      },
+      "merk_barang": "",
+      "harga_barang": null,
+      "_page": 12,
+      "_matched_with_receipt": false,
+      "_source": "transaction_only",
+      "_date": "2024-12-24"
+    },
+    {
+      "nama_barang": "BBM KLX",
+      "jenis_tipe_barang": "Bahan Bakar Minyak",
+      "spesifikasi_detail_barang": {
+        "quantity": 5,
+        "original_keterangan": "Tali Rafia, BBM KLX, Pembuatan Surat sehat, galon",
+        "matched_keywords": [
+          "exact:'bbm klx'",
+          "word:'bbm'",
+          "word:'klx'",
+          "bbm_match",
+          "kw:'klx'"
+        ]
+      },
+      "merk_barang": null,
+      "harga_barang": 12000,
+      "_page": 13,
+      "_date": "2024-12-26",
+      "_matched_with_receipt": true,
+      "_match_score": 46
+    },
+    {
+      "nama_barang": "Tali Rafia",
+      "jenis_tipe_barang": "Alat dan Bahan",
+      "spesifikasi_detail_barang": {
+        "quantity": 2,
+        "original_keterangan": "BBM Terios"
+      },
+      "merk_barang": null,
+      "harga_barang": 25000,
+      "_page": 13,
+      "_date": "2024-12-26",
+      "_matched_with_receipt": true,
+      "_assignment": "forced"
+    },
+    {
+      "nama_barang": "Entertaint",
+      "jenis_tipe_barang": "Konsumsi",
+      "spesifikasi_detail_barang": {
+        "quantity": 1,
+        "original_keterangan": "Entertaint, biaya tarik tunai",
+        "matched_keywords": [
+          "exact:'entertaint'",
+          "word:'entertaint'",
+          "price_near:58000.0"
+        ]
+      },
+      "merk_barang": null,
+      "harga_barang": 43000,
+      "_page": 14,
+      "_date": "2024-12-28",
+      "_matched_with_receipt": true,
+      "_match_score": 28
+    },
+    {
+      "nama_barang": "Entertaim tim survey",
+      "jenis_tipe_barang": "Lain-lain",
+      "spesifikasi_detail_barang": {
+        "quantity": 1,
+        "original_keterangan": "Entertaint Tim Survey",
+        "matched_keywords": [
+          "word:'survey'",
+          "word:'tim'",
+          "price_exact:300000.0",
+          "price_exact_match"
+        ]
+      },
+      "merk_barang": null,
+      "harga_barang": 300000,
+      "_page": 15,
+      "_date": "2024-12-31",
+      "_matched_with_receipt": true,
+      "_match_score": 56
+    },
+    {
+      "nama_barang": "Tambal ban motor klix",
+      "jenis_tipe_barang": "Suku Cadang",
+      "spesifikasi_detail_barang": {
+        "quantity": 1,
+        "original_keterangan": "Tambal Ban KLX",
+        "matched_keywords": [
+          "word:'tambal'",
+          "word:'ban'",
+          "kw:'ban'",
+          "price_exact:25000.0",
+          "price_exact_match"
+        ]
+      },
+      "merk_barang": null,
+      "harga_barang": 25000,
+      "_page": 15,
+      "_date": "2024-12-31",
+      "_matched_with_receipt": true,
+      "_match_score": 64
+    },
+    {
+      "nama_barang": "BBM KLX Besar, Alkon, Genset",
+      "jenis_tipe_barang": "BBM, Alat Konstruksi, Genset",
+      "spesifikasi_detail_barang": {
+        "detail": ""
+      },
+      "merk_barang": "",
+      "harga_barang": 96000.0,
+      "_page": 2,
+      "_matched_with_receipt": false,
+      "_source": "transaction_only",
+      "_date": "2024-02-11"
+    },
+    {
+      "nama_barang": "BBM KLX mini, Air minum galon",
+      "jenis_tipe_barang": "BBM, Konsumsi",
+      "spesifikasi_detail_barang": {
+        "detail": ""
+      },
+      "merk_barang": "",
+      "harga_barang": 78000.0,
+      "_page": 3,
+      "_matched_with_receipt": false,
+      "_source": "transaction_only",
+      "_date": "2024-03-11"
+    },
+    {
+      "nama_barang": "Bensin",
+      "jenis_tipe_barang": "BBM",
+      "spesifikasi_detail_barang": {
+        "detail": "10 Liter"
+      },
+      "merk_barang": "",
+      "harga_barang": 120000.0,
+      "_page": 3,
+      "_matched_with_receipt": false,
+      "_source": "transaction_only",
+      "_date": "2024-03-11"
+    },
+    {
+      "nama_barang": "Drigen 5 Liter",
+      "jenis_tipe_barang": "Konsumsi",
+      "spesifikasi_detail_barang": {
+        "detail": "2 Buah"
+      },
+      "merk_barang": "",
+      "harga_barang": 24000.0,
+      "_page": 3,
+      "_matched_with_receipt": false,
+      "_source": "transaction_only",
+      "_date": "2024-03-11"
+    },
+    {
+      "nama_barang": "Galon",
+      "jenis_tipe_barang": "Konsumsi",
+      "spesifikasi_detail_barang": {
+        "detail": ""
+      },
+      "merk_barang": "",
+      "harga_barang": 215000.0,
+      "_page": 5,
+      "_matched_with_receipt": false,
+      "_source": "transaction_only",
+      "_date": "2024-07-11"
+    },
+    {
+      "nama_barang": "Carbon Brush",
+      "jenis_tipe_barang": "Alat Tulis",
+      "spesifikasi_detail_barang": {
+        "detail": ""
+      },
+      "merk_barang": "",
+      "harga_barang": 40000.0,
+      "_page": 5,
+      "_matched_with_receipt": false,
+      "_source": "transaction_only",
+      "_date": "2024-07-11"
+    },
+    {
+      "nama_barang": "BBM Alkon, Genset,Klx, Sapu Lantai, Nota entertaint, Tarik tunai",
+      "jenis_tipe_barang": null,
+      "spesifikasi_detail_barang": {
+        "deskripsi": "BBM Alkon, Genset,Klx, Sapu Lantai, Nota entertaint, Tarik tunai"
+      },
+      "merk_barang": null,
+      "harga_barang": 276000.0,
+      "_page": 6,
+      "_matched_with_receipt": false,
+      "_source": "transaction_only",
+      "_date": "2024-08-11"
+    },
+    {
+      "nama_barang": "Perbaikan Mobil Truk",
+      "jenis_tipe_barang": "Jasa",
+      "spesifikasi_detail_barang": {
+        "detail": ""
+      },
+      "merk_barang": "",
+      "harga_barang": 250000.0,
+      "_page": 7,
+      "_matched_with_receipt": false,
+      "_source": "transaction_only",
+      "_date": "2024-09-11"
+    },
+    {
+      "nama_barang": "Entertaint",
+      "jenis_tipe_barang": "Konsumsi",
+      "spesifikasi_detail_barang": {
+        "quantity": 1,
+        "original_keterangan": "BBM KLX, Tambah Angin Ban truk, Entertaint",
+        "matched_keywords": [
+          "exact:'entertaint'",
+          "word:'entertaint'"
+        ]
+      },
+      "merk_barang": null,
+      "harga_barang": 93000,
+      "_page": 8,
+      "_date": "2024-10-11",
+      "_matched_with_receipt": true,
+      "_match_score": 23
+    },
+    {
+      "nama_barang": "BBM KLX Besar",
+      "jenis_tipe_barang": "Bahan Bakar Minyak",
+      "spesifikasi_detail_barang": {
+        "quantity": 3,
+        "original_keterangan": "Tambal Ban Motor"
+      },
+      "merk_barang": null,
+      "harga_barang": 12000,
+      "_page": 8,
+      "_date": "2024-10-11",
+      "_matched_with_receipt": true,
+      "_assignment": "forced"
+    },
+    {
+      "nama_barang": "Galon",
+      "jenis_tipe_barang": "Konsumsi",
+      "spesifikasi_detail_barang": {
+        "detail": ""
+      },
+      "merk_barang": "",
+      "harga_barang": 70000.0,
+      "_page": 9,
+      "_matched_with_receipt": false,
+      "_source": "transaction_only",
+      "_date": "2024-12-11"
+    },
+    {
+      "nama_barang": "BBM KLX",
+      "jenis_tipe_barang": "Bahan Bakar Minyak",
+      "spesifikasi_detail_barang": {
+        "quantity": 5,
+        "original_keterangan": "BBM KLX, Gunting, BBM Alat",
+        "matched_keywords": [
+          "partial:'klx'",
+          "word:'klx'",
+          "kw:'klx'",
+          "word:'bbm'",
+          "bbm_match"
+        ]
+      },
+      "merk_barang": null,
+      "harga_barang": 12000,
+      "_page": 10,
+      "_date": "2024-11-13",
+      "_matched_with_receipt": true,
+      "_match_score": 36
+    },
+    {
+      "nama_barang": "Baut bata + Mur",
+      "jenis_tipe_barang": "Lain-lain",
+      "spesifikasi_detail_barang": {
+        "quantity": 1,
+        "original_keterangan": "Baut baja+Ring",
+        "matched_keywords": [
+          "word:'baut'",
+          "price_close:24000.0"
+        ]
+      },
+      "merk_barang": null,
+      "harga_barang": 21000,
+      "_page": 11,
+      "_date": "2024-11-16",
+      "_matched_with_receipt": true,
+      "_match_score": 13
+    },
+    {
+      "nama_barang": "Tambal B/D",
+      "jenis_tipe_barang": "Jasa",
+      "spesifikasi_detail_barang": {
+        "quantity": 1.25,
+        "original_keterangan": "Tambal Ban Truk",
+        "matched_keywords": [
+          "word:'tambal'",
+          "price_exact:30000.0",
+          "price_exact_match"
+        ]
+      },
+      "merk_barang": null,
+      "harga_barang": 30000,
+      "_page": 11,
+      "_date": "2024-11-16",
+      "_matched_with_receipt": true,
+      "_match_score": 53
+    },
+    {
+      "nama_barang": "Galon",
+      "jenis_tipe_barang": "Air Minum",
+      "spesifikasi_detail_barang": {
+        "quantity": 5,
+        "original_keterangan": "Biaya tarik tunai, Galon",
+        "matched_keywords": [
+          "exact:'galon'",
+          "word:'galon'",
+          "kw:'galon'"
+        ]
+      },
+      "merk_barang": null,
+      "harga_barang": 6000,
+      "_page": 11,
+      "_date": "2024-11-16",
+      "_matched_with_receipt": true,
+      "_match_score": 31
+    },
+    {
+      "nama_barang": "BBM KLX, Genset",
+      "jenis_tipe_barang": "BBM, Alat Berat",
+      "spesifikasi_detail_barang": {
+        "detail": ""
+      },
+      "merk_barang": "",
+      "harga_barang": 192000.0,
+      "_page": 12,
+      "_matched_with_receipt": false,
+      "_source": "transaction_only",
+      "_date": "2024-11-18"
+    },
+    {
+      "nama_barang": "Pulsa Listrik",
+      "jenis_tipe_barang": "Layanan",
+      "spesifikasi_detail_barang": {
+        "detail": ""
+      },
+      "merk_barang": "",
+      "harga_barang": 203000.0,
+      "_page": 13,
+      "_matched_with_receipt": false,
+      "_source": "transaction_only",
+      "_date": "2024-11-20"
+    },
+    {
+      "nama_barang": "Entertaint Tim Survey",
+      "jenis_tipe_barang": "Jasa",
+      "spesifikasi_detail_barang": {
+        "detail": ""
+      },
+      "merk_barang": "",
+      "harga_barang": 195000.0,
+      "_page": 13,
+      "_matched_with_receipt": false,
+      "_source": "transaction_only",
+      "_date": "2024-11-20"
+    },
+    {
+      "nama_barang": "Baut baja dan Ring",
+      "jenis_tipe_barang": "Alat",
+      "spesifikasi_detail_barang": {
+        "detail": ""
+      },
+      "merk_barang": "",
+      "harga_barang": 40000.0,
+      "_page": 13,
+      "_matched_with_receipt": false,
+      "_source": "transaction_only",
+      "_date": "2024-11-20"
+    },
+    {
+      "nama_barang": "BBM KLX",
+      "jenis_tipe_barang": "Bahan Bakar Minyak",
+      "spesifikasi_detail_barang": {
+        "quantity": 6,
+        "original_keterangan": "Materai, Galon, Sapu Mobil, bbm klx, Canebo, Biaya Tarik Tunai",
+        "matched_keywords": [
+          "exact:'bbm klx'",
+          "word:'bbm'",
+          "word:'klx'",
+          "bbm_match",
+          "kw:'klx'"
+        ]
+      },
+      "merk_barang": null,
+      "harga_barang": 12000,
+      "_page": 14,
+      "_date": "2024-11-24",
+      "_matched_with_receipt": true,
+      "_match_score": 46
+    },
+    {
+      "nama_barang": "materai 10.000",
+      "jenis_tipe_barang": "Perlengkapan Kantor",
+      "spesifikasi_detail_barang": {
+        "quantity": 2,
+        "original_keterangan": "24-11-2024"
+      },
+      "merk_barang": null,
+      "harga_barang": 12000,
+      "_page": 14,
+      "_date": "2024-11-24",
+      "_matched_with_receipt": true,
+      "_assignment": "forced"
+    },
+    {
+      "nama_barang": "BBM galon",
+      "jenis_tipe_barang": "Bahan Bakar Minyak",
+      "spesifikasi_detail_barang": {
+        "quantity": 10,
+        "original_keterangan": "BBM Mesin, Dompet Gantungan Truk"
+      },
+      "merk_barang": null,
+      "harga_barang": 12000,
+      "_page": 15,
+      "_date": "2024-11-25",
+      "_matched_with_receipt": true,
+      "_assignment": "forced"
+    },
+    {
+      "nama_barang": "Vixal, gembok, kabbel tis, biaya tarik tunai, entertaint, bbm klx",
+      "jenis_tipe_barang": "Mixed",
+      "spesifikasi_detail_barang": {
+        "detail": ""
+      },
+      "merk_barang": "",
+      "harga_barang": 341000.0,
+      "_page": 16,
+      "_matched_with_receipt": false,
+      "_source": "transaction_only",
+      "_date": "2024-11-28"
+    },
+    {
+      "nama_barang": "SARINGAN",
+      "jenis_tipe_barang": "Lain-lain",
+      "spesifikasi_detail_barang": {
+        "quantity": 1,
+        "original_keterangan": "Corong Minyak, Isolatip, Saringan",
+        "matched_keywords": [
+          "exact:'saringan'",
+          "word:'saringan'"
+        ]
+      },
+      "merk_barang": null,
+      "harga_barang": 13000,
+      "_page": 17,
+      "_date": "2024-11-29",
+      "_matched_with_receipt": true,
+      "_match_score": 23
+    },
+    {
+      "nama_barang": "Kunci Ring pas",
+      "jenis_tipe_barang": "Lain-lain",
+      "spesifikasi_detail_barang": {
+        "quantity": 1,
+        "original_keterangan": "Kunci ring pas 24",
+        "matched_keywords": [
+          "partial:'kunci ring pas 24'",
+          "word:'kunci'",
+          "word:'pas'",
+          "word:'ring'",
+          "price_exact:35000.0"
+        ]
+      },
+      "merk_barang": null,
+      "harga_barang": 35000,
+      "_page": 17,
+      "_date": "2024-11-29",
+      "_matched_with_receipt": true,
+      "_match_score": 69
+    },
+    {
+      "nama_barang": "Galon",
+      "jenis_tipe_barang": "Air Minum",
+      "spesifikasi_detail_barang": {
+        "quantity": 5,
+        "original_keterangan": "Galon, Aqua Botol, BBM Alkon, Genset, Vibrator",
+        "matched_keywords": [
+          "exact:'galon'",
+          "word:'galon'",
+          "kw:'galon'"
+        ]
+      },
+      "merk_barang": null,
+      "harga_barang": 6000,
+      "_page": 17,
+      "_date": "2024-11-29",
+      "_matched_with_receipt": true,
+      "_match_score": 31
+    },
+    {
+      "nama_barang": "Print Safety Induction",
+      "jenis_tipe_barang": "Alat Tulis",
+      "spesifikasi_detail_barang": {
+        "detail": ""
+      },
+      "merk_barang": "",
+      "harga_barang": 222000.0,
+      "_page": 18,
+      "_matched_with_receipt": false,
+      "_source": "transaction_only",
+      "_date": "2024-11-30"
+    },
+    {
+      "nama_barang": "BBM Alkon",
+      "jenis_tipe_barang": "BBM",
+      "spesifikasi_detail_barang": {
+        "detail": ""
+      },
+      "merk_barang": "",
+      "harga_barang": 18000.0,
+      "_page": 2,
+      "_matched_with_receipt": false,
+      "_source": "transaction_only",
+      "_date": "2024-01-10"
+    },
+    {
+      "nama_barang": "KLX, Air Minum dan Makan",
+      "jenis_tipe_barang": "Konsumsi",
+      "spesifikasi_detail_barang": {
+        "detail": ""
+      },
+      "merk_barang": "",
+      "harga_barang": 76000.0,
+      "_page": 2,
+      "_matched_with_receipt": false,
+      "_source": "transaction_only",
+      "_date": "2024-01-10"
+    },
+    {
+      "nama_barang": "BBM Truk",
+      "jenis_tipe_barang": "BBM",
+      "spesifikasi_detail_barang": {
+        "detail": ""
+      },
+      "merk_barang": "",
+      "harga_barang": 500000.0,
+      "_page": 3,
+      "_matched_with_receipt": false,
+      "_source": "transaction_only",
+      "_date": "2024-03-10"
+    },
+    {
+      "nama_barang": "Busi KLX Besar",
+      "jenis_tipe_barang": "Sparepart",
+      "spesifikasi_detail_barang": {
+        "detail": ""
+      },
+      "merk_barang": "",
+      "harga_barang": 25000.0,
+      "_page": 3,
+      "_matched_with_receipt": false,
+      "_source": "transaction_only",
+      "_date": "2024-03-10"
+    },
+    {
+      "nama_barang": "Entertain Cek Area",
+      "jenis_tipe_barang": "Unknown",
+      "spesifikasi_detail_barang": {
+        "detail": ""
+      },
+      "merk_barang": "",
+      "harga_barang": 292000.0,
+      "_page": 3,
+      "_matched_with_receipt": false,
+      "_source": "transaction_only",
+      "_date": "2024-03-10"
+    },
+    {
+      "nama_barang": "Alkon",
+      "jenis_tipe_barang": "BBM",
+      "spesifikasi_detail_barang": {
+        "detail": ""
+      },
+      "merk_barang": "",
+      "harga_barang": 18000.0,
+      "_page": 4,
+      "_matched_with_receipt": false,
+      "_source": "transaction_only",
+      "_date": "2024-05-10"
+    },
+    {
+      "nama_barang": "Pembayaran Air Pam",
+      "jenis_tipe_barang": "Konsumsi",
+      "spesifikasi_detail_barang": {
+        "detail": ""
+      },
+      "merk_barang": "",
+      "harga_barang": 75000.0,
+      "_page": 5,
+      "_matched_with_receipt": false,
+      "_source": "transaction_only",
+      "_date": "2024-06-10"
+    },
+    {
+      "nama_barang": "BBM Alkon",
+      "jenis_tipe_barang": "BBM",
+      "spesifikasi_detail_barang": {
+        "detail": ""
+      },
+      "merk_barang": "",
+      "harga_barang": 18000.0,
+      "_page": 5,
+      "_matched_with_receipt": false,
+      "_source": "transaction_only",
+      "_date": "2024-06-10"
+    },
+    {
+      "nama_barang": "Lem Stel (Dextone)",
+      "jenis_tipe_barang": "Alat Tulis",
+      "spesifikasi_detail_barang": {
+        "detail": ""
+      },
+      "merk_barang": "Dextone",
+      "harga_barang": 18000.0,
+      "_page": 5,
+      "_matched_with_receipt": false,
+      "_source": "transaction_only",
+      "_date": "2024-06-10"
+    },
+    {
+      "nama_barang": "KLX Besar",
+      "jenis_tipe_barang": "BBM",
+      "spesifikasi_detail_barang": {
+        "detail": ""
+      },
+      "merk_barang": "",
+      "harga_barang": 36000.0,
+      "_page": 5,
+      "_matched_with_receipt": false,
+      "_source": "transaction_only",
+      "_date": "2024-06-10"
+    },
+    {
+      "nama_barang": "BBM KLX dan Alkon",
+      "jenis_tipe_barang": "BBM",
+      "spesifikasi_detail_barang": {
+        "detail": ""
+      },
+      "merk_barang": "",
+      "harga_barang": 144500.0,
+      "_page": 6,
+      "_matched_with_receipt": false,
+      "_source": "transaction_only",
+      "_date": "2024-07-10"
+    },
+    {
+      "nama_barang": "",
+      "jenis_tipe_barang": "",
+      "spesifikasi_detail_barang": {
+        "detail": ""
+      },
+      "merk_barang": "",
+      "harga_barang": 8000.0,
+      "_page": 6,
+      "_matched_with_receipt": false,
+      "_source": "transaction_only",
+      "_date": "2024-07-10"
+    },
+    {
+      "nama_barang": "BBM KLX Besar",
+      "jenis_tipe_barang": "Bahan Bakar Minyak",
+      "spesifikasi_detail_barang": {
+        "quantity": 2,
+        "original_keterangan": "Ampera, Biaya Tarik, BBM Klx Mini, BBm Alkon",
+        "matched_keywords": [
+          "word:'bbm'",
+          "word:'klx'",
+          "bbm_match",
+          "kw:'klx'",
+          "word:'bbm'"
+        ]
+      },
+      "merk_barang": null,
+      "harga_barang": 12000,
+      "_page": 7,
+      "_date": "2024-10-10",
+      "_matched_with_receipt": true,
+      "_match_score": 44
+    },
+    {
+      "nama_barang": "BBM KLX",
+      "jenis_tipe_barang": "Bahan Bakar Minyak",
+      "spesifikasi_detail_barang": {
+        "quantity": 1,
+        "original_keterangan": "Entertaint, BBM KLX Bsar, Air Galon",
+        "matched_keywords": [
+          "partial:'bbm klx bsar'",
+          "word:'bbm'",
+          "word:'klx'",
+          "bbm_match",
+          "kw:'klx'"
+        ]
+      },
+      "merk_barang": null,
+      "harga_barang": 40000,
+      "_page": 8,
+      "_date": "2024-11-10",
+      "_matched_with_receipt": true,
+      "_match_score": 36
+    },
+    {
+      "nama_barang": "BBM KLX",
+      "jenis_tipe_barang": "Bahan Bakar Minyak",
+      "spesifikasi_detail_barang": {
+        "quantity": 3,
+        "original_keterangan": "BBM KLX Besar, KLX Kecil, Ampera Material",
+        "matched_keywords": [
+          "word:'klx'",
+          "kw:'klx'",
+          "word:'klx'",
+          "kw:'klx'"
+        ]
+      },
+      "merk_barang": null,
+      "harga_barang": 12000,
+      "_page": 9,
+      "_date": "2024-12-10",
+      "_matched_with_receipt": true,
+      "_match_score": 16
+    },
+    {
+      "nama_barang": "Galon",
+      "jenis_tipe_barang": "Air Minum",
+      "spesifikasi_detail_barang": {
+        "quantity": 3,
+        "original_keterangan": "BBM KLX Besar, KLX Kecil, Galon,Tarik Tunai",
+        "matched_keywords": [
+          "exact:'galon'",
+          "word:'galon'",
+          "kw:'galon'"
+        ]
+      },
+      "merk_barang": null,
+      "harga_barang": 6000,
+      "_page": 10,
+      "_date": "2024-10-13",
+      "_matched_with_receipt": true,
+      "_match_score": 31
+    },
+    {
+      "nama_barang": "Cat Piton",
+      "jenis_tipe_barang": "Lain-lain",
+      "spesifikasi_detail_barang": {
+        "quantity": 1,
+        "original_keterangan": "BBM KLX Besar, KLX Kecil, Galon",
+        "matched_keywords": [
+          "price_exact:25000.0",
+          "price_exact_match"
+        ]
+      },
+      "merk_barang": null,
+      "harga_barang": 25000,
+      "_page": 10,
+      "_date": "2024-10-13",
+      "_matched_with_receipt": true,
+      "_match_score": 50
+    },
+    {
+      "nama_barang": "BBM KLX mini",
+      "jenis_tipe_barang": "Bahan Bakar Minyak",
+      "spesifikasi_detail_barang": {
+        "quantity": 2,
+        "original_keterangan": "Aqua Botol"
+      },
+      "merk_barang": null,
+      "harga_barang": 12000,
+      "_page": 10,
+      "_date": "2024-10-13",
+      "_matched_with_receipt": true,
+      "_assignment": "forced"
+    },
+    {
+      "nama_barang": "",
+      "jenis_tipe_barang": "",
+      "spesifikasi_detail_barang": {
+        "detail": ""
+      },
+      "merk_barang": "",
+      "harga_barang": null,
+      "_page": 11,
+      "_matched_with_receipt": false,
+      "_source": "transaction_only",
+      "_date": "2024-10-15"
+    },
+    {
+      "nama_barang": "Tarik Tunai",
+      "jenis_tipe_barang": "Layanan Keuangan",
+      "spesifikasi_detail_barang": {
+        "detail": ""
+      },
+      "merk_barang": "",
+      "harga_barang": 420000.0,
+      "_page": 11,
+      "_matched_with_receipt": false,
+      "_source": "transaction_only",
+      "_date": "2024-10-15"
+    },
+    {
+      "nama_barang": "Biaya tarik tunai",
+      "jenis_tipe_barang": "Jasa",
+      "spesifikasi_detail_barang": {
+        "quantity": 1,
+        "original_keterangan": "BBM KLX Mini, Biaya Tarik Tunai",
+        "matched_keywords": [
+          "exact:'biaya tarik tunai'",
+          "word:'tarik'",
+          "word:'tunai'",
+          "word:'biaya'"
+        ]
+      },
+      "merk_barang": null,
+      "harga_barang": 16000,
+      "_page": 12,
+      "_date": "2024-10-16",
+      "_matched_with_receipt": true,
+      "_match_score": 29
+    },
+    {
+      "nama_barang": "BBM KLX kecil",
+      "jenis_tipe_barang": "Bahan Bakar Minyak",
+      "spesifikasi_detail_barang": {
+        "quantity": 2,
+        "original_keterangan": "Pulsa Listrik"
+      },
+      "merk_barang": null,
+      "harga_barang": 12000,
+      "_page": 12,
+      "_date": "2024-10-16",
+      "_matched_with_receipt": true,
+      "_assignment": "forced"
+    },
+    {
+      "nama_barang": "Galon",
+      "jenis_tipe_barang": "BBM",
+      "spesifikasi_detail_barang": {
+        "detail": ""
+      },
+      "merk_barang": "",
+      "harga_barang": 54000.0,
+      "_page": 13,
+      "_matched_with_receipt": false,
+      "_source": "transaction_only",
+      "_date": "2024-10-18"
+    },
+    {
+      "nama_barang": "BBM KLX mini",
+      "jenis_tipe_barang": "Bahan Bakar Minyak",
+      "spesifikasi_detail_barang": {
+        "quantity": 2,
+        "original_keterangan": "BBM KLX Kecil",
+        "matched_keywords": [
+          "word:'klx'",
+          "kw:'klx'"
+        ]
+      },
+      "merk_barang": null,
+      "harga_barang": 12000,
+      "_page": 14,
+      "_date": "2024-10-19",
+      "_matched_with_receipt": true,
+      "_match_score": 8
+    },
+    {
+      "nama_barang": "BBM KLX Byar",
+      "jenis_tipe_barang": "Bahan Bakar Minyak",
+      "spesifikasi_detail_barang": {
+        "quantity": 4,
+        "original_keterangan": "BBM KLX Besar, KLX Kecil, Galon",
+        "matched_keywords": [
+          "word:'klx'",
+          "kw:'klx'",
+          "word:'klx'",
+          "kw:'klx'"
+        ]
+      },
+      "merk_barang": null,
+      "harga_barang": 12000,
+      "_page": 15,
+      "_date": "2024-10-20",
+      "_matched_with_receipt": true,
+      "_match_score": 16
+    },
+    {
+      "nama_barang": "Galon, BBM KLX besar, BBM KLX Mini",
+      "jenis_tipe_barang": "BBM",
+      "spesifikasi_detail_barang": {
+        "detail": ""
+      },
+      "merk_barang": "",
+      "harga_barang": 66000.0,
+      "_page": 16,
+      "_matched_with_receipt": false,
+      "_source": "transaction_only",
+      "_date": "2024-10-22"
+    },
+    {
+      "nama_barang": "BBM KLX besar",
+      "jenis_tipe_barang": "BBM",
+      "spesifikasi_detail_barang": {
+        "detail": "besar, entertaint"
+      },
+      "merk_barang": "",
+      "harga_barang": 50000.0,
+      "_page": 17,
+      "_matched_with_receipt": false,
+      "_source": "transaction_only",
+      "_date": "2024-10-23"
+    },
+    {
+      "nama_barang": "BBM KLX Besar",
+      "jenis_tipe_barang": "Bahan Bakar Minyak",
+      "spesifikasi_detail_barang": {
+        "quantity": 2,
+        "original_keterangan": "BBM KLX, Entertaint",
+        "matched_keywords": [
+          "partial:'klx'",
+          "word:'klx'",
+          "kw:'klx'"
+        ]
+      },
+      "merk_barang": null,
+      "harga_barang": 12000,
+      "_page": 18,
+      "_date": "2024-10-24",
+      "_matched_with_receipt": true,
+      "_match_score": 18
+    },
+    {
+      "nama_barang": "BBM allion",
+      "jenis_tipe_barang": "Bahan Bakar Minyak",
+      "spesifikasi_detail_barang": {
+        "quantity": 1.5,
+        "original_keterangan": "Pulsa Listrik"
+      },
+      "merk_barang": null,
+      "harga_barang": 12000,
+      "_page": 18,
+      "_date": "2024-10-24",
+      "_matched_with_receipt": true,
+      "_assignment": "forced"
+    },
+    {
+      "nama_barang": "Galon",
+      "jenis_tipe_barang": "Air Minum",
+      "spesifikasi_detail_barang": {
+        "quantity": 5,
+        "original_keterangan": "Entertaint, Air Galon",
+        "matched_keywords": [
+          "partial:'air galon'",
+          "word:'galon'",
+          "kw:'galon'"
+        ]
+      },
+      "merk_barang": null,
+      "harga_barang": 6000,
+      "_page": 19,
+      "_date": "2024-10-25",
+      "_matched_with_receipt": true,
+      "_match_score": 21
+    },
+    {
+      "nama_barang": "",
+      "jenis_tipe_barang": "",
+      "spesifikasi_detail_barang": {
+        "detail": ""
+      },
+      "merk_barang": "",
+      "harga_barang": null,
+      "_page": 20,
+      "_matched_with_receipt": false,
+      "_source": "transaction_only",
+      "_date": "2024-10-26"
+    },
+    {
+      "nama_barang": "KLX Mini, KLX Besar",
+      "jenis_tipe_barang": "BBM",
+      "spesifikasi_detail_barang": {
+        "detail": ""
+      },
+      "merk_barang": "",
+      "harga_barang": 96000.0,
+      "_page": 20,
+      "_matched_with_receipt": false,
+      "_source": "transaction_only",
+      "_date": "2024-10-26"
+    },
+    {
+      "nama_barang": "Vibrator, Genset",
+      "jenis_tipe_barang": "Alkon",
+      "spesifikasi_detail_barang": {
+        "detail": ""
+      },
+      "merk_barang": "",
+      "harga_barang": 85000.0,
+      "_page": 21,
+      "_matched_with_receipt": false,
+      "_source": "transaction_only",
+      "_date": "2024-10-27"
+    },
+    {
+      "nama_barang": "Impeler Alkon",
+      "jenis_tipe_barang": "Alat Tulis",
+      "spesifikasi_detail_barang": {
+        "detail": ""
+      },
+      "merk_barang": "",
+      "harga_barang": 78000.0,
+      "_page": 21,
+      "_matched_with_receipt": false,
+      "_source": "transaction_only",
+      "_date": "2024-10-27"
+    },
+    {
+      "nama_barang": "Peralatan Cuci Motor",
+      "jenis_tipe_barang": "BBM",
+      "spesifikasi_detail_barang": {
+        "detail": ""
+      },
+      "merk_barang": "KLX",
+      "harga_barang": 101000.0,
+      "_page": 22,
+      "_matched_with_receipt": false,
+      "_source": "transaction_only",
+      "_date": "2024-10-28"
+    },
+    {
+      "nama_barang": "BBM Vibrator",
+      "jenis_tipe_barang": "Bahan Bakar Minyak",
+      "spesifikasi_detail_barang": {
+        "quantity": 2,
+        "original_keterangan": "BBM KLX Kecil, BBM Vibrator, Galon",
+        "matched_keywords": [
+          "exact:'bbm vibrator'",
+          "word:'bbm'",
+          "word:'vibrator'",
+          "bbm_match"
+        ]
+      },
+      "merk_barang": null,
+      "harga_barang": 12000,
+      "_page": 23,
+      "_date": "2024-10-29",
+      "_matched_with_receipt": true,
+      "_match_score": 41
+    },
+    {
+      "nama_barang": "Ban Truk",
+      "jenis_tipe_barang": "Sparepart",
+      "spesifikasi_detail_barang": {
+        "detail": ""
+      },
+      "merk_barang": "",
+      "harga_barang": 300000.0,
+      "_page": 24,
+      "_matched_with_receipt": false,
+      "_source": "transaction_only",
+      "_date": "2024-10-31"
+    },
+    {
+      "nama_barang": "Baut Roofing",
+      "jenis_tipe_barang": "Alat Bangunan",
+      "spesifikasi_detail_barang": {
+        "detail": ""
+      },
+      "merk_barang": "",
+      "harga_barang": 50000.0,
+      "_page": 24,
+      "_matched_with_receipt": false,
+      "_source": "transaction_only",
+      "_date": "2024-10-31"
+    },
+    {
+      "nama_barang": "Ban Dalam Swallow",
+      "jenis_tipe_barang": "Konsumsi",
+      "spesifikasi_detail_barang": {
+        "detail": ""
+      },
+      "merk_barang": "Swallow",
+      "harga_barang": 25000.0,
+      "_page": 24,
+      "_matched_with_receipt": false,
+      "_source": "transaction_only",
+      "_date": "2024-10-31"
+    },
+    {
+      "nama_barang": "Lem Aicha Aibon",
+      "jenis_tipe_barang": "Konsumsi",
+      "spesifikasi_detail_barang": {
+        "detail": ""
+      },
+      "merk_barang": "Aicha",
+      "harga_barang": 17000.0,
+      "_page": 24,
+      "_matched_with_receipt": false,
+      "_source": "transaction_only",
+      "_date": "2024-10-31"
+    }
+  ]
+}
